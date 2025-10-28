@@ -3,22 +3,19 @@ name: Fetch Daily AI News (Chinese Only)
 
 # 触发条件
 on:
-  # 允许手动触发
   workflow_dispatch:
-  
-  # 定时触发：每天 07:00 (UTC)
-  # 注意：GitHub Pages 所在的时区是 UTC，所以 07:00 UTC 对应
-  # 北京/上海时间 (UTC+8) 的下午 15:00。
-  # 如果你希望在北京时间早上7点运行，cron 应设置为 '23 0 * * *' (即前一天的 23:00 UTC)
-  # 我们这里暂时先用 '0 7 * * *' (UTC 7点)
   schedule:
-    - cron: '0 7 * * *'
+    - cron: '0 7 * * *' # 每天 07:00 (UTC)
 
 jobs:
   build-and-deploy:
-     runs-on: ubuntu-latest
-  permissions:
-     contents: write
+    runs-on: ubuntu-latest
+    
+    # --- 关键修改：添加在这里 ---
+    # 明确授予此任务(job)向仓库写入内容的权限
+    permissions:
+      contents: write
+    # --- 修改结束 ---
     
     steps:
       # 步骤1：检出代码
@@ -31,30 +28,25 @@ jobs:
         with:
           python-version: '3.10'
 
-      # 步骤3：安装依赖 (已简化)
-      # 只需要 'requests' 来发 API 请求
-      # 'PyYAML' 用于写入 Jekyll 数据文件
+      # 步骤3：安装依赖
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests PyYAML
 
       # 步骤4：运行 Python 脚本
-      # 注意：env 中只传入了 NEWS_API_KEY
       - name: Run script to fetch news
         run: python ./_scripts/fetch_news.py
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
 
-      # 步骤5：提交更改
-      # 脚本会生成 _data/news.yml，此步骤将其提交回仓库
+      # 步骤5：提交更改 (这一步现在应该有权限了)
       - name: Commit and push if changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add _data/news.yml # 追踪数据文件
+          git add _data/news.yml 
           
-          # 检查是否有文件变动
           if ! git diff --cached --quiet; then
             git commit -m "📰 [Bot] Update daily Chinese AI news"
             git push
