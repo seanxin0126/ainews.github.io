@@ -134,7 +134,7 @@ layout: default
         const weatherDescZh = data.current_condition[0].lang_zh[0].value;
 
         // 4. 将信息格式化并显示在页面上
-        weatherElement.textContent = `您所在的位置 ${location}, ${country} | ${weatherDescZh} ${tempC}°C`;
+        weatherElement.textContent = `${location}, ${country} | ${weatherDescZh} ${tempC}°C`;
       })
       .catch(error => {
         // 5. 如果 API 调用失败（例如网络问题或 API 宕机）
@@ -143,4 +143,5 @@ layout: default
       });
   });
 </script>
+
 
