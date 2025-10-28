@@ -16,7 +16,9 @@ on:
 
 jobs:
   build-and-deploy:
-    runs-on: ubuntu-latest
+     runs-on: ubuntu-latest
+  permissions:
+     contents: write
     
     steps:
       # 步骤1：检出代码
