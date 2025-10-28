@@ -3,7 +3,7 @@
 layout: default 
 ---
 
-<h1>全球每日AI资讯摘要</h1>
+<h1>每日AI资讯 (简体中文)</h1>
 
 <p id="weather-info" style="text-align: center; color: #555; font-size: 0.9em;">
   </p>
@@ -35,7 +35,7 @@ layout: default
 
 <style>
   body {
-    background-color: #f9f9ff;
+    background-color: #f9f9f9;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
@@ -106,41 +106,33 @@ layout: default
     
     const weatherElement = document.getElementById('weather-info');
 
-    // 1. 调用新的 GeoIP API (ipwho.is) 并请求中文
-    fetch('https://ipwho.is/?lang=zh-CN')
+    // 1. 只调用 wttr.in
+    // ?format=j1 表示我们需要 JSON 格式的数据
+    // wttr.in 会自动根据请求的 IP 地址返回当地天气
+    fetch('https://wttr.in/?format=j1')
       .then(response => {
-        if (!response.ok) throw new Error('地理位置服务响应失败');
-        return response.json();
-      })
-      .then(geoData => {
-        if (!geoData || geoData.success !== true || !geoData.city) {
-          throw new Error('无法解析地理位置');
+        // 检查请求是否成功
+        if (!response.ok) {
+          throw new Error('天气服务响应失败');
         }
-
-        // 2. 提取中文城市名 (例如 "上海")
-        const cityZh = geoData.city;
-
-        // 3. 使用这个中文城市名，去请求 wttr.in 的天气数据
-        return fetch(`https://wttr.in/${encodeURIComponent(cityZh)}?format=j1`);
-      })
-      .then(response => {
-        if (!response.ok) throw new Error('天气服务响应失败');
         return response.json();
       })
-      .then(weatherData => {
-        // 4. 从 wttr.in 数据中提取天气信息
-        const finalCityName = weatherData.nearest_area[0].areaName[0].value;
-        const tempC = weatherData.current_condition[0].temp_C;
-        const weatherDescZh = weatherData.current_condition[0].lang_zh[0].value;
+      .then(data => {
+        // 2. 从返回的 JSON 数据中提取我们需要的信息
+        
+        // 当前温度 (摄氏度)
+        const tempC = data.current_condition[0].temp_C;
+        // 天气描述 (中文!)
+        const weatherDescZh = data.current_condition[0].lang_zh[0].value;
 
-        // 5. 格式化输出
-        weatherElement.textContent = `${finalCityName} | ${weatherDescZh} ${tempC}°C`;
+        // 3. 将信息格式化并显示在页面上
+        // 按照你的要求，只显示天气和温度
+        weatherElement.textContent = `${weatherDescZh} ${tempC}°C`;
       })
       .catch(error => {
-        // 6. 捕获任何环节的错误
+        // 4. 如果 API 调用失败
         console.error('获取天气时出错:', error);
         weatherElement.textContent = '天气加载失败';
       });
   });
 </script>
-
