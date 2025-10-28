@@ -3,7 +3,7 @@
 layout: default 
 ---
 
-<h1>每日全球AI资讯</h1>
+<h1>全球每日AI资讯摘要</h1>
 
 <p id="weather-info" style="text-align: center; color: #555; font-size: 0.9em;">
   </p>
@@ -105,25 +105,36 @@ layout: default
   window.addEventListener('DOMContentLoaded', () => {
     
     const weatherElement = document.getElementById('weather-info');
+    let cityName = ''; // 用于存储城市名称
 
-    // 1. 调用 GeoIP API (ip-api.com) 获取中文位置信息
-    // 注意：必须使用 https，否则在 https 的 GitHub Pages 上会被阻止
-    fetch('https://ip-api.com/json/?lang=zh-CN')
+    // 1. 调用新的 GeoIP API (ip.data.ac)
+    fetch('https://ip.data.ac/json')
       .then(response => {
         if (!response.ok) throw new Error('地理位置服务响应失败');
         return response.json();
       })
       .then(geoData => {
-        if (geoData.status !== 'success') {
-          throw new Error('无法解析地理位置');
+        if (!geoData || !geoData.province_name) {
+          // 这个 API 有时会返回空，或者没有 'province_name'
+          // 我们尝试使用 'city' 字段
+          if (geoData && geoData.city) {
+            cityName = geoData.city;
+          } else {
+            throw new Error('无法解析地理位置');
+          }
+        } else {
+          // 'province_name' 字段通常是中文，例如 "上海市"
+          // 我们去掉 "市" 或 "省" 字
+          cityName = geoData.province_name.replace(/[省市]$/, '');
         }
 
-        // 2. 提取中文城市名 (例如 "上海")
-        const cityZh = geoData.city;
+        // 2. 检查我们是否拿到了城市名
+        if (!cityName) {
+          throw new Error('获取城市名称为空');
+        }
 
-        // 3. 使用这个中文城市名，去请求 wttr.in 的天气数据
-        // 我们必须对中文进行 URL 编码，例如 "上海" -> "%E4%B8%8A%E6%B5%B7"
-        return fetch(`https://wttr.in/${encodeURIComponent(cityZh)}?format=j1`);
+        // 3. 使用这个城市名（可能是中文或英文），去请求 wttr.in
+        return fetch(`https://wttr.in/${encodeURIComponent(cityName)}?format=j1`);
       })
       .then(response => {
         if (!response.ok) throw new Error('天气服务响应失败');
@@ -133,8 +144,7 @@ layout: default
         // 4. 从 wttr.in 数据中提取天气信息
         
         // 我们从 wttr.in 的 "nearest_area" 中获取标准化的中文城市名
-        // (这可能比 IP API 的更准确或更简洁)
-        // 例如，IP API 可能返回 "徐汇区"，而 wttr.in 会标准化为 "上海"
+        // 这样即使用户 IP 在 "徐汇区"，这里也会显示 "上海"
         const finalCityName = weatherData.nearest_area[0].areaName[0].value;
         const tempC = weatherData.current_condition[0].temp_C;
         const weatherDescZh = weatherData.current_condition[0].lang_zh[0].value;
@@ -143,7 +153,7 @@ layout: default
         weatherElement.textContent = `${finalCityName} | ${weatherDescZh} ${tempC}°C`;
       })
       .catch(error => {
-        // 6. 如果任何一个 API 失败，显示一个低调的错误
+        // 6. 捕获任何环节的错误
         console.error('获取天气时出错:', error);
         weatherElement.textContent = '天气加载失败';
       });
