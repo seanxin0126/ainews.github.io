@@ -3,8 +3,12 @@
 layout: default 
 ---
 
-<h1>每日AI资讯摘要</h1>
-<p>自动收集于 {{ "now" | date: "%Y-%m-%d %H:%M" }} (UTC)</p>
+<h1>每日AI资讯 (简体中文)</h1>
+
+<p id="weather-info" style="text-align: center; color: #555; font-size: 0.9em;">
+  正在获取您当地的天气...
+</p>
+
 
 <div class="news-container">
   
@@ -39,25 +43,22 @@ layout: default
     padding: 0 10px;
   }
   
-  h1, p.description {
+  h1 { 
     text-align: center;
   }
   
   p.description {
+    text-align: center;
     color: #888;
   }
 
   .news-container {
     display: grid;
-    /* * 响应式网格布局:
-     * 自动适应屏幕宽度，每张卡片最小 300px，最大 1fr (平分剩余空间)
-     * 在大屏上会显示 3 列，在手机上会自动变为 1 列
-     */
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 20px; /* 卡片间距 */
+    gap: 20px;
     padding: 20px;
-    max-width: 1200px; /* 限制最大宽度 */
-    margin: 0 auto; /* 居中 */
+    max-width: 1200px;
+    margin: 0 auto; 
   }
 
   .news-card {
@@ -67,8 +68,8 @@ layout: default
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     background-color: #ffffff;
     display: flex;
-    flex-direction: column; /* 垂直布局 */
-    justify-content: space-between; /* 让底部链接对齐到底部 */
+    flex-direction: column;
+    justify-content: space-between;
   }
 
   .news-card h3 {
@@ -80,13 +81,13 @@ layout: default
   .news-card p {
     font-size: 0.9em;
     color: #666;
-    flex-grow: 1; /* 让描述部分占据所有多余空间 */
+    flex-grow: 1;
   }
 
   .news-card footer {
-    margin-top: 15px; /* 与描述的间距 */
+    margin-top: 15px;
     font-size: 0.85em;
-    border-top: 1px solid #eee; /* 分隔线 */
+    border-top: 1px solid #eee;
     padding-top: 10px;
   }
 
@@ -99,5 +100,46 @@ layout: default
   .news-card a:hover {
     text-decoration: underline;
   }
-
 </style>
+
+<script>
+  // 当页面内容加载完毕后执行
+  window.addEventListener('DOMContentLoaded', () => {
+    
+    // 1. 找到那个 <p> 占位符
+    const weatherElement = document.getElementById('weather-info');
+
+    // 2. 使用 fetch API 调用 wttr.in
+    // ?format=j1 表示我们需要 JSON 格式的数据
+    // wttr.in 会自动根据请求的 IP 地址返回当地天气
+    fetch('https://wttr.in/?format=j1')
+      .then(response => {
+        // 检查请求是否成功
+        if (!response.ok) {
+          throw new Error('天气服务响应失败');
+        }
+        return response.json();
+      })
+      .then(data => {
+        // 3. 从返回的 JSON 数据中提取我们需要的信息
+        
+        // 位置 (例如 "Beijing")
+        const location = data.nearest_area[0].areaName[0].value;
+        // 国家 (例如 "China")
+        const country = data.nearest_area[0].country[0].value;
+        // 当前温度 (摄氏度)
+        const tempC = data.current_condition[0].temp_C;
+        // 天气描述 (中文!)
+        // wttr.in 很贴心地提供了 lang_zh 字段
+        const weatherDescZh = data.current_condition[0].lang_zh[0].value;
+
+        // 4. 将信息格式化并显示在页面上
+        weatherElement.textContent = `您所在的位置 ${location}, ${country} | ${weatherDescZh} ${tempC}°C`;
+      })
+      .catch(error => {
+        // 5. 如果 API 调用失败（例如网络问题或 API 宕机）
+        console.error('获取天气时出错:', error);
+        weatherElement.textContent = '无法加载您当地的天气';
+      });
+  });
+</script>
