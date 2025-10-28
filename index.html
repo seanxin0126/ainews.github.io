@@ -35,7 +35,7 @@ layout: default
 
 <style>
   body {
-    background-color: #f9f9f9;
+    background-color: #f9f9ff;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
@@ -105,36 +105,23 @@ layout: default
   window.addEventListener('DOMContentLoaded', () => {
     
     const weatherElement = document.getElementById('weather-info');
-    let cityName = ''; // 用于存储城市名称
 
-    // 1. 调用新的 GeoIP API (ip.data.ac)
-    fetch('https://ip.data.ac/json')
+    // 1. 调用新的 GeoIP API (ipwho.is) 并请求中文
+    fetch('https://ipwho.is/?lang=zh-CN')
       .then(response => {
         if (!response.ok) throw new Error('地理位置服务响应失败');
         return response.json();
       })
       .then(geoData => {
-        if (!geoData || !geoData.province_name) {
-          // 这个 API 有时会返回空，或者没有 'province_name'
-          // 我们尝试使用 'city' 字段
-          if (geoData && geoData.city) {
-            cityName = geoData.city;
-          } else {
-            throw new Error('无法解析地理位置');
-          }
-        } else {
-          // 'province_name' 字段通常是中文，例如 "上海市"
-          // 我们去掉 "市" 或 "省" 字
-          cityName = geoData.province_name.replace(/[省市]$/, '');
+        if (!geoData || geoData.success !== true || !geoData.city) {
+          throw new Error('无法解析地理位置');
         }
 
-        // 2. 检查我们是否拿到了城市名
-        if (!cityName) {
-          throw new Error('获取城市名称为空');
-        }
+        // 2. 提取中文城市名 (例如 "上海")
+        const cityZh = geoData.city;
 
-        // 3. 使用这个城市名（可能是中文或英文），去请求 wttr.in
-        return fetch(`https://wttr.in/${encodeURIComponent(cityName)}?format=j1`);
+        // 3. 使用这个中文城市名，去请求 wttr.in 的天气数据
+        return fetch(`https://wttr.in/${encodeURIComponent(cityZh)}?format=j1`);
       })
       .then(response => {
         if (!response.ok) throw new Error('天气服务响应失败');
@@ -142,14 +129,11 @@ layout: default
       })
       .then(weatherData => {
         // 4. 从 wttr.in 数据中提取天气信息
-        
-        // 我们从 wttr.in 的 "nearest_area" 中获取标准化的中文城市名
-        // 这样即使用户 IP 在 "徐汇区"，这里也会显示 "上海"
         const finalCityName = weatherData.nearest_area[0].areaName[0].value;
         const tempC = weatherData.current_condition[0].temp_C;
         const weatherDescZh = weatherData.current_condition[0].lang_zh[0].value;
 
-        // 5. 格式化输出 (仅城市 | 天气 气温)
+        // 5. 格式化输出
         weatherElement.textContent = `${finalCityName} | ${weatherDescZh} ${tempC}°C`;
       })
       .catch(error => {
