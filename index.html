@@ -1,0 +1,102 @@
+---
+# 告诉 Jekyll 使用我们创建的 'default' 布局
+layout: default 
+---
+
+<h1>每日AI资讯 (简体中文)</h1>
+<p>自动收集于 {{ "now" | date: "%Y-%m-%d %H:%M" }} (UTC)</p>
+
+<div class="news-container">
+  
+  {% for article in site.data.news %}
+    
+    <div class="news-card">
+      <h3>{{ article.title }}</h3>
+      
+      {% if article.description %}
+        <p>{{ article.description }}</p>
+      {% endif %}
+      
+      <footer>
+        <a href="{{ article.url }}" target="_blank" rel="noopener noreferrer">
+          阅读原文 (来源: {{ article.source }})
+        </a>
+      </footer>
+    </div>
+    
+  {% else %}
+    <p>今天还没有资讯，请稍后再来。</p>
+  {% endfor %}
+  
+</div>
+
+<style>
+  body {
+    background-color: #f9f9f9;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0 10px;
+  }
+  
+  h1, p.description {
+    text-align: center;
+  }
+  
+  p.description {
+    color: #888;
+  }
+
+  .news-container {
+    display: grid;
+    /* * 响应式网格布局:
+     * 自动适应屏幕宽度，每张卡片最小 300px，最大 1fr (平分剩余空间)
+     * 在大屏上会显示 3 列，在手机上会自动变为 1 列
+     */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px; /* 卡片间距 */
+    padding: 20px;
+    max-width: 1200px; /* 限制最大宽度 */
+    margin: 0 auto; /* 居中 */
+  }
+
+  .news-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column; /* 垂直布局 */
+    justify-content: space-between; /* 让底部链接对齐到底部 */
+  }
+
+  .news-card h3 {
+    margin-top: 0;
+    font-size: 1.2em;
+    color: #333;
+  }
+
+  .news-card p {
+    font-size: 0.9em;
+    color: #666;
+    flex-grow: 1; /* 让描述部分占据所有多余空间 */
+  }
+
+  .news-card footer {
+    margin-top: 15px; /* 与描述的间距 */
+    font-size: 0.85em;
+    border-top: 1px solid #eee; /* 分隔线 */
+    padding-top: 10px;
+  }
+
+  .news-card a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .news-card a:hover {
+    text-decoration: underline;
+  }
+</style>
