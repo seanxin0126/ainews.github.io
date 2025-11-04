@@ -33,18 +33,7 @@ layout: default
     <p>今天还没有资讯，请稍后再来。</p>
   {% endfor %}
   
-</div> <div class="cta-box">
-  <h2>预览结束</h2>
-  <p>您正在查看 5 条免费预览。订阅我们的付费版，获取完整的 <strong>每日 15 条</strong> 高相关性 AI 趋势分析报告。</p>
-  
-  <a href="https://your-publication.substack.com/subscribe" class="cta-button-subscribe" target="_blank" rel="noopener noreferrer">
-    立即订阅 (￥XX/月)
-  </a>
-</div>
-
-
-<div class="donation-container">
-  <p style="margin-bottom: 10px; color: #666;">或...</p>
+</div> <div class="donation-container">
   
   <a href="https://afdian.net/@your-id" class="cta-button-donation" target="_blank" rel="noopener noreferrer">
     ⚡ 在 "爱发电" 上赞助我
@@ -77,14 +66,14 @@ layout: default
     margin: 0; 
   }
   
-  /* 新闻卡片 (保持不变) */
+  /* 新闻卡片 */
   .news-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 20px;
     padding: 20px;
     max-width: 1400px;
-    margin: 0 auto; 
+    margin: 0 auto;
   }
   .news-card {
     border: 1px solid #ddd;
@@ -102,33 +91,11 @@ layout: default
   .news-card a { color: #007bff; text-decoration: none; font-weight: bold; }
   .news-card a:hover { text-decoration: underline; }
 
-  /* 模式三：付费订阅 CTA 框样式 */
-  .cta-box {
-    background-color: #fff8e1; 
-    border: 2px solid #ffc107;
-    border-radius: 8px;
-    padding: 24px;
-    text-align: center;
-    margin: 30px auto; /* 顶部间距 */
-    max-width: 800px;
-  }
-  .cta-box h2 { margin-top: 0; color: #333; }
-  .cta-box p { color: #555; }
-  .cta-button-subscribe {
-    background-color: #007bff; /* 蓝色，主按钮 */
-    color: white;
-    padding: 12px 24px;
-    text-decoration: none;
-    border-radius: 5px;
-    font-weight: bold;
-    font-size: 1.1em;
-  }
-  .cta-button-subscribe:hover { background-color: #0056b3; }
-
-  /* 模式二：爱发电打赏按钮样式 */
+  /* 模式二：爱发电打赏按钮样式 (已重新添加) */
   .donation-container {
     text-align: center;
-    margin: 0 auto 40px auto; /* 底部间距 */
+    /* 顶部 20px 间距 (与新闻卡片隔开), 底部 40px 间距 */
+    margin: 20px auto 40px auto; 
   }
   .cta-button-donation {
     display: inline-block;
