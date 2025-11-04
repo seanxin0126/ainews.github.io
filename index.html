@@ -3,11 +3,13 @@
 layout: default 
 ---
 
-<h1>全球AI资讯摘要</h1>
+<div class="header-container">
+  <img src="assets/logo.png" alt="博客Logo" class="header-logo">
+  <h1>全球AI资讯摘要</h1>
+</div>
 
 <p id="weather-info" style="text-align: center; color: #555; font-size: 0.9em;">
   </p>
-
 
 <div class="news-container">
   
@@ -31,7 +33,24 @@ layout: default
     <p>今天还没有资讯，请稍后再来。</p>
   {% endfor %}
   
+</div> <div class="cta-box">
+  <h2>预览结束</h2>
+  <p>您正在查看 5 条免费预览。订阅我们的付费版，获取完整的 <strong>每日 15 条</strong> 高相关性 AI 趋势分析报告。</p>
+  
+  <a href="https://your-publication.substack.com/subscribe" class="cta-button-subscribe" target="_blank" rel="noopener noreferrer">
+    立即订阅 (￥XX/月)
+  </a>
 </div>
+
+
+<div class="donation-container">
+  <p style="margin-bottom: 10px; color: #666;">或...</p>
+  
+  <a href="https://afdian.net/@your-id" class="cta-button-donation" target="_blank" rel="noopener noreferrer">
+    ⚡ 在 "爱发电" 上赞助我
+  </a>
+</div>
+
 
 <style>
   body {
@@ -42,24 +61,31 @@ layout: default
     padding: 0 10px;
   }
   
-  h1 { 
-    text-align: center;
+  /* 顶部 Logo 和 标题 */
+  .header-container {
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    margin-top: 20px;
+  }
+  .header-logo {
+    height: 50px; 
+    width: auto; 
+    margin-right: 15px; 
+  }
+  .header-container h1 {
+    margin: 0; 
   }
   
-  p.description {
-    text-align: center;
-    color: #888;
-  }
-
+  /* 新闻卡片 (保持不变) */
   .news-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 20px;
     padding: 20px;
-    max-width: 1200px;
+    max-width: 1400px;
     margin: 0 auto; 
   }
-
   .news-card {
     border: 1px solid #ddd;
     border-radius: 8px;
@@ -70,35 +96,52 @@ layout: default
     flex-direction: column;
     justify-content: space-between;
   }
+  .news-card h3 { margin-top: 0; font-size: 1.2em; color: #333; }
+  .news-card p { font-size: 0.9em; color: #666; flex-grow: 1; }
+  .news-card footer { margin-top: 15px; font-size: 0.85em; border-top: 1px solid #eee; padding-top: 10px; }
+  .news-card a { color: #007bff; text-decoration: none; font-weight: bold; }
+  .news-card a:hover { text-decoration: underline; }
 
-  .news-card h3 {
-    margin-top: 0;
-    font-size: 1.2em;
-    color: #333;
+  /* 模式三：付费订阅 CTA 框样式 */
+  .cta-box {
+    background-color: #fff8e1; 
+    border: 2px solid #ffc107;
+    border-radius: 8px;
+    padding: 24px;
+    text-align: center;
+    margin: 30px auto; /* 顶部间距 */
+    max-width: 800px;
   }
-
-  .news-card p {
-    font-size: 0.9em;
-    color: #666;
-    flex-grow: 1;
-  }
-
-  .news-card footer {
-    margin-top: 15px;
-    font-size: 0.85em;
-    border-top: 1px solid #eee;
-    padding-top: 10px;
-  }
-
-  .news-card a {
-    color: #007bff;
+  .cta-box h2 { margin-top: 0; color: #333; }
+  .cta-box p { color: #555; }
+  .cta-button-subscribe {
+    background-color: #007bff; /* 蓝色，主按钮 */
+    color: white;
+    padding: 12px 24px;
     text-decoration: none;
+    border-radius: 5px;
     font-weight: bold;
+    font-size: 1.1em;
   }
+  .cta-button-subscribe:hover { background-color: #0056b3; }
+
+  /* 模式二：爱发电打赏按钮样式 */
+  .donation-container {
+    text-align: center;
+    margin: 0 auto 40px auto; /* 底部间距 */
+  }
+  .cta-button-donation {
+    display: inline-block;
+    background-color: #946CE6; /* 爱发电的品牌紫色 */
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 1em;
+  }
+  .cta-button-donation:hover { background-color: #7d56c2; }
   
-  .news-card a:hover {
-    text-decoration: underline;
-  }
 </style>
 
 <script>
@@ -106,34 +149,21 @@ layout: default
     
     const weatherElement = document.getElementById('weather-info');
 
-    // 1. 只调用 wttr.in
-    // ?format=j1 表示我们需要 JSON 格式的数据
-    // wttr.in 会自动根据请求的 IP 地址返回当地天气
     fetch('https://wttr.in/?format=j1')
       .then(response => {
-        // 检查请求是否成功
         if (!response.ok) {
           throw new Error('天气服务响应失败');
         }
         return response.json();
       })
       .then(data => {
-        // 2. 从返回的 JSON 数据中提取我们需要的信息
-        
-        // 当前温度 (摄氏度)
         const tempC = data.current_condition[0].temp_C;
-        // 天气描述 (中文!)
         const weatherDescZh = data.current_condition[0].lang_zh[0].value;
-
-        // 3. 将信息格式化并显示在页面上
-        // 按照你的要求，只显示天气和温度
         weatherElement.textContent = `${weatherDescZh} ${tempC}°C`;
       })
       .catch(error => {
-        // 4. 如果 API 调用失败
         console.error('获取天气时出错:', error);
         weatherElement.textContent = '天气加载失败';
       });
   });
 </script>
-
