@@ -1,107 +1,72 @@
-- title: 36氪晚报｜诺基亚与意大利电信达成三年期5G合作协议；地瓜机器人与傅利叶达成深度战略合作；阿里国际站面向全球市场推出AI Mode
-  description: "大公司：\n 盒马前CEO侯毅创业“派特鲜生”大规模闭店后，将推新品牌“宠天天”自救\n 据媒体报道，近日，盒马创始人、前CEO侯毅打造的宠物鲜食品牌“派特鲜生”出现大规模闭店。在“派特鲜生”陷入大规模闭店后，从派特鲜生内部人士处获悉，“派特鲜生将会推出线上新品牌‘宠天天’，（渠道为）小程序\
-    \ +电商平台，预计月底开，还在前期准备。”对此向派特鲜生官方进行求证，对方表示，“属实，宠天天确实是派特鲜生旗下品牌。”但关于新品牌“宠天天”具体规划与细节，对方未给出正式回应。（新浪科技）\n\
-    \ 诺基亚与意大利电信达成三年期5G合作…"
-  url: https://36kr.com/p/3556967298890627
+- title: 亚马逊三年来首次发债，融资150亿美元推动AI发展
+  description: 亚马逊周一向美国证券交易委员会提交的一份文件显示，亚马逊将进行三年来首次的美元债券发行，融资150亿美元。多家大型科技公司正转向发行数百亿美元的债券，为AI基础设施扩张提供资金。亚马逊周一申请发行由六个部分组成的债券。所得资金可用于从收购、资本支出到股票回购等用途。（新浪财经）
+  url: https://36kr.com/newsflashes/3557807265069960
   source: 36kr.com
-- title: 岱美股份：拟1亿元设机器人子公司
-  description: 36氪获悉，岱美股份发布公告，公司拟使用1亿元在上海投资设立全资子公司上海岱美机器人科技有限公司（简称“岱美科技”），经营范围为一般项目：智能机器人、工业机器人、服务机器人及配件、自动化设备的研发、制造和销售；智能装备领域的制造、技术开发及相关咨询服务；货物进出口；技术进出口。公司目前机器人相关业务尚处于初期技术开发准备阶段，存在开发不成功的风险，存在开发不及预期的情况；机器人产业链还没有形成规模效益，存在产业发展不及预期的情况。
-  url: https://36kr.com/newsflashes/3556914465176455
+- title: 谷歌发布Gemini 3，与OpenAI竞争持续升级
+  description: 随着搜索引擎巨头谷歌加紧步伐以跟上ChatGPT开发商OpenAI的节奏，该公司正式推出了最新人工智能模型Gemini 3。谷歌母公司Alphabet首席执行官孙达尔・皮查伊（Sundar
+    Pichai）在谷歌周二发布的多篇博客文章中表示，这款新的人工智能模型能让用户在解答更复杂问题时获得更优答案，“无需过多提示词，就能得到你需要的结果”。（新浪财经）
+  url: https://36kr.com/newsflashes/3559174324550537
   source: 36kr.com
-- title: AWS 挑戰輝達霸權！380 億美元聯手 OpenAI，自研晶片能否突圍
-  description: 隨著人工智慧（AI）的迅速普及，雲端產業的競爭格局正在發生顯著變化。美國科技巨頭正投入巨額資金建設資料中心，將 AI 計算基礎設施視為未來的主要戰場。在這個背景下，全球最大的雲端服務提供商之一──亞馬遜網路服務（AWS）正面臨著新的挑戰與機遇。
-    近日，AWS高層主管分享了該公司在AI半導體領域的戰略...
-  url: https://technews.tw/2025/11/17/aws-openai-chip/
-  source: Technews.tw
-- title: 刚刚，阿里千问 APP 开启公测，要做中国版ChatGPT | 附实测
-  description: 'C 端 AI 大战升级。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-    爱范儿 |
-
-    原文链接 ·
-
-    查看评论 ·
-
-    新浪微博'
-  url: https://www.ifanr.com/1644759
-  source: Ifanr.com
-- title: 台積電 3 奈米產能供不應求！NVIDIA 等 AI 大廠搶單加價，2026 年產能滿載，毛利率創新高上看 60%
-  description: 'AI 晶片需求激增，台積電 3nm 製程產能告急！客戶搶單加價，凸顯台積電 3nm 製程的關鍵地位，毛利率有望再創新高。台積電先進製程再次成為全球半導體焦點。隨著
-    AI 晶片需求爆發，尤其以 NVIDIA 為代表的大型科技公司對 3nm 製程搶單激烈，導致整體產能嚴重吃緊。有客戶甚至願意支付高出原價 50% 到 100%
-    的價格來加速出貨，讓台積電毛利率有望突破 60%，再創歷史新高。
-
-     
-
-    <ul>
-
-    <li>延伸閱讀：高通撐不住台積電漲價，CEO 證實：將採用三星 2nm 製程代工部分晶片</li>
-
-    </ul>
-
-    …'
-  url: https://www.techbang.com/posts/126498-tsmc-3nm-capacity-tight-ai-giants-bid-double
-  source: Techbang.com
-- title: 英伟达扇扇翅膀，2026年中国手机要涨价
-  description: "文｜邱晓芬\n 编辑｜苏建勋\n 谁能想到，黄仁勋在韩国的一顿饭，全球几亿智能手机消费者的钱包，要在2026年“失血”。\n 10月末，英伟达创始人黄仁勋约了三星电子会长李在镕，在首尔一家小店里吃炸鸡、喝啤酒。这家店名为“Kkanbu\
-    \ Chicken”，在韩语里有“亲密朋友”的意思。\n 饭桌上，黄仁勋特意送上英伟达DGX的礼盒，并亲笔写下“致我们的合作和世界的未来”。韩国媒体披露，黄仁勋此行意在巩固与三星的关系，锁定三星的HBM存储产能。\n\
-    \ 李在镕和黄仁勋谈笑间，中国手机大厂的供应链要难受了。11月初，大家收到消息：2…"
-  url: https://36kr.com/p/3556645509315716
+- title: 前 Intel CEO Pat Gelsinger 率 7 家新創公司訪台 攜手台積電、日月光共謀次世代運算合作
+  description: 前 Intel CEO Pat Gelsinger 率領七家新創公司訪台，尋求與台積電、日月光等大廠建立生態系夥伴關係。矽谷深科技創投
+    Playground Global 今日 (11/18) 於台北舉辦記者會，由合夥人、前 Intel 執行長 Pat Gelsinger 與 Peter Barrett
+    親自領軍，攜手旗下 7 家專注於次世代運算 (Next-gen Computing) 的投資組合公司，宣布多項技術突破與在地策略合作，旨在藉助台灣完整的半導體生態系，加速深科技創新落地與規模化。Pat
+    Gelsi…
+  url: https://www.cool3c.com/article/244516
+  source: Cool3c.com
+- title: Kimi K2 Thinking被Perplexity接入，系接入的唯一国产模型
+  description: 36氪获悉，月之暗面日前发布的Kimi K2 Thinking模型被AI搜索应用Perplexity接入，成为唯一被接入的国产模型，同批被接入的还有OpenAI刚发布的GPT-5.1。根据最新公开数据，Perplexity拥有3000万月活跃用户，估值突破200亿美元，是全球估值最高的AI搜索应用。
+  url: https://36kr.com/newsflashes/3558062555200649
   source: 36kr.com
-- title: 大疆前激光雷达业务负责人洪小平创业，他说想用科技重塑出行尊严｜36氪专访
-  description: "作者 | 张子怡\n 编辑 | 袁斯来\n 洪小平离开南方科技大学决定创业，是2023年。\n 那是创投的低谷。全球初创企业投资额较2022年下降了38%，投资人和创业者都在观望。\n\
-    \ 但新的火星点燃了。ChatGPT已经出现，人工智能展现出前所未有的进化速度。洪小平在学界，仍然能感知到环境的急剧升温。\n 他当时是南科大的助理教授，生活相当稳定体面。当说服家人支持自己创业时，他告诉太太：“这件事不做，我一定会后悔。”\n\
-    \ 如果回溯洪小平的经历，会发现他的选择并不让人意外。在加州大学伯克利分校他拿到博士学位后，担任博士后研究…"
-  url: https://36kr.com/p/3556597847899266
+- title: 美股“七巨头”承压，港股科企AI投入节奏受关注
+  description: 当前，美股科技巨头对AI的持续高投入面临估值压力。在海外市场对AI泡沫争论不断之际，港股互联网公司的AI发展节奏成为投资者关注的焦点。机构人士认为，科技股短期波动或加剧，不过恒生科技指数的估值目前仍处于偏低区间，港股科技板块的业绩表现与研发力度或将影响其后续走势。（中证报）
+  url: https://36kr.com/newsflashes/3559225619643529
   source: 36kr.com
-- title: 早报｜曝iPhone换代周期大改：或一年发布 6 款新机/雷军连发多条微博回应质疑/Android 微信更新聊天备份至 U 盘
-  description: '· 北京 6G 实验室多项进展公布
-
-    · 零跑提前完成本年销量目标
-
-    · Reno 15 系列今日发布#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-    爱范儿 |
-
-    原文链接 ·
-
-    查看评论 ·
-
-    新浪微博'
-  url: https://www.ifanr.com/1644719
-  source: Ifanr.com
-- title: 正面连接｜谁在给你的脑子“投毒”？
-  description: 不仅仅是中国，在美国，在世界范围内，左派右派、保守派和进步派的割裂越来越严重。过去中国有一句老话，“摆事实，讲道理。”健康的公共讨论，事实在道理之前。而在现在的社交平台，大家爱说的一句话是：“抛开事实不谈......”，很多人认为事实不重要，或者根本就没有事实，重要的是立场。
-  url: https://chinadigitaltimes.net/chinese/722682.html
-  source: Chinadigitaltimes.net
-- title: 大湾区国际创客峰会暨Maker Faire Shenzhen 2025在深举办|最前线
-  description: "11月15日，以“AI无界·万物新生”为主题的大湾区国际创客峰会暨Maker Faire Shenzhen 2025在深圳南山万科云城设计公社举办。\n\
-    \ 2012年，柴火创客空间将Maker Faire活动引进深圳，今年是Maker Faire Shenzhen的第14年。\n \n 各路企业、学者、创客参加大会\n\
-    \ 峰会包含2场创新论坛、1场创客超进化现场、145个前沿科技应用展示、29场产业创新和互动体验工作坊。活动集结了全球30多个国家的技术领袖、创客先锋、产业专家与高校团队，集中展示了AI技术在智能制造、智慧农业…"
-  url: https://36kr.com/p/3556872474967177
+- title: 美银称AI有助提高员工生产率，带来更多收入
+  description: 美国银行首席技术和信息官哈里·戈帕克里希南周一表示，该行计划在人工智能等技术上投入数十亿美元，以提高员工的生产率，并带来更多收入。美国银行本月早些时候告诉投资者，该公司计划从130亿美元的技术预算中拨出40亿美元用于新技术能力。该行计划在所有业务中更广泛地使用人工智能。（新浪财经）
+  url: https://36kr.com/newsflashes/3557862777666441
   source: 36kr.com
-- title: 是时候清仓“英伟达”了吗？
-  description: "“透视图”是36氪新推出的轻量化数据图文栏目——以数据透视趋势，以图片呈现要点。\r\n\n \"Talk is Cheap. Show\
-    \ me the data.\"\r\n\n \n 作者丨范亮\n 近期，AI板块利空不断。“大空头”原型Michael Burry三季度大举做空AI巨头Palantir和英伟达，与此同时，软银也宣布已清仓英伟达，转而投资OpenAI。\n\
-    \ \n 36氪制图\n 这些行为加剧了市场对AI泡沫的担忧。数据显示，英伟达的市值急剧膨胀，其占美股总市值的比例已达历史高位，市值与美国名义GDP的比值，更是显著超越了互…"
-  url: https://36kr.com/p/3556543940443016
+- title: 资管巨头操作现分歧，海外AI泡沫之辩白热化
+  description: 随着美国13F报告陆续披露，资管巨头在“AI龙头”英伟达上的操作呈现显著分化，一场围绕人工智能前景的多空博弈正在激烈进行。站在当前时点，AI泡沫之辩日趋激烈。部分机构表示，海外AI概念股估值过高且出现了循环融资等风险，已形成明显泡沫；也有观点认为，科技企业盈利稳健且资本开支意愿强劲，当前海外AI板块尚未进入典型的泡沫状态。（上证报）
+  url: https://36kr.com/newsflashes/3557853778672768
   source: 36kr.com
-- title: 年末最熱 AI 論壇！INSIDE 真的把 OpenAI 科學傳播官、Manus AI 共同創辦人請來了！【塞掐 Side Chat】
-  description: AI Agent 為繼 LLM 後的新浪潮，能自主完成複雜任務。INSIDE 論壇邀集 OpenAI 與 Manus 等頂尖團隊，深入剖析通用代理人的產品策略與未來趨勢，並探討在地化應用的資安挑戰。
-  url: https://www.inside.com.tw/feature/side-chat/40072-side-chat-future-day-openai-manusai
-  source: Inside.com.tw
-- title: 库克被曝最早明年让位CEO，“苹果AI已落后同行2年”
-  description: 掌权苹果14年的库克，正在进入退休倒计时！ 金融时报最新爆料，这家公司正在加快其CEO换届步伐—— 现任CEO库克最早将于明年退休，而最有可能接棒的人是John
-    Ternus（苹果现任硬件工程高级副总…
-  url: https://www.bohaishibei.com/post/104815/
+- title: 阿里巴巴發表千問 App 搭載 Qwen3- Max 模型 宣稱全球效能排名前三 對標 ChatGPT 5.1
+  description: Mash Yang發佈阿里巴巴發表千問 App 搭載 Qwen3- Max 模型 宣稱全球效能排名前三 對標 ChatGPT 5.1，最新資訊於2025-11-18
+    13:01：阿里巴巴推出「千問」App，內建 Qwen3-Max 模型，全功能免費。其核心為整合阿里旗下電商、支付、出行等服務，打造一...#(244502)
+  url: https://www.cool3c.com/article/244502
+  source: Cool3c.com
+- title: 面包，比主义重要
+  description: '@李楠或kkk:我承认中国的产能过剩是一个真实的问题。。。 但是，看看 AI 模型的竞争你会发现。。。中国正是因为又重复了产能过剩的老路，所以，竟然开始取得优势。
+    在向 Andreessen Horo…'
+  url: https://www.bohaishibei.com/post/104846/
   source: Bohaishibei.com
-- title: “千问”正式上线，阿里要认真做一款AI应用了
-  description: "文｜邓咏仪\n 编辑｜苏建勋\n 《智能涌现》获悉，11月17日，阿里巴巴正式宣布“千问”项目，千问APP公测版已上线。\n 阿里将此举视为“AI时代的未来之战”，要用最先进的模型，打造“会聊天能办事的个人AI助手”，战略目标是打造未来的AI生活入口。\n\
-    \ 这也是阿里全力进军AI To C市场，统一AI To C品牌的最新举措。\n 上周，阿里已经悄悄更新了对“千问”App的相关描述。在App Store，“千问”定位为“阿里最强大模型官方AI助手”，具备对话问答、智能写作以及多模态的全能相机功能。\n\
-    \ \n △来源：App …"
-  url: https://36kr.com/p/3556545531771779
+- title: 谷歌在全球推出人工智能“航班优惠”工具
+  description: 谷歌于周一宣布，将在搜索功能中推出全新人工智能驱动的旅行预订与规划特性。这家科技巨头不仅在扩大其人工智能 “航班优惠”（Flight
+    Deals）工具的覆盖范围，还为人工智能模式下的 “画布”（Canvas）工具新增旅行计划整理功能，并向更多用户开放智能代理预订能力。（新浪财经）
+  url: https://36kr.com/newsflashes/3557813850930308
   source: 36kr.com
-- title: 阿里千問 App 公測版上線，進軍 AI to C 市場
-  description: 綜合港媒及中媒報導，阿里巴巴 17 日正式宣布「千問」項目，全力進軍人工智慧（AI）to C 市場。千問 App 公測版上線，與 ChatGPT
-    展開全面競爭，未來計劃將地圖、外賣、訂票、辦公、學習、購物、健康等各類生活場景接入千問 App，令其具備更強大的能力。 千問App是阿里巴巴旗下最新推出的...
-  url: https://technews.tw/2025/11/17/qwen-app-launches-its-public-beta/
-  source: Technews.tw
+- title: 特斯拉車隊變身AI資料中心？馬斯克再提分散式運算新概念
+  description: '特斯拉車隊或成資料中心？馬斯克重申其可行性，皆因其強大的AI推論晶片。透過分散式運算，特斯拉將轉型為AI與機器人公司，令人期待特斯拉的未來發展。特斯拉執行長伊隆·馬斯克（Elon
+    Musk）近日再度重申，他深信特斯拉龐大的電動車隊，能夠轉型為一個分散式資料中心。這個大膽的想法並非空穴來風，而是基於特斯拉車輛所搭載的高效能AI推論晶片，讓每一輛車在閒置時，都能成為強大的AI處理節點，共同組成一個遍布全球的AI運算網路。
+
+    這個概念最早在特斯拉第三季的財報電話會議上被提出，當時馬斯克就已暗示，特斯拉車輛具備成為分散式運…'
+  url: https://www.techbang.com/posts/126279-elon-musk-tesla-fleet-distributed-ai-data-center
+  source: Techbang.com
+- title: 跟進 AI 投資潮！亞馬遜發債籌資 150 億美元
+  description: 為挹注 AI 基礎設施等資本支出，亞馬遜發行 150 億美元債券。此舉呼應大型科技公司為 AI 競賽擴大籌資的趨勢，以因應激增的運算需求。
+  url: https://www.inside.com.tw/article/40075-amazon-raises-15-billion-through-bond-issuance
+  source: Inside.com.tw
+- title: 蚂蚁旗下OceanBase发布首款AI数据库，IPO“正常准备中”
+  description: 11月18日，在2025OceanBase年度发布会的媒体沟通会上，CEO杨冰回应公司上市计划时说道：“我们在正常准备过程当中，我认为是水到渠成的过程。”（澎湃）
+  url: https://36kr.com/newsflashes/3558451488406402
+  source: 36kr.com
+- title: 【中国外務省】日中関係悪化は高市氏に責任と名指しで非難…
+  description: "1 名前：BFU ★：2025/11/18(火) 16:47:45.28 ID:lglvND+D9.net\n\n\n\n\n\n\n\
+    \n【速報】日中関係悪化は高市氏に責任と名指しで非難https://t.co/f3YFxk3dRn— 47NEWS (@47news_official) November\
+    \ 18, 2025 \n\n\n\n\n\n\n中国外務省の毛寧報道局長は18日の記者会見で、日中関係の悪化..."
+  url: https://itainews.com/archives/2055401.html
+  source: Itainews.com
+- title: AI数据中心使美国电网承压，监管机构考虑提高电价
+  description: 美国能源和公用事业控股企业PPL公司（PPL）和多米尼能源（D）等公用事业公司因与AI数据中心相关的激进负荷预测面临质疑。美国监管机构正在考虑实施“大负荷”电价，因主要市场电费上涨。（新浪财经）
+  url: https://36kr.com/newsflashes/3559204805245831
+  source: 36kr.com
