@@ -1,93 +1,71 @@
-- title: 微软开始向Windows 11系统的Copilot提供GPT 5.1模型
-  description: "微软近日启动了对 Windows 11 Copilot 的重要升级，开始分阶段向用户推送基于 GPT‑5.1 的新模型能力。据介绍，本次更新通过服务器端直接下发，不需要用户手动更新系统或应用，使用桌面侧边栏\
-    \ Copilot 的 Windows 11 用户将陆续看到回答质量和推理深度的提升，其中部分原本只在付费服务中提供的“深度思考”类功能，也会以“智能”“深度思考”等模式形式向免费用户开放。\r\
-    \n微软此次不仅替换了底层模型，还继续强化了 Copilot 作为 Windows 核心入口的定位。用户在桌面上呼出 Cop…"
-  url: https://www.cnbeta.com.tw/articles/tech/1538554.htm
-  source: Cnbeta.com.tw
-- title: AI行情助Google股价创新高 创始人布林捐赠超70亿
-  description: "11月29日，据彭博社报道，Google联合创始人谢尔盖·布林(Sergey Brin)本周捐出了价值超过11亿美元(约合78亿元人民币)的Google母公司Alphabet股票，其中大部分资金流向了他创建的一家非营利机构。\r\
-    \n这笔捐赠在周五的监管文件中披露，涉及350多万股股票，但文件未说明受赠方的具体身份。布林家族办公室发言人称，约10亿美元股票将捐给非营利组织Catalyst4。Catalyst4由布林在2021年成立，旨在同时支持中枢神经系统疾病研究以及气候变化解决方案。布林家族办公室发言人表示，布林还向…"
-  url: https://www.cnbeta.com.tw/articles/tech/1538514.htm
-  source: Cnbeta.com.tw
-- title: 山下有松“上山”，慢即是快｜厚雪公司
-  description: "「即使眼下消费创投退潮，我们依然看好新锐消费品牌吗？\r\n\n 答案毋需怀疑。\r\n\n 消费是一个长坡厚雪的赛道，品牌养成不是一朝一夕，而一旦立住，就不会轻易死亡。我们看到，经过一轮高速成长的阵痛，一些新品牌公司拥有了忠实用户，进而获得了可观的规模甚至利润，进入稳定增长的新阶段。它们大多诞生于2014年之后，乘上2019年刮起的投资热风，在激烈竞争中胜出。\r\
-    \n\n 基于此，36氪未来消费决定挑选36家新消费品牌公司，以专访、案例分析等方式，持续跟踪它们的发展，并汇集在“厚雪专访36”这个栏目中。」\r\n\n\
-    \ \n 作者｜任彩茹…"
-  url: https://36kr.com/p/3570653778705540
+- title: 西藏人工智能从场景应用走向藏语大模型研发
+  description: 据中国新闻网，就日前千亿级参数藏语基座大模型“阳光清言”V1.0成果发布，中国工程院院士、西藏大学教授尼玛扎西30日接受采访时表示，“西藏在藏语大模型研发领域取得了重要进展，标志着西藏AI发展将从场景应用走向系统性研发阶段。”作为西藏人工智能自主研发的成果，“阳光清言”V1.0模型训练依托约288亿Token的高质量藏语数据，涵盖新闻、法律、医学、教育、科技等多个领域，包括藏语单语数据、多语种平行语料、双语辞典条目等丰富内容。（中国新闻网）
+  url: https://36kr.com/newsflashes/3575025823710345
   source: 36kr.com
-- title: 人工智能：用Gemini 3一键生成3D粒子电子手部映射应用 - TTGF
-  description: '@目录前言核心提示词（直接复制使用）效果演示（Gemini 3生成后实际表现）1. 权限处理效果2. 摄像头画面与手部标注3. 3D粒子手跟随效果4.
-    淡出与再生效果总结 前言 Gemini3横空出世，网上对其的评价颇为一致，都认为其是近期以来的最佳大模型，并且很多博主通过Gemini3很快的做出了'
-  url: https://www.cnblogs.com/ChenAI-TGF/p/19287480
+- title: 技术管理：搭建团队研发管理体系的一个框架概述 - 九卷
+  description: 前言 在如今的 IT 信息、互联网和计算机科技相关行业，竞争激烈。互联网行业的发展已经到了下半场，互联网用户增长趋近饱和；AI 人工智能大模型技术还在如火如荼的发展，这股浪潮席卷着每一个科技公司，互联网产品研发公司如何在这股浪潮里继续前行再创辉煌，研发管理体系是至关重要的一环。
+    在快速变化的市场环境
+  url: https://www.cnblogs.com/jiujuan/p/19291044
   source: Cnblogs.com
-- title: 使用 Vibe Coding 构建 AI 自动化评测系统 - 哥不是小萝莉
-  description: 1.概述 在当今快速发展的 AI 时代，如何高效、准确地评估 AI 模型的性能已成为一个关键挑战。传统的评测方法往往依赖大量人工干预，不仅效率低下，而且难以保证评测的一致性和客观性。本文将深入探讨如何使用
-    Vibe Coding 的理念，结合现代 AI 技术，构建一个智能、高效且可扩展的自动化评测系
-  url: https://www.cnblogs.com/smartloli/p/19287684
+- title: AI相关需求推升行业景气度，PCB上游高端基材货缺价涨
+  description: 记者近日多方采访获悉，AI相关需求催动下PCB产业链上游高端基材不同程度缺货涨价。诺德股份研究院院长丁瑜表示，行业高端电子铜箔非常缺货，目前公司的RTF-3已经出货，RTF-4和HVLP-3在下游验证阶段。宏和科技相关负责人透露，公司高性能产品“低介电一代”价格是普通产品的6倍，低介电二代和低热膨胀系数因市场比较稀缺，价格仍在上涨。高阶覆铜板方面，有A股厂商人士称，目前AI、机器人等应用场景的基础材料轻薄化，尤其算力板块对高性能产品的需求量增加。因产品的非通用性，生产制造设备及工艺都要匹配市场慢慢进行调整，产能目…
+  url: https://36kr.com/newsflashes/3575204047534979
+  source: 36kr.com
+- title: Anthropic Claude 4.5 系列登陸 Amazon Bedrock　智能代理時代來臨　AI 表現再創新高
+  description: AWS 宣布美國 AI 公司 Anthropic 最新一代 Claude 4.5 系列模型 正式全面登陸 Amazon Bedrock，包括其旗艦版 Claude Opus 4.5、中階版 Claude Sonnet 4.5 及高效能版 Claude Haiku 4.5。
+  url: https://unwire.hk/2025/11/30/claude-opus-4-5/genai-and-cloud/
+  source: Unwire.hk
+- title: 广电总局：网络视听行业要把牢创作方向
+  description: 日前在京召开的纪念抗战胜利80周年主题网络视听节目创作座谈会上，国家广播电视总局相关负责人表示，网络视听行业要从时代之变、中国之进中萃取题材，把牢文艺创作方向；坚持导向为王、内容为王，让作品既有热度更有深度、既有意思更有意义。广电总局相关负责人表示，网络视听行业要坚守现实主义的创作态度，从涌动的时代大潮、火热的社会生活中挖掘题材；坚持“内容为王”与“技术赋能”双轮驱动，善于运用人工智能技术，优化算法推荐机制，加大超高清技术的应用，进一步提升网络视听作品的艺术表现力。（新华网）
+  url: https://36kr.com/newsflashes/3575293764041861
+  source: 36kr.com
+- title: VIRAL——仿真中训练但现实中视觉驱动：先Sim中训练教师策略，后蒸馏出基于视觉的学生策略(解决loco-mani所需训练数据大的难题)
+  description: 文章浏览阅读112次，点赞5次，收藏2次。摘要：本文介绍了CMU LeCAR-Lab提出的视觉驱动仿人机器人系统VIRAL，该系统通过教师-学生框架实现行走-操作一体化任务。教师策略利用特权状态信息训练RL模型，输出WBC控制指令；学生策略则通过大规模视觉蒸馏，仅基于RGB图像和本体感知模仿教师行为。关键技术包括：增量动作空间设计、WBC作为API层、参考状态初始化，以及仿真环境的高度随机化。实验表明，该系统无需微调即可零样本迁移到Unitree
+    G1人形机器人，成功完成抓取、搬运等复杂任务。该工作为降低机器人系…
+  url: https://blog.csdn.net/v_JULY_v/article/details/155395630
+  source: Csdn.net
+- title: AI 晶片戰局升溫！大摩：Google TPU 外銷若成真，2027 年營收恐增 4,200 億
+  description: Google TPU晶片傳出將對外銷售，Meta或斥巨資採購，此舉有望為Google帶來營收增長。市場關注Google TPU的商業化進展，及其對AI晶片市場的影響。在市場擔憂「AI
+    泡沫化」導致美股科技類股走勢分歧之際，Google 母公司 Alphabet 的股價卻逆勢突圍，過去一個月漲幅接近 20%，成為近期最炙手可熱的 AI 權值股
+    。這波漲勢的背後，除了 Google 最新推出的大型語言模型 Gemini 3 獲得廣泛好評外，其自研 AI 晶片——TPU（張量處理單元）的商業化進展，正成為資本市場密切關…
+  url: https://www.techbang.com/posts/126731-google-tpu-export-revenue-potential
+  source: Techbang.com
+- title: AI 從「無限想像」到「理性冷卻」？投資人反思：光有故事還不夠
+  description: 近期日本軟銀集團（SoftBank Group）出現劇烈股價波動，引發市場高度關注。許多投資人最初以為這只是公司本身的消息面波動，但如果把視角拉遠，會發現這其實是整體
+    AI 資本市場心理轉折的縮影。 近兩年，AI敘事曾經是推動科技股估值的主旋律，只要企業與 AI 有任何連結，市場便願意給予更高的估值...
+  url: https://finance.technews.tw/2025/12/01/ai-investors-reflections/
+  source: Technews.tw
+- title: OpenCSG x Dell联合发布面向AI原生企业的下一代IT解决方案 - OpenCSG
+  description: 在全球迈向“智能体时代”的背景下，OpenCSG（开放传神）近日发布与戴尔科技基础设施深度集成的参考架构方案。该方案结合了 OpenCSG
+    的 CSGHub 企业级平台、Xnet 智能传输协议、Dell PowerScale 智能存储系统和 Dell Pro Max with GB10 高性能计算节
+  url: https://www.cnblogs.com/OpenCSG/p/19289836
   source: Cnblogs.com
-- title: 号称能净化心灵的日本AI自动洗澡机上市 售价27万元
-  description: "日本科学公司（Science）发言人前仓幸子表示，公司研发的AI洗澡机如今已在日本开售，全球限量50台，售价6000万日元（约合人民币27.2万元）。这款设备的原型机，曾在今年大阪世博会上亮相，外形颇似喷气式战斗机的驾驶舱，设有一个向后开的盖子。\r\
-    \n据介绍，当使用者坐在中央座位上时，装置会部分地充满热水，然后释放出数百万个微小气泡来清洗使用者的身体，可在15分钟内完成清洗和烘干。洗澡机同时配备传感器来测量人体脉搏和其他生物数据，以便将水加热到适宜温度，AI系统会判断使用者的情绪是平静还是兴奋，并在透明盖板内侧投射…"
-  url: https://www.cnbeta.com.tw/articles/tech/1538522.htm
-  source: Cnbeta.com.tw
-- title: 特斯拉流失多位AI人才 至少10人跳槽这家新机器人公司
-  description: "11月29日，据《商业内幕》报道，上周，一家名为Sunday Robotics的机器人创业公司脱离了“隐形模式”，其团队阵容也随之曝光，里面包含多名前特斯拉员工。领英平台的分析数据显示，Sunday\
-    \ Robotics已吸纳了至少10名特斯拉前员工，其中包含多位特斯拉资深员工，他们曾参与特斯拉人形机器人与自动驾驶项目的研发。\r\n特斯拉人形机器人Optimus佩里·贾(Perry\
-    \ Jia)曾在特斯拉自动辅助驾驶Autopilot及Optimus机器人项目工作近六年，他在上周宣布，自己已于今夏离开特斯拉，加盟Sunda…"
-  url: https://www.cnbeta.com.tw/articles/tech/1538512.htm
-  source: Cnbeta.com.tw
-- title: 11年將CPU市佔提升40倍，蘇姿丰表示：AMD有望成為第一
-  description: 'AMD執行長蘇姿丰帶領公司重返榮耀，關鍵在於前瞻性的決策。蘇姿丰強調，掌握科技趨勢並投資，是AMD成功的基石，未來將持續挑戰市場領導地位。半導體產業的女性力量不可忽視，AMD
-    CEO蘇姿丰（Lisa Su）就是業界內的鐵娘子，她擔任CEO一職已有11年，帶領AMD重新走向輝煌。日前在接受採訪時，蘇姿丰談到了自己過往的經歷，坦言AMD抓住機遇的關鍵，就是在關鍵時刻做出正確決策，知道科技會往哪裡走，就要在哪裡投資，這就是AMD在做的。
-
-    蘇姿丰表示，她擔任CEO已經11年，剛上任時AMD在CPU市佔率只有1%，現在做到…'
-  url: https://www.techbang.com/posts/126654-amd-aims-number-one-cpu-market
-  source: Techbang.com
-- title: 昔日尖子生“考砸” 400亿李想“认错”
-  description: "单季汽车交付量骤降近四成、净亏损逾6亿……去年还以卓越表现勇夺新势力销冠的理想汽车，近日却交出了一份成绩欠佳的财务答卷。财报显示，今年第三季度，理想汽车的营收同比大幅减少36.2%至274亿元。不仅如此，理想汽车连续多个季度保持盈利的辉煌战绩也戛然而止，单季净亏损高达6.2亿。\r\
-    \n财报指出，理想MEGA召回预估成本一定程度上影响了理想汽车第三季度的盈利表现。若剔除上述影响，公司第三季度的毛利率和汽车毛利率环比小幅上升。据悉，理想汽车此前已经就“部分2024款MEGA车辆出现冷却液渗漏批量质量事故”，召回超1.1万…"
-  url: https://www.cnbeta.com.tw/articles/tech/1538504.htm
-  source: Cnbeta.com.tw
-- title: Google 放話：未來 4 年 AI 算力要提升 1000 倍，還不能多花錢？
-  description: 'Google 欲在不增加成本下提升千倍AI算力，關鍵在於其 TPU 硬體生態系。透過 TPU 的持續升級與優化，Google 有望實現驚人的算力目標，再次領先業界。Google
-    近期發布的 Gemini 3 系列大模型一舉奪下全球性能寶座，搶盡 OpenAI 的鋒頭，也帶動母公司 Alphabet 股價大漲。這背後除了模型本身的突破，更倚賴
-    Google 自建的 TPU（Tensor Processing Unit）硬體生態系。
-
-    如今 Google 更進一步立下「驚人目標」：在不增加成本與耗電的情況下，於未來 4…'
-  url: https://www.techbang.com/posts/126637-google-ai-compute-power-increase
-  source: Techbang.com
-- title: Google「憋三年」全面反擊？Gemini 3、TPU 進場，英特爾、OpenAI 都感到壓力
-  description: '自研 TPU 晶片更讓 Google 在算力競爭中佔據優勢，Gemini 和 TPU 成為 Google 重回領先地位的關鍵。AI
-    產業這幾週又有新戲碼。原本被外界認為「追不上 ChatGPT」的 Google，現在似乎真的回神了。從旗下最新大模型 Gemini 3 到 TPU 自家算力，再到母公司
-    Alphabet 股價暴衝，不少分析師都直指：Google 這一次是真的醒了。
-
-    Gemini 3 評價狂飆，Google 找回節奏？
-
-    Google 這波逆轉，外界最先看到的亮點，就是 Gemini 3。
-
-    它不只強調推…'
-  url: https://www.techbang.com/posts/126722-google-gemini-3-tpu-intel-openai-pressure
-  source: Techbang.com
-- title: SK 海力士推出你能買得起的HBM：蜂蜜香蕉口味「Chips」，還能抽純金
-  description: 'SK 海力士聯手 7-11 推出 HBM Chips 蜂蜜香蕉洋芋片，將高科技 HBM 記憶體 概念轉化為零食趣味。獨特造型與口味，旨在拉近大眾與
-    HBM 記憶體 的距離。韓國記憶體巨頭 SK 海力士（SK Hynix）最近的一個跨界舉動跌破眾人眼鏡。他們宣布與韓國 7-11 便利商店合作，推出了一款名為「HBM
-    Chips」的洋芋片，並已在韓國各地的 7-11 門市上架開賣 。
-
-    這款產品的命名可說是充滿巧思，SK 海力士玩了一個雙關語梗。「HBM」在科技界原本指的是 SK 海力士引以為傲的「高頻寬記憶體」（Hi…'
-  url: https://www.techbang.com/posts/126738-sk-hynix-honey-banana-chip-prank
-  source: Techbang.com
-- title: Google 重啟 AI 眼鏡計畫 與三星、富士康合作 搭載 Qualcomm 晶片 預計 2026 年第 4 季發布
-  description: Mash Yang發佈Google 重啟 AI 眼鏡計畫 與三星、富士康合作 搭載 Qualcomm 晶片 預計 2026 年第 4
-    季發布，最新資訊於2025-11-29 13:49：Google 傳重啟 AI 眼鏡專案，攜手三星、富士康與高通，整合光波導技術、Gemini 模型與 Android...#(244776)
-  url: https://www.cool3c.com/article/244776
-  source: Cool3c.com
-- title: 从浏览器访问地址到看到页面信息经历的过程 - 我会替风去
-  description: 以搜索"人工智能"为例，从输入URL到页面显示，百度背后经历了7 大核心步骤： URL解析 → DNS域名解析 → TCP连接(HTTPS握手)
-    → HTTP请求发送 → 百度服务器处理 → 响应返回 → 浏览器渲染 URL解析（浏览器预处理） 当你在浏览器地址栏输入https://www.baid
-  url: https://www.cnblogs.com/xi-yongqi/p/19287117
-  source: Cnblogs.com
-- title: .NET+AI | MEAI | 上下文压缩（7） - 「圣杰」
-  description: Chat Reducer：让 AI 对话突破上下文限制 一句话简介 Microsoft.Extensions.AI 的 Chat Reducer
-    通过智能压缩策略,在保持对话质量的前提下,有效控制上下文长度、降低成本并提升性能。 &#127919; 核心价值 ✅ 突破限制:解决 LLM 上下文窗口限
-  url: https://www.cnblogs.com/sheng-jie/p/19258465
-  source: Cnblogs.com
+- title: Ries 黑五4折优惠：看中文也能轻松涨词汇，浏览器英语环境生成器重磅升级，发布 iOS 客户端
+  description: Ries 是一款在让你看中文也能轻松涨词汇的浏览器扩展（Chrome/Firefox）、iOS 应用。它通过 DeePseek/GPT
+    等大模型分析网页，在中文网页把一些中文替换为英文；在视频字幕中，也把一些中文替换为英文；针对全英文，还能翻译 90%的英文内容，只保留少部分原文，让你无痛、没有感知
+  url: https://www.appinn.com/ries-ai/
+  source: Appinn.com
+- title: 拒收兵單「拿棒猛揮」把2公務員逼死角！役男1原因免役…抖出悲慘身世
+  description: 新北市游姓男子去年對2名送兵役徵集令的公務員，失控拿球棒揮舞、咆哮還把人逼到牆角，因妨害公務執行，事後遭依法送辦；游男自陳母親過世，父親在花蓮養老撿回收，無兄弟姊妹，獨居只能去汽修廠打零工，靠月收入1萬元維生；因輕度智能障礙，精神也有問題，在教會牧師協助下，兵役免役，2名受害公務員也願意原諒他，法院審理後，將他依法判處6個月有期徒刑，得易科罰金，可上訴。
+  url: https://tw.news.yahoo.com/%E6%8B%92%E6%94%B6%E5%85%B5%E5%96%AE-%E6%8B%BF%E6%A3%92%E7%8C%9B%E6%8F%AE-%E6%8A%8A2%E5%85%AC%E5%8B%99%E5%93%A1%E9%80%BC%E6%AD%BB%E8%A7%92-%E5%BD%B9%E7%94%B71%E5%8E%9F%E5%9B%A0%E5%85%8D%E5%BD%B9-%E6%8A%96%E5%87%BA%E6%82%B2%E6%85%98%E8%BA%AB%E4%B8%96-022000283.html
+  source: Yahoo Entertainment
+- title: 怕台灣有事！美光將投資 96 億美元在日本建置 AI 記憶晶片 HBM 工廠
+  description: 美光科技（Micron Technology）將斥資 1.5 兆日圓（約 96 億美元）在日本廣島現有廠區興建新廠，用於生產用於人工智慧（AI）的高頻寬記憶體（HBM）晶片，主要是分散台灣有事分險，避免先進晶片過度集中台灣，預計
+    2028 年開始出貨。 美光科技計劃明年 5 月將在日本東廣島市現有廣...
+  url: https://finance.technews.tw/2025/11/30/hbm/
+  source: Technews.tw
+- title: AI 現在還能治療脫髮！MyHair.ai 客製化方案幫你找回豐盈秀髮
+  description: 科技時代脫髮不再不可解決。美籍法裔創業家 Cyriac Lefort 創立新創 MyHair，以人工智慧協助用戶診斷脫髮及頭皮健康狀況，再以科學驗證的護理方法治療。
+    產品MyHair.ai靈感源自某次在紐約理髮時，設計師提醒他「開始脫髮了」，觸發他探索這個敏感卻充斥錯誤資訊的市場。Lefort與合作...
+  url: https://technews.tw/2025/11/30/are-you-balding-theres-an-ai-for-that/
+  source: Technews.tw
+- title: 美科學家運用大語言模型，加速設計新型抗體
+  description: 關於抗體藥物的研發，過去必須仰賴漫長的實驗篩選。如今，人工智慧有機會幫助加速此流程。最近，美國范德堡大學（Vanderbilt University）的研究團隊在《Cell》期刊發表最新成果，展示他們如何利用大型語言模型（LLM）自動生成能專一辨識特定抗原的抗體，可謂開啟了
+    AI 設計「功能抗體」的...
+  url: https://technews.tw/2025/12/01/scientists-use-llms-to-accelerate-the-design-of-new-antibodies/
+  source: Technews.tw
+- title: 「馬拉松才跑 5 公里」，白宮官員解析美中 AI 長局，去監管只是起手式
+  description: 從晶片管制到先進模型研發，美、中兩國已深陷人工智慧競賽的心態與實質競逐中。 面對能源基礎建設領先、開源模型能力不斷突破的中國，美國政府透過行政命令及7月正式發布的「AI
+    行動計畫」，放鬆監管、加速創新的形象深植人心。川普擬以行政命令阻撓各州個別訂立AI法律再度引發反彈，也彰顯白宮避免美國發展出50套...
+  url: https://technews.tw/2025/11/30/how-the-us-can-win-the-ai-race/
+  source: Technews.tw
