@@ -1,73 +1,77 @@
-- title: 蘋果擁抱 AI 卻不走快路，為何選擇整合 ChatGPT 而非自己重來？
-  description: 在科技界，蘋果公司正逐步轉向人工智慧（AI），儘管過去並不以 AI 為核心競爭力。蘋果品牌歷來主要專注於提供獨特的使用者體驗，從桌上型電腦到筆記型電腦，再到智慧手機。隨著
-    AI 成為當前科技主流，蘋果也開始更積極探索 AI 的潛力。 根據最新報導，蘋果與 OpenAI 合作，將 ChatGPT 整合...
-  url: https://technews.tw/2026/01/02/apple-embraces-ai-but-doesnt-rush-into-it/
-  source: Technews.tw
-- title: 月之暗面 C 輪募資 5 億美元、估值飆至 43 億美元
-  description: 1 月 1 日，來自中國的人工智慧新創公司月之暗面（Moonshot AI）宣布成功完成了一輪超額認購的 C 輪融資，籌集了 5 億美元。這一輪融資由
-    IDG 資本主導，該公司投資了 1.5 億美元，其他參與者包括阿里巴巴、騰訊及美團創始人王慧文等現有投資者。這使得 Moonshot AI 的估值達...
-  url: https://finance.technews.tw/2026/01/02/moonshot-secures-500-million-in-series-c-funding/
-  source: Technews.tw
-- title: 马斯克10年梦成真！特斯拉全球首次自动驾驶横穿美国，人类0接管
-  description: 2026年第一天，自动驾驶迎来历史时刻——特斯拉FSD完成人类首次「零接管」横穿美国！全球科技圈都被引爆了，马斯克端到端自动驾驶彻底胜利。方向盘，可以退出历史舞台了？
-    刚刚，特斯拉FSD，完成全球首个…
-  url: https://www.bohaishibei.com/post/106007/
-  source: Bohaishibei.com
-- title: 外媒：SpaceX、OpenAI、Anthropic 若 2026 上市，規模將超越 2025 年全美 IPO 總和
-  description: 2026 年科技業掀起史詩級 IPO 浪潮！SpaceX、OpenAI 與 Anthropic 三大巨擘籌備上市，合計估值高達 1.65
-    兆美元，超越 2025 年全美 IPO 總和。
-  url: https://www.inside.com.tw/article/40415-spacex-openai-ipo
-  source: Inside.com.tw
-- title: SpaceX、OpenAI 與 Anthropic 傳出排隊上市 總估值超過 3 兆 AI 與太空科技市場投資大熱
-  description: Mash Yang發佈SpaceX、OpenAI 與 Anthropic 傳出排隊上市 總估值超過 3 兆 AI 與太空科技市場投資大熱，最新資訊於2026-01-02
-    13:19：年的潛在 IPO 計畫。此舉將使總估值達數兆美元的科技企業從私募轉向公開市場，其高估值將直接面臨獲利能力的嚴格檢視。#(245489)
-  url: https://www.cool3c.com/article/245489
-  source: Cool3c.com
-- title: 百度分拆 AI 晶片業務 「崑崙芯」在港交所申請 IPO 估值約 30 億美元
-  description: Mash Yang發佈百度分拆 AI 晶片業務 「崑崙芯」在港交所申請 IPO 估值約 30 億美元，最新資訊於2026-01-02
-    13:25：為因應美國出口管制並尋求晶片自主，百度擬分拆 AI 晶片子公司「崑崙芯」於香港上市。此舉旨在透過獨立募資，建立從算力到模型的「軟硬整合」生態系，鞏固其
-    A...#(245492)
-  url: https://www.cool3c.com/article/245492
-  source: Cool3c.com
-- title: CNBC：走私集團試圖將逾50億元輝達晶片輸中，美政府臥底直擊秘密倉庫
-  description: 美國當局揭露一走私網絡，其利用空殼公司與秘密倉庫，企圖規避出口管制，將價值逾50億元之 Nvidia 高階 GPU 輸往中國。聯邦探員經臥底行動已查扣該批貨物，阻止其出口。
-  url: https://www.thenewslens.com/article/263131
-  source: Thenewslens.com
-- title: 韓國 AI 模型開發突破，為癌症患者量身打造個人化疫苗
-  description: 1 月 2 日，韓國科學技術院（KAIST）與生技公司 Neogenlogic 的聯合研究團隊宣布，他們開發出一種新型人工智慧（AI）模型，旨在生產個性化癌症疫苗。這項突破性技術能夠辨識每位癌症患者獨特的腫瘤新生抗原（neoantigens），這些是由腫瘤突變產生的蛋白質片段，能夠訓練患者的免疫系統...
-  url: https://technews.tw/2026/01/02/s-korean-team-develops-ai-model-for-customized-cancer-vaccine/
-  source: Technews.tw
-- title: Meta 打詐劇本曝光，全球拖延監管保千億收益
-  description: 日本監管機構去年對 Facebook 和 Instagram 上猖獗的詐騙廣告表示強烈不滿。詐騙手段多元，包括投資詐騙，以及利用人工智慧（AI）製作的假冒名人產品代言。
-    路透社檢視的內部文件顯示，這兩個社群平台的母公司Meta擔心，日本可能很快祭出驗證所有廣告主身分的措施。此舉雖有助於減少詐騙，但也...
-  url: https://technews.tw/2026/01/02/meta-anti-fraud-script-exposed/
-  source: Technews.tw
-- title: Alphabet 在 AI 賽道佔上風 2025 強漲 65%、前景俏
-  description: 市場一度擔憂人工智慧（AI）興起將顛覆傳統搜尋業務，但 Google 以「Gemini」模型的出色表現獲得市場肯定，母公司 Alphabet
-    股價 2025 年勁漲 65%，創 2009 年來最佳表現；搜尋收入預計將進一步成長。 CNBC報導，Alphabet股價去年大漲近65%，成為「市值兆美元俱...
-  url: https://technews.tw/2026/01/02/alphabet-was-the-big-ai-winner-of-the-year/
-  source: Technews.tw
-- title: 儲存大廠威騰電子 2025 飆逾 280% 冠絕標普
-  description: 人工智慧（AI）題材火熱，記憶體和數據儲存產品的巨大需求帶動相關類股強漲，威騰電子（Western Digital）去年漲幅冠絕標普。
-    綜合外媒報導，威騰電子去年強漲約282%，表現居標普500指數之冠。該公司以供應高容量硬碟聞名，隨著AI驅動的資料中心需求增加，市場主導地位更加穩固，市值突破600...
-  url: https://technews.tw/2026/01/02/western-digital-sp-500/
-  source: Technews.tw
-- title: 新光人壽資產達 4 兆成第四大壽險！魏寶生：CSＭ 累積衝 2,500 億元
-  description: 台新新光金控壽險子公司台新人壽與新光人壽今日舉辦合併茶會，以台新人壽為存續公司，並更名為「新光人壽」，並已召開董事會，推舉魏寶生為新任董事長、洪士琪為副董事長，合併後總資產將近
-    4 兆元，名列第四大壽險，魏寶生喊 CSＭ（合約服務邊際）累積將衝 2,500 億元以上。 台新新光金自 2025 年 7...
-  url: https://finance.technews.tw/2026/01/02/the-fourth-largest-life-insurance/
-  source: Technews.tw
-- title: OpenAI 重整音訊模型，首款「AI 智慧筆」傳由鴻海接手代工
-  description: OpenAI 傳出大舉押注音訊 AI，這不只是為了讓 ChatGPT 語音對話聽起來更自然，根據外媒 The Information
-    報導，OpenAI 過去 2 個月內整合多個工程、產品及研究團隊，全面重整音訊模型，為預計大約 1 年後推出、以音訊為核心的硬體產品做準備。 發展音訊模型這個舉動反映...
-  url: https://ccc.technews.tw/2026/01/02/openai-is-betting-big-on-audio-ai/
-  source: Technews.tw
-- title: Tesla Model 3 橫跨美國零接管 全球首次完全自動駕駛壯舉
-  description: 2025 年最後一天，Tesla 車主 David Moss 駕駛搭載 FSD V14.2 的 Model 3，完成全球首次經第三方數據驗證的「零接管」橫貫美國之旅。他從洛杉磯開往南卡羅來納州，歷時
-    2 天 20 小時，全程 4,397 公里，人類接管次數為零。Tesla 副總裁 Ashok Elluswamy
-  url: https://unwire.hk/2026/01/02/tesla-fsd-v14-zero-intervention-coast-to-coast/life-tech/auto/
-  source: Unwire.hk
-- title: OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路
-  description: 据知情人士透露，OpenAI正采取措施优化其音频AI模型，为未来发布由AI驱动的个人设备做准备。三名知情人士表示，该设备预计将主要依赖音频交互。（新浪财经）
-  url: https://36kr.com/newsflashes/3621629442999560
+- title: 全国首单 “具身智能数据集”在江苏省数据交易所上架并完成交易
+  description: 据南京发布，在江苏箸境智能科技有限公司数据采集室内，工作人员轻轻弯肘、抬臂、向前抓取——每一个基础动作，都被实时同步给一旁的机器人，转化为一条条结构化的数据。这些数据包含视频、关节角度与力矩参数，如同给机器注入了“肌肉记忆”。近日，由这些数据汇聚而成的“具身智能数据集”在江苏省数据交易所上架并完成交易，实现全国范围内具身智能数据集数交所交易的“零的突破”。（财联社）
+  url: https://36kr.com/newsflashes/3623375084815364
   source: 36kr.com
+- title: 即将离职的Meta首席AI科学家承认该公司在发布Llama 4时篡改测试结果
+  description: "社交媒体集团 Meta 旗下推出的开放人工智能模型 Llama 知名度非常高，在人工智能社区里 Llama 1~3 系列口碑和评价也都非常不错，不过在\
+    \ 2025 年 4 月该公司推出 Llama 4 时却遭遇滑铁卢。\r\n当时 Llama 4 的基准测试表现看起来也非常不错，问题是该系列模型本身就是开放的因此在模型发布后立即就有大量开发者进行测试，测试结果是模型实际表现远不如\
+    \ Meta 宣传的那么出色。彼时就有消息称 Meta 可能为了提高模型基准测试评分而进行作弊，不过后来 Meta 也出面回应称没有这种事情，但…"
+  url: https://www.cnbeta.com.tw/articles/tech/1543734.htm
+  source: Cnbeta.com.tw
+- title: 法国对马斯克旗下聊天机器人涉嫌生成色情内容启动调查
+  description: 法国巴黎检方2日对媒体证实，将对美国企业家马斯克旗下人工智能企业xAI的聊天机器人“格罗克(Grok)”涉嫌生成非法色情内容启动调查。“格罗克”由xAI公司开发，并内置于马斯克拥有的社交媒体平台X，X用户可直接调用该聊天机器人。近日，X平台出现部分用户利用“格罗克”编辑图片和视频的现象，部分生成的内容可以假乱真。一些用户借此生成真实人物的虚假性暴露内容，并在X平台上散播。受害者包括数百名女性和未成年人。
+    (新华社)
+  url: https://36kr.com/newsflashes/3623285792687360
+  source: 36kr.com
+- title: Yann LeCun炮轰Alexandr Wang缺乏经验：Meta AI会有更多人离职
+  description: "人工智能先驱 Yann LeCun 并不看好 Mark Zuckerberg 对 28 岁的 Scale AI 联合创始人 Alexandr\
+    \ Wang 的 140 亿美元投资，Alexandr Wang 被招募来领导Meta 的超级智能实验室。\r\n在接受《金融时报》的最新采访中，LeCun（他曾是\
+    \ Meta 的首席人工智能科学家，于 11 月宣布离职创办自己的初创公司）表示，王“缺乏经验”，并不完全了解人工智能研究人员。“他学得很快，他知道自己不知道什么……但他没有科研经验，不知道如何进行科研，也不知道科研人员会…"
+  url: https://www.cnbeta.com.tw/articles/tech/1543750.htm
+  source: Cnbeta.com.tw
+- title: 雷军：我在农村长大 怎么可能不让农民卖小米
+  description: "小米创办人雷军在直播中谈及前段时间“小米不让农民卖小米”的消息。小米集团公关部总经理徐洁云表示，完全是被误导扭曲之后造成的误解，小米公司跟作为粮食的小米，这完全是无关的两回事，其实大家想想也知道，这不可能，我们绝没有这样的重击。当然了，更不可能有这样的本事不让农民卖小米。\r\
+    \n雷军表示，相信大家的眼睛都是雪亮的，因为我就是在农村里长大的，我怎么可能不让农民卖小米，出现这种热搜的时候真的让我非常的愤怒。此前小米公司发言人发布澄清说明，回应所谓“小米公司不让卖小米”一事。小米称相关视频内容完全失实，是彻头彻尾的歪曲与污…"
+  url: https://www.cnbeta.com.tw/articles/tech/1543826.htm
+  source: Cnbeta.com.tw
+- title: PI发布的Human to Robot数采工作——头戴iPhone且手戴两相机采集数据：混合数据中像“用机器人数据一样”用具身人类数据，而无需显式对齐
+  description: 文章浏览阅读3次。摘要：本文探讨如何利用人类视频数据训练通用机器人策略，提出通过多样化VLA预训练实现人机动作自然对齐的方法。研究发现，随着预训练数据多样性的提升，模型能形成与具身形式无关的表征，实现跨形体技能迁移。具体方案包括：采用头戴/腕部摄像机采集人类动作数据，通过3D手部轨迹预测末端执行器动作，结合子任务语言标注进行联合训练。相比传统需要显式对齐的方法，该方案更具通用性，为具身智能的工业落地提供了新思路，特别适用于多任务场景的规模化应用。
+  url: https://blog.csdn.net/v_JULY_v/article/details/156545611
+  source: Csdn.net
+- title: 美媒实测：ChatGPT内置应用体验不佳 难撼动苹果App Store地位
+  description: "1月3日，据《华尔街日报》报道，OpenAI CEO萨姆·奥特曼(Sam Altman)希望拥有一个可以与苹果公司抗衡的应用商店，但是早期测试显示，这条路还很漫长。如果ChatGPT的8亿多用户想通过线上配送平台Instacart购买杂货、用Spotify创建歌单，或在徒步旅行平台AllTrails上寻找徒步路线，如今他们无需打开手机应用，在聊天机器人内即可完成这些操作。\r\
+    \n奥特曼传统应用难以取代在AI时代，一些人认为人机交互方式可能迎来重大变革。上述ChatGPT应用商店只是朝着这一目标迈出的一小步：让聊天机器…"
+  url: https://www.cnbeta.com.tw/articles/tech/1543744.htm
+  source: Cnbeta.com.tw
+- title: 雷军：骂小米确实有流量 但是一定要客观，不要故意抹黑
+  description: "1月3日晚间消息，小米集团创始人、董事长、CEO雷军今日举行2026年第一场直播，雷军表示，以往老觉得能把产品做好就行了。因为我是个工程师，我觉得好产品自己能说话。你拆开看一看，你每个测试做一做，我原来以为就足以解决很多问题了，可是后来我发现了这个舆情，可能我没有想那么简单。很多米粉朋友鼓励我们说，你们还是要回应，要及时辟谣，要及时解释。实话实说，过去的大半年里面，扑面而来的各种质疑，使我们几个人都有点懵。\r\
+    \n对于网络上很多小米绿化带出事故的内容，小米公关部总经理徐洁云表示，很大程度上它就是有人在刻意收集这些视频…"
+  url: https://www.cnbeta.com.tw/articles/tech/1543808.htm
+  source: Cnbeta.com.tw
+- title: 美股公司创始人大规模卖出自家股票
+  description: '@王又又：美国股市在2025年的大部分涨幅都来自超大型科技公司，也让不少公司高管的个人财富大幅增长。与此同时，这些公司的创始人、高管和董事却在大规模卖出自家股票，合计套现超过160亿美元。这波减持并非…'
+  url: https://www.bohaishibei.com/post/106019/
+  source: Bohaishibei.com
+- title: 被“封杀”的 RTX 5090 现身中国 高算力硬件流入渠道仍在运转
+  description: "多块包装完好的英伟达 GeForce RTX 5090 显卡近日被曝以整托盘形式出现在中国某公司门前，引发外界对美国出口管制有效性的再度质疑。从现场照片和爆料者描述来看，这批显卡来自微星与技嘉等品牌，包装上未见此前被允许对华出口的“v2”标识，疑似为受限制的原始版本型号。\r\
+    \n有网友在 PCMR 版块发帖称，这家中国公司拿到的是“被封杀的 5090”，帖子迅速引发热议，不少人指出，美国厂商虽然不能直接向中国出口相关 GPU，但并不妨碍货源经由第三国转手流入。报道援引业界观点称，马来西亚、新加坡等东南亚国家正是此类“…"
+  url: https://www.cnbeta.com.tw/articles/tech/1543820.htm
+  source: Cnbeta.com.tw
+- title: 擷發科技與艾訊簽署 MOU，將共同 CES 2026 展示 Edge AI 解決方案
+  description: ASIC 設計服務與 AI 軟體解決方案廠商擷發科技宣布，與全球工業電腦大廠艾訊正式簽署合作備忘錄（MOU）。雙方將深度整合擷發科技自主研發的跨平台
+    Edge AI 軟體平台解決方案 XEdgAI，以及艾訊 AIM101 工業級邊緣運算系統，解決異質硬體整合難題。 擷發科技表示，自主研發的 XEdg...
+  url: https://finance.technews.tw/2026/01/03/xf-technology-and-axiomtek-sign-mou/
+  source: Technews.tw
+- title: 關鍵 2026 年一月財經活動，左右 AI 持續發展強弱程度
+  description: 隨著 2026 年開年，美股市場迎來了極為關鍵的元月。這個月份不僅是投資者重新調整資產配置、評估前一年度績效的時刻，更是多項重磅經濟數據、全球科技趨勢以及聯準會
+    （Fed） 貨幣政策方向的交匯點。 月初：總經數據定調 一月上旬，市場的焦點集中在美國總體經濟數據的發布，這些數據將直接影響市場對美國經濟...
+  url: https://finance.technews.tw/2026/01/03/key-financial-events-in-january-2026/
+  source: Technews.tw
+- title: 苹果公布统计数据 证明坚持佩戴Apple Watch有助于实现健身目标 ​
+  description: "苹果近日公布了一组关于 Apple Watch 的最新统计数据，试图用长期研究结果说明，为何在追求健身目标时，佩戴 Apple Watch\
+    \ 是一项“不会后悔的决定”。公司通过对超过 10 万名参与者多年来的运动数据进行分析发现，使用 Apple Watch 的用户在所谓“放弃日”（Quitter’s\
+    \ Day）前后以及之后几个月里，整体上能更持续地保持运动量。\r\n这组数据来自“Apple 心脏与运动研究”（Apple Heart and Movement\
+    \ Study），参与者均同意长期佩戴 Apple Watch …"
+  url: https://www.cnbeta.com.tw/articles/tech/1543774.htm
+  source: Cnbeta.com.tw
+- title: Meta 收購 Manus 案 中國學者指存在技術出口合規風險
+  description: 中國對外經濟貿易大學教授崔凡指出，此收購案還未完全塵埃落定。首先，還沒有消息確認Manus核心團隊成員已經放棄了中國國籍，「更沒有信息確認其作為自然人已經不受中國法律管轄」。
+  url: https://www.inside.com.tw/article/40424-meta-manus-acquisition-china-tech-export-compliance-risk
+  source: Inside.com.tw
+- title: Gemini 著色畫產生器：輸入文字或照片 AI 快速生成著色圖卡
+  description: 'Google Gemini AI 強大的生成圖片能力不用多做介紹，可參考「Google 推出全新 Nano B […]
+
+    這篇文章「Gemini 著色畫產生器：輸入文字或照片 AI 快速生成著色圖卡」最早出現在免費資源網路社群，請追蹤 Facebook、X (Twitter)、Threads
+    或訂閱 RSS feed 獲取更多科技新知及免費資源相關介紹教學。'
+  url: https://free.com.tw/gemini-coloring-page-generator/
+  source: Free.com.tw
