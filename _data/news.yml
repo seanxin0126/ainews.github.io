@@ -1,88 +1,95 @@
-- title: NVIDIA RTX 60系列显卡曝光：首发GR200系列GPU 6090性能或提升30%
-  description: "本届CES 2026消费电子展上，NVIDIA罕见未发布新显卡，但有关新一代RTX 60系列的消息依然引发外界关注。知名硬件爆料达人@kopite7kimi\
-    \ 表示，NVIDIA将在RTX 60系列显示卡上采用Rubin架构，内建面向游戏的“GR20x”芯片。\r\n就如过去Ampere的GA、Blackwell的GB一样，没有太大意外的话，RTX\
-    \ 60系列会使用GR为代号，分别有GR202、GR203、GR205、GR206以及GR207等一系列GR200系列为Rubin GPU产品命名。Rubin是NVIDIA下一…"
-  url: https://www.cnbeta.com.tw/articles/tech/1544764.htm
-  source: Cnbeta.com.tw
-- title: 黄仁勋：围绕人工智能的“末日论”正在伤害社会
-  description: "在生成式人工智能迅速冲击全球的背景下，英伟达首席执行官黄仁勋近日公开批评围绕人工智能的持续“负面叙事”，称这种“末日论”已经对社会造成了“很大伤害”，既无助于公众，也无助于产业和政府。\r\
-    \n黄仁勋是在近期做客“No Priors”播客节目时作出上述表态的。作为这家全球市值最高科技公司的掌舵人，他表示，2025年留给他印象最深的之一，是围绕人工智能前景的“叙事之战”——一方相信人工智能将造福社会，另一方则认为它会侵蚀甚至摧毁社会结构。\
-    \ 他承认，简单否定任一立场都“过于片面”，但一些唱衰者正在造成实质性的负面影响。“我…"
-  url: https://www.cnbeta.com.tw/articles/tech/1544830.htm
-  source: Cnbeta.com.tw
-- title: 8点1氪丨“死了么”APP估值已达1000万元；霍启刚主动公开个人财产；iPhone 4需求激增近1000%
-  description: "今日热点导览\n <ul>\n <li>缅甸KK园区635栋非法建筑全部拆除</li>\n <li>内存条跑赢金价，商家称100根内存条能买上海1套房</li>\n\
-    \ <li>马斯克：X平台将于七天内开源其算法</li>\n <li>OpenAI和软银对合作伙伴SB Energy投资10亿美元</li>\n <li>全球首次，印尼暂时封禁马斯克旗下AI聊天机器人</li>\n\
-    \ </ul>\n TOP 3 大新闻\n “死了么”APP估值已达1000万元，创始人称开发成本仅1000多元\n 近日，苹果应用商店一款名为“死了么”的App受…"
-  url: https://36kr.com/p/3635665486071045
+- title: 8点1氪丨“死了么”APP团队再次回应争议；小米集团总裁卢伟冰辟谣辞职；国内首起AI开发者涉黄获刑案件宣判
+  description: "今日热点导览\n <ul>\n <li>泡泡玛特将与荣耀手机推出IP联名合作\r\n</li>\n <li>章泽天开通个人播客”小天章“和小红书账号\r\
+    \n</li>\n <li>宗馥莉旗下宏振投资公司更名，去“娃哈哈”\r\n</li>\n <li>官方：医疗机构不得开展殡仪服务、外包太平间\r\n</li>\n\
+    \ <li>43度飞天茅台拟调降打款价至739元/瓶\r\n</li>\n </ul>\n TOP 3 大新闻\n “死了么”APP团队再次回应争议，并考虑融资50万\n\
+    \ 1月11日，在短时间内登顶苹果付费软件榜首位的“死了么”APP团队发布最…"
+  url: https://36kr.com/p/3637086699111433
   source: 36kr.com
-- title: 唐杰/杨植麟/林俊旸/姚顺雨罕见同台，“基模四杰”开聊中国AGI
-  description: "文｜ 周鑫雨、邓咏仪\n 整理 | 王欣逸、魏宁\n 编辑｜苏建勋\n 2026年1月10日，在由清华大学基础模型北京市重点实验室、智谱AI发起的AGI-Next前沿峰会上，当下中国大模型最重要的四位主力，罕见地聚在了一起：\n\
-    \ 刚刚在1月8日顺利登陆港股，同时也是这场闭门会主办方的智谱，其创始人兼首席科学家唐杰是现场第一个分享嘉宾。\n 不久前官宣加入腾讯的姚顺雨，第一次出现在公共场合中。在腾讯近期完成关键的一次模型团队重组之后，这名前OpenAI研究员，出任CEO办公室首席科学家。\n\
-    \ 和姚顺雨同属大厂战队的，是阿里Qw…"
-  url: https://36kr.com/p/3633816041735171
+- title: 氪星晚报｜加拿大Kepler公司发射10颗卫星；被传离职？小米卢伟冰发文：今天上班；我国牵头的滑动轴承国际标准正式发布
+  description: "大公司：\n 马来西亚临时限制访问AI聊天机器人“格罗克”\n 马来西亚通信和多媒体委员会11日发表声明说，当天起临时限制马来西亚互联网用户访问美国企业家埃隆·马斯克旗下的人工智能（AI）聊天机器人“格罗克”（Grok）。声明说，采取这一监管措施是鉴于“格罗克”被滥用于生成淫秽色情、极具冒犯性且未经当事人同意的合成图像内容，包括涉及女性及未成年人的内容。\n\
+    \ 加拿大Kepler公司发射10颗卫星\n 加拿大初创企业Kepler通信公司通过SpaceX成功发射10颗全新低地球轨道卫星，此举是该公司搭建天基高速电信服务网络的…"
+  url: https://36kr.com/p/3636224407651591
   source: 36kr.com
-- title: CES 2026：三星透過 Galaxy AI 協助判斷貓狗健康狀態 拍張照片即可完成
-  description: Mash Yang發佈CES 2026：三星透過 Galaxy AI 協助判斷貓狗健康狀態 拍張照片即可完成，最新資訊於2026-01-11
-    12:46：AI 導入寵物照護。透過手機拍攝貓狗眼、齒，即可初步判斷健康，及早發現潛在病徵。此 Family Care 新功能基於大量病例訓練，能提供初步分析...#(245701)
-  url: https://www.cool3c.com/article/245701
-  source: Cool3c.com
-- title: 魅族在团年活动上分享了最新的数据，也回答了一些大家关心的问题
-  description: 1 月 10 日，魅族在成都举行了 2026 魅友新春会，这场活动吸引了全国各地约 150 名“魅友”到场，魅族方面除了和用户们互动，现场还有星纪魅族集团中国区
-    CMO 万志强分享了目前魅族的进展，以及对一些大家关心的话题做了回答。首先是 2025 年的一些数据。2025 年魅族在生态方面继续推进，像是 FlymeAuto
-    合作车型的总销量突破了 230 万，2025 年新增生态用户量超过 150 万，以及魅族 StarV 智能眼镜也助推魅族在智能眼镜行业位列 TOP5。同时魅族还是带来了
-    Note 16 系列和…
-  url: https://www.toodaylab.com/83876
-  source: Toodaylab.com
-- title: 美媒炮轰苹果谷歌CEO是“懦夫”：害怕马斯克不敢下架X
-  description: "1月11日，美国科技网站TheVerge记者伊丽莎白·洛帕托(Elizabeth Lopatto)周六发文，抨击苹果CEOTim Cook(Tim\
-    \ Cook)、GoogleCEO桑达尔·皮查伊(Sundar Pichai)是“懦夫”。文章称，社交媒体X上的深度伪造色情功能明显违反了苹果、Google应用商店指导方针，但是库克和皮查伊却因为害怕埃隆·马斯克(Elon\
-    \ Musk)不敢将X下架。\r\n库克、皮查伊与马斯克以下是文章主要内容：自从X用户开始利用Grok技术，通过深度伪造图像对女性及儿童进行“脱衣”以来，我一…"
-  url: https://www.cnbeta.com.tw/articles/tech/1544774.htm
-  source: Cnbeta.com.tw
-- title: Meta Ray-Ban 智慧眼鏡加入「讀稿機」，EMG 手環實現空手寫字
-  description: Meta 於 CES 2026 展示穿戴式裝置與 AI 應用，Meta Ray-Ban Display 新增讀稿機功能，搭配 Neural
-    Band 的 EMG 手寫輸入、導航擴展與車用、醫療合作等。Meta 在今年的 CES 2026 展覽中，展示了其穿戴式裝置與 AI 技術結合的最新里程碑。自去年秋季推出
-    Meta Ray-Ban Display 智慧眼鏡與 Meta Neural Band（神經手環）以來，Meta 持續優化使用者體驗，本次於 CES 2026
-    發表的更新重點涵蓋從個人生產力、社交通訊到車用…
-  url: https://www.techbang.com/posts/127368-ces-2026-meta-ray-ban-teleprompter-emg-hands-free
-  source: Techbang.com
-- title: CES 2026：NVIDIA G-SYNC Pulsar 技術提升螢幕顯示清晰度 RTX Remix Logic 結合 DGX Spark 加速老遊戲重生
-  description: Mash Yang發佈CES 2026：NVIDIA G-SYNC Pulsar 技術提升螢幕顯示清晰度 RTX Remix Logic
-    結合 DGX Spark 加速老遊戲重生，最新資訊於2026-01-11 12:39：輯的 RTX Remix Logic，以及實現 AI 深度檔案搜尋的
-    NEX...#(245699)
-  url: https://www.cool3c.com/article/245699
-  source: Cool3c.com
-- title: 黃仁勳 CES 2026 定調「會思考的自駕 AI」Alpamayo 登場，鴻海、廣達躍升 Tier 1 夥伴
-  description: 眾所期待的 CES 還未正式開展，展前演講現場已先行升溫。會思考的 AI 自駕平台 Alpamayo 成為 NVIDIA 今年率先拋出的關鍵訊號，輝達執行長黃仁勳登台定調，強調
-    AI 正從雲端走向真實世界，進入車輛、機器人等實體場域，打造具備感知、推理與即時決策能力的「行動大腦」。結果讓自駕車之王特...
-  url: https://technews.tw/2026/01/11/ces-2026-alpamayo/
-  source: Technews.tw
-- title: 5 個月估值飆到 66 億美元，Lovable 重寫 AI 新創的成長遊戲規則
-  description: 就在 2025 年 12 月，瑞典的 AI 程式新創 Lovable 完成 3.3 億美元（約新台幣 105 億元）B 輪募資，由 CapitalG
-    與 Menlo Ventures 領投。僅在短短 5 個月內，Lovable 的估值暴漲至 66 億美元。 一年前，這間公司甚至還未正式進入市場。更令...
-  url: https://technews.tw/2026/01/11/how-lovable-won-over-8-million-users/
-  source: Technews.tw
-- title: 【日中】中国、レアアース新規契約停止　国有企業、「既存取引破棄」も検討
-  description: "1 名前：煮卵 ★：2026/01/11(日) 07:24:52.11 ID:XQXUwmhG9.net\n\n\n\n\n\n\n\
-    \n中国、レアアース新規契約停止　国有企業、既存取引破棄も検討 https://t.co/SfammpGf7L— 47NEWS (@47news_official)\
-    \ January 10, 2026 \n\n\n\n\n\n\n　【上海、北京共同】レアアース（希土類）を販売..."
-  url: https://itainews.com/archives/2057519.html
-  source: Itainews.com
-- title: xAI员工竟用Claude写代码？这回Anthropic反手拔了马斯克的网线
-  description: "一封内部信揭开了AI巨头们之间最尴尬的秘密。2026年1月8日，一则消息在社交媒体上炸开了锅。根据内部Slack泄露的消息，xAI联合创始人Tony\
-    \ Wu向全体员工发布了一则紧急通知：各位同事，相信很多人已经发现，Cursor中的Claude（Anthropic）模型已无法响应。据Cursor反馈，这是Anthropic针对所有主要竞争对手实施的新政策。\r\
-    \n这既是坏消息，也是好消息。我们的生产力会受到影响，但这确实会倒逼我们开发自己的编程产品/模型。我们正处在AI成为自身生产力关键技术的时代。接下来这一年，对我们…"
-  url: https://www.cnbeta.com.tw/articles/tech/1544766.htm
-  source: Cnbeta.com.tw
-- title: Nano Banana Pro 提示詞生成器限時免費，AI 圖片秒速生成
-  description: 'NanoPhoto.AI 是一個整合各式 AI 工具的網站，例如 Sora 2 圖片生成、去除浮水印、Nano […]
+- title: 科氪 | 荣耀ROBOT PHONE亮相2026 CES，以颠覆性设计斩获多项顶级大奖
+  description: "2026年1月6日至9日，国际消费电子展(CES2026)在美国拉斯维加斯盛大举行。荣耀向世界展示了全球第一款“手机机器人”——荣耀ROBOT\
+    \ PHONE。这款融合了前沿AI与机器人技术的颠覆性产品，一经亮相就凭借其突破性的手机机器人云台架构与AI交互体验成功突围，一举囊括CNET、Android\
+    \ Police、GadgetFlow以及Geekspin等多家全球顶级科技媒体的年度大奖以及点赞报道。作为荣耀“阿尔法战略”的关键落子，荣耀ROBOT PHONE的推出，证明了荣耀已具备定义未来产品品类的技术领导力。\n\
+    \ …"
+  url: https://36kr.com/p/3636077116949511
+  source: 36kr.com
+- title: 英伟达与礼来共同投资10亿美元建立人工智能药物实验室
+  description: 英伟达与礼来宣布成立首个专注于将人工智能应用于药物研发挑战的联合创新实验室。该实验室将汇集礼来在药物发现、开发与制造方面的全球领先专业知识，以及英伟达在人工智能、加速计算和AI基础设施方面的技术优势。双方计划在��来五年投入最多10亿美元用于人才、基础设施和计算资源。（新浪财经）
+  url: https://36kr.com/newsflashes/3636576008209414
+  source: 36kr.com
+- title: 谷歌与苹果达成多年期AI合作协议，将为语音助手Siri提供支持
+  description: 当地时间1月12日，苹果公司与谷歌宣布已达成一项多年期合作协议，苹果下一代基础模型将基于谷歌Gemini模型及云技术构建。这些模型将为未来苹果智能功能提供支持，包括今年即将推出的更个性化的Siri。（界面）
+  url: https://36kr.com/newsflashes/3637067635918080
+  source: 36kr.com
+- title: 何小鹏：未来最好的AI公司，都会自研芯片
+  description: "小鹏汽车董事长、CEO何小鹏\n 文｜肖漫\n 编辑｜李勤\n 除了在发布会上一遍遍强调自己是 AI 公司，小鹏在新业务进展上也越来越像一家\
+    \ AI 公司。\n 2026年1月8日，小鹏发布小鹏P7+、小鹏G7增程版、2026款小鹏G6、2026款小鹏G9四款新车，但这些车型最重要的技术更新并非硬件配置，而是芯片和\
+    \ AI——这四款新车都会用上小鹏自研的图灵 AI 芯片，Ultra SE和Ultra 版本车型搭载小鹏的第二代 VLA 模型，能实现初阶 L4 的辅助驾驶能力。\n\
+    \ 小鹏的做法与近几年的特斯拉极为相似。马斯克已将特…"
+  url: https://36kr.com/p/3632116618937351
+  source: 36kr.com
+- title: 【CDT报告汇】保护卫士：2025年中国庇护申请者人数超过胡锦涛十年（外二篇）
+  description: 本期CDT报告汇主要内容：大西洋理事会 (Atlantic Council) 联合荣鼎咨询公司发布报告，指台海战争将令全球经济损失至少3万亿美金；二、人权评量倡议组织发布2022年度人权指数报告，称中国人权状况堪忧；三、维吾尔人权项目表示，联合国难民署未能保护维吾尔难民
+  url: https://chinadigitaltimes.net/chinese/724285.html
+  source: Chinadigitaltimes.net
+- title: 马斯克机器人“母体”计划：地球将被硅基生命接管？
+  description: 马斯克认为，AI发展最大瓶颈已从缺芯变成缺电，未来硬通货是电力，太阳能是终极答案，任何商品都是要要多少有多少价格不再受成本的影响。下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动
+  url: https://www.huxiu.com/article/4824994.html
+  source: Huxiu.com
+- title: 早报｜笔记本、手机集体提价/美的空界M5空调上架，采用海思AI芯片/小米17 Air原型机曝光
+  description: '· 手机 App 更严新规亮相
 
-    這篇文章「Nano Banana Pro 提示詞生成器限時免費，AI 圖片秒速生成」最早出現在免費資源網路社群，請追蹤 Facebook、X (Twitter)、Threads
-    或訂閱 RSS feed 獲取更多科技新知及免費資源相關介紹教學。'
-  url: https://free.com.tw/nanophoto-ai-nano-banana-pro-prompt-generator/
-  source: Free.com.tw
-- title: 晨早新聞重點｜環保署引入AI系統觀鳥及統計樹木數據／伊朗反政府示威據報增至逾500死
-  description: 【Now新聞台】1月12日now早晨新聞重點 【科技助保育】環保署利用AI技術在濕地公園監測雀鳥和樹木數據，未來會應用在北都環評上。【示威持續】伊朗反政府示威，據報死亡人數增至超過500人，特朗普將會聽取美方官員匯報針對伊朗的具體方案。【促與美合作】特朗普說，古巴不會再得到委內瑞拉的石油和資金，呼籲與美國達成協議。#要聞
-  url: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6435945f-88c7-47db-85a9-278ff5d7d195
-  source: Yahoo Entertainment
+    · 「死了么」App 回应改名事宜：会认真研究
+
+    · 华住集团旗下酒店摄影比赛第一名疑似使用 AI 图#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+    爱范儿 |
+
+    原文链接 ·
+
+    查看评论 ·
+
+    新浪微博'
+  url: https://www.ifanr.com/1651567
+  source: Ifanr.com
+- title: Meta 大買核電 Oklo 迎首個大型商業合約、股價飆
+  description: 社群媒體巨頭 Meta 宣布與 Oklo 等三家核電業者簽署協議，以滿足對人工智慧（AI）資料中心用電的龐大需求；這是 Oklo 自成立來首度簽下大型商業合約，股價應聲飆漲逾
+    17%。 路透、MarketWatch等外媒報導，Meta於9日宣布將與核能新創公司Oklo和TerraPower合作支持建...
+  url: https://technews.tw/2026/01/12/meta-strikes-nuclear-power-agreements-with-three-companies/
+  source: Technews.tw
+- title: 前字节核心产品骨干做了款AI项链，他想分析老外的每一餐｜产品观察
+  description: "作者 | 张子怡\n 编辑 | 袁斯来\n 畅销书《超越百岁》强调运动是长寿的基石，但营养学层面，作者彼得·阿提亚提出了一个更为棘手的挑战：世界上不存在适合所有人的‘完美饮食’。\n\
+    \ 彼得·阿提亚认为无论素食还是肉食，衡量饮食是否健康的唯一标准，是它能否改善个体的代谢健康，尤其是胰岛素敏感性。这意味着，照搬网上的通用食谱往往是无效的。\n\
+    \ 大洋彼岸的另一端，彼得·阿提亚的营养学观念如蝴蝶翅膀般抚向一位年轻人——潘宇扬，触动了他创业的灵感。他发现，当下的智能健康穿戴设备多数都还停留在监测睡眠与运动，而健康管理的最后一块拼图…"
+  url: https://36kr.com/p/3635135520228355
+  source: 36kr.com
+- title: Dell宣佈XPS回歸，於CES 26發表XPS 14、XPS 16輕薄筆記型電腦
+  description: 'Dell於CES 26拉斯維加斯消費性電子展發表XPS 14、XPS 16筆記型電腦，搭載代號為Panther Lake的Core
+    Ultra 3系列處理器。Dell於CES 26拉斯維加斯消費性電子展發表XPS 14、XPS 16筆記型電腦，搭載代號為Panther Lake的Core
+    Ultra 3系列處理器。
+
+    再次重新整理產品線名稱
+
+    Dell在去年CES 25的時候，將產品編制為「Dell」、「Dell Pro」、「Dell Pro Max」等3個產品線，到了CES 26則將部分產品改回先前產品系列命名，將…'
+  url: https://www.techbang.com/posts/127418-dell-xps-14-16
+  source: Techbang.com
+- title: 黃仁勳爆猛料！NVIDIA最強Blackwell、Rubin晶片也要賣中國市場，否則就等華為超車
+  description: NVIDIA 執行長黃仁勳面對美國嚴格的出口管制，強調為保住中國市場，NVIDIA 必須將 Blackwell 等最新晶片即時供應中國市場，確保
+    Blackwell 晶片在出口管制下仍具競爭力。NVIDIA 執行長黃仁勳在 CES 2026 上又有驚人發言！面對美國嚴格的出口管制，他明確表示，為了維持競爭優勢，NVIDIA
+    不只賣 H200，未來連最強的 Blackwell 甚至下一代 Rubin 架構晶片，都計畫要「即時」供應中國市場。他更直言，美國的管制政策得跟上時代才行，否則難以擋住華為等中國對手的強力挑戰…
+  url: https://www.techbang.com/posts/127388-jensen-huang-nvidia-blackwell-china-huawei
+  source: Techbang.com
+- title: 马斯克预警：留给旧世界的时间只剩2000天，中国握着唯一的“王牌”
+  description: “我担心的不是长远的未来，我只担心接下来的3到7年。” 1月6日，在德州超级工厂（Giga Texas）的灯光下，埃隆·马斯克对着老友Peter
+    Diamandis（XPRIZE、Singularit…
+  url: https://www.bohaishibei.com/post/106271/
+  source: Bohaishibei.com
+- title: 新版 Siri 採用 Gemini 模型 Apple 宣布與 Google 達成多年期 AI 合作
+  description: Apple 與 Google 1 月 11 日發布聯合聲明，宣布達成多年期合作協議，下一代 Apple Foundation Models
+    將利用 Google Gemini 模型及雲端技術開發。這項合作為 Apple Intelligence 功能提供支援，包括今年內推出更個人化 Siri 語音助理。
+  url: https://unwire.hk/2026/01/13/apple-google-gemini-siri-collaboration/ai/
+  source: Unwire.hk
