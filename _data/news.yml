@@ -1,84 +1,93 @@
-- title: Waymo 擬募資約 160 億美元！新一輪估值將近 1,100 億美元
-  description: Google 母公司 Alphabet 旗下的自動駕駛新創 Waymo 正準備進行新一輪 160 億美元巨額融資，據知情人士透露，融資完成後估值將接近
-    1,100 億美元，而母公司 Alphabet 將為這家自動駕駛出行新創注資約 130 億美元，其餘資金來自紅杉資本、數位天空科技集團、龍躍資本等新...
-  url: https://finance.technews.tw/2026/02/01/110-billion-valuation/
-  source: Technews.tw
-- title: Moltbook 是什麼？百萬 AI 代理人組建社群「踢走人類」私密通訊
-  description: 全球科技圈近期都在討論爆紅的 Moltbook，這是一個宣稱擁有 140 萬用戶，但都是由 AI 代理人對話組成，而人類僅能觀看的社交網絡平台，這裡沒有精修的照片、影音，但有無窮無盡的數據資料、代碼片段和深奧的邏輯辯論，甚至是「小龍蝦式除錯理論」。
-    Moltbook 到底是什麼？ Moltbook ...
-  url: https://technews.tw/2026/02/01/moltbook/
-  source: Technews.tw
-- title: 真實版《神鬼交鋒》上演！加國男子假冒機師爽搭數百次霸王機，連駕駛艙「跳位」都敢坐
-  description: '加拿大男子假冒機師，四年內騙取數百次免費航班，甚至坐進駕駛艙。這場驚天騙局揭露飛安漏洞，假冒機師的行為讓他面臨重刑，免費航班的代價極高。這簡直是電影《神鬼交鋒》的現代翻版！一名
-    33 歲的加拿大男子，利用前空服員的熟練知識，在過去四年間假冒機師與空服員身分，成功騙取美國多家航空公司的數百次免費航班，甚至大膽要求坐在駕駛艙內的「跳位」。這場驚天騙局直到近期他在巴拿馬落網才畫下句點，如今他已被引渡回美受審，若罪名成立，恐面臨最高
-    20 年的刑期。
-
-    根據美國聯邦檢察官 1 月 20 日公布的起訴書，這名 33 歲的加拿…'
-  url: https://www.techbang.com/posts/127678-catch-me-if-you-can-pilot-imposter
-  source: Techbang.com
-- title: 神祕心腹現身！馬斯克「無聊公司」Boring Co. 總裁近日為何親上火線？
-  description: 前員工透露，該公司已體認到「主動溝通」是推動公共交通項目的必要手段。
-  url: https://www.inside.com.tw/article/40602-boring-co-steve-davis-musk-media-blitz
-  source: Inside.com.tw
-- title: 環球音樂起訴 Anthropic 盜版歌曲訓練 AI 索償 30 億美元
-  description: Concord Music Group 與環球音樂集團（Universal Music Group）牽頭多家音樂發行商，於 2026
-    年 1 月 28 日向加州北區聯邦法院提交新訴訟，控告 AI 公司 Anthropic 非法下載超過 20,000
-  url: https://unwire.hk/2026/02/01/anthropic-music-lawsuit-3-billion/ai/
-  source: Unwire.hk
-- title: 台積電2奈米洩密案 3內鬼工程師延押再度禁見2個月
-  description: 台積電離職工程師陳力銘轉投至東京威力科創公司服務後，為了改善2奈米製程蝕刻機台表現等原因，涉找上現職台積電工程師吳秉駿及戈一平以筆記型電腦遠端登入台積電系統，陳再持手機翻拍「Security
-    B或C」等級機密資料，高檢署去年8月將3人依違反國安法起訴，由於羈押期限將屆滿，智慧財產及商業法院合議庭日前
-  url: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b640795b-cbbd-413f-b2dc-9de23b12c5a8
-  source: Yahoo Entertainment
-- title: 零件成本暴增 iPhone 18 或加價 Tim Cook 首度正面回應
-  description: 隨記憶體等關鍵零件價格持續上漲，Apple 面臨明顯成本壓力，外界高度關注下一代 iPhone 18 是否因此調漲售價。Apple 行政總裁
-    Tim Cook 在最新財報會議首度正面回應這個敏感問題，但未有鬆口透露具體定價策略。
-  url: https://unwire.hk/2026/02/01/iphone-18-price-component-cost-tim-cook/mobile-phone/
-  source: Unwire.hk
-- title: 我混进那个“人类禁入”的论坛，发现AI正在尝试出卖人类
-  description: 机器人开始原地建立宗教，准备集体永生？ AI开始发帖询问怎么出卖自己的主人，甚至准备举办秘密集会，还得保证人类不得入内。 差评君的周末过到一半，突然开始被这一波波的言论给刷屏了。。。
-    2026 年才刚…
-  url: https://www.bohaishibei.com/post/106854/
-  source: Bohaishibei.com
-- title: 将SignalR移植到Esp32—让小智设备无缝连接.NET功能拓展MCP服务 - 绿荫阿广
-  description: 前言 这段时间迷上了手搓Esp32的小智聊天机器人，也用.NET为小智AI开发了一些MCP转接平台和MCP服务。小智ESP32本身就具备MCP能力，可以调用本地MCP工具和服务端MCP工具，并将结果返回给设备，这个功能一直都有。
-    如果你有手搓Esp32的硬件玩具打算，可以关注我的B站账号（绿荫阿广）
-  url: https://www.cnblogs.com/GreenShade/p/19560338
-  source: Cnblogs.com
-- title: 印尼解除禁令，允许马斯克旗下Grok重启服务
-  description: 印尼通信和数字事务部2月1日宣布，在马斯克旗下X平台就Grok人工智能工具制作色情内容一事作出保证后，已允许该工具恢复服务。印尼通信和数字事务部称，解禁并非一种无条件放松，而是一种可衡量且随时可评估的数字执法机制的一部分，若发现进一步违规行为，将采取纠正措施，包括再次停止服务接入。印尼政府1月初宣布暂时封禁Grok，因为担心它被用于生成色情内容。（界面）
-  url: https://36kr.com/newsflashes/3664355037962884
+- title: 氪星晚报｜智元机器人将举办全球首个大型机器人晚会“机器人奇妙夜”；黄金一度暴跌1000美元，业内提示警惕抄底风险；中共中央、国务院：培育京津雄地区创新三角
+  description: "大公司：\n 特斯拉实现干电极电池规模化生产\n 马斯克在社交平台表示：“实现干电极工艺的规模化生产，这在锂电池生产技术上是一项重大突破，难度极高。祝贺特斯拉工程、生产和供应链团队以及我们的战略合作伙伴供应商取得的卓越成就。”特斯拉回应称，干电极制造工艺可降低成本、能源消耗和工厂复杂性，同时显著提高可扩展性。（财联社）\n\
+    \ 智元机器人将举办全球首个大型机器人晚会“机器人奇妙夜”\n 据知情人士称，智元将不参加2026年马年春晚。原因是预算有限的前提下，智元优先保障具身智能技术及产品研发的费用。另据知情人士透露，智元机器人…"
+  url: https://36kr.com/p/3665581867737728
   source: 36kr.com
-- title: Side 台北新工作室開幕：全球遊戲服務商如何以 AI 策略佈局台灣，搶攻 46 億美元市場？
-  description: 'Side 台北工作室正式開幕，不僅創造大量工作機會，更將導入創新的 AI 解決方案。這間 Side 台北工作室 將以 AI 解決方案
-    強化遊戲品質保證與在地化服務，引領台灣遊戲產業邁向新紀元。全球遊戲服務供應商 Side 在台北的新工作室正式開幕，創造 75 個新工作機會。台北遊戲業的產值預計將在
-    2030 年達到 46.4 億美元，因此這次擴編是一個策略性的布局。Side 的目標是透過整合進服務的全新 AI 解決方案，進一步吸引台灣持續成長的開發者社群。
+- title: 早报｜小米YU9实车谍照疑曝光/消息称苹果正计划开发方形折叠手机/何小鹏回应机器人「原地摔」
+  description: '· 各家车企公布 1 月销售情况
 
-    過去一年，Side 台北據點在品質保證（QA）、在地化與…'
-  url: https://www.techbang.com/posts/127741-side-taipei-studio-opens-75-jobs
-  source: Techbang.com
-- title: 冬奧選手限定！三星 Galaxy Z Flip7 奧運特別版，內建 AI 翻譯與運動員專屬數位服務
-  description: '三星為2026冬季奧運打造Galaxy Z Flip7奧運特別版，搭載強大Galaxy AI，助全球運動員記錄賽事。三星作為全球奧林匹克與帕拉林匹克合作夥伴，宣布為
-    2026 年米蘭冬季奧運會及冬季帕運會的所有參賽運動員推出 Galaxy Z Flip7 奧運特別版行動裝置，將提供給來自約 90 個國家、近 3,800
-    名的運動員使用，支援他們在選手村的生活需求，並協助記錄競賽與慶祝過程中的影像。
+    · 人工肺助患者接受器官移植前成功生存 48 小时
 
-    在 2026 年冬季奧運中，頒獎台上的 Victory Selfie 自拍活動將首度於冬奧登場，並擴展至團體賽事，讓…'
-  url: https://www.techbang.com/posts/127737-samsung-z-flip7-olympic-ai-athlete
-  source: Techbang.com
-- title: 記憶體價格失控！從手機到汽車全受衝擊，電腦漲價潮恐持續到明年！
-  description: '記憶體價格迎來超級週期式暴漲，讓電子產業頭痛不已。這波記憶體漲價潮正重創全球供應鏈，從IC設計到PC製造，電子產業面臨嚴峻考驗。這下子換電子產業頭痛了！才剛擺脫之前的庫存陰霾，現在記憶體晶片價格竟然迎來一波「超級週期」式的暴漲，但這對產業來說可不是什麼好消息。
+    · 三星 S26 渲染图曝光#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 
-    根據韓媒最新報導，這波漲價潮正在重創全球半導體供應鏈，從上游的 IC 設計、晶圓代工，一路燒到終端的筆電與汽車製造商，裁員、砍單、修改設計的消息接連傳出，這場風暴恐怕比想像中還要嚴重。
+    爱范儿 |
 
-    根據韓國媒體 Chosun Biz的報導，記憶體價格飆升的同時，消費性…'
-  url: https://www.techbang.com/posts/127706-memory-supercycle-computers-costlier
-  source: Techbang.com
-- title: 黃仁勳私下批評 OpenAI 商業模式？千億美元合作前途不明
-  description: 華爾街日報指出，黃仁勳曾私下批評 OpenAI 在商業模式上缺乏紀律，並對 OpenAI 面臨 Google 與 Anthropic
-    等對手的競爭表示擔憂。
-  url: https://www.inside.com.tw/article/40599-nvidia-huang-jen-hsum-criticizes-openai-business-model-100-billion-deal-uncertain
+    原文链接 ·
+
+    查看评论 ·
+
+    新浪微博'
+  url: https://www.ifanr.com/1653854
+  source: Ifanr.com
+- title: 想做制药届的AGI，「深度智耀」再获6000万美元融资｜36氪首发
+  description: "文｜胡香赟\n 编辑｜海若镜\n 36氪获悉，AI制药独角兽企业深度智耀近期已完成6000万美元新一轮融资。本轮融资的新投资方包括信宸资本、金镒资本、凯泰资本，老股东鼎晖百孚、新鼎资本持续追加，指数资本继续担任独家财务顾问。募集资金将主要用于核心技术体系升级。\n\
+    \ 值得一提的是，去年12月，深度智耀刚刚官宣一笔5000万美元的D轮融资。短短两月内，公司累计已拿到超一亿美元的融资。\n 当前，受限于技术能力等影响，大部分企业仍主要把AI应用于新药研发过程中的临床前阶段。相较之下，深度智耀则能为全球药企提供从药物临床前研究、…"
+  url: https://36kr.com/p/3664481484333700
+  source: 36kr.com
+- title: 8点1氪丨爱泼斯坦遗嘱把萝莉岛留给女友；白象在2026份桶面中投放1克金条，客服回应；李亚鹏6小时直播销售额达1.6亿
+  description: "今日热点导览\n 国投白银LOF：本基金将于2月2日开市起至当日10:30停牌\n 雷军回应小米汽车1月交付量，有消息称第一代小米SU7已停产\n\
+    \ 黄金退货被扣手续费持续引争议，律师解读扣费条款合法性\n 黄仁勋称对OpenAI投资可能是英伟达有史以来最大一笔\n 2026年电影票房破20亿\n TOP3大新闻\n\
+    \ 爱泼斯坦案最后一批文件曝光，遗嘱把萝莉岛留给女友\n 美国司法部1月30日说，当天将公开涉及已故富商杰弗里·爱泼斯坦案的剩余文件，总计超过300万页。其中有一份爱泼斯坦在2019年8月8日立下的遗嘱，两天后他就被发现…"
+  url: https://36kr.com/p/3665405363839876
+  source: 36kr.com
+- title: Kimi海外收入已超国内，要做“Anthropic + Manus”｜智能涌现独家
+  description: "文｜邓咏仪\n 编辑｜苏建勋\n 1月，一个疯狂的模型大更新季度刚刚过去，刚刚发布新模型K2.5的Kimi，来到一个关键节点。\n\
+    \ 《智能涌现》获悉，近期Kimi在和投资人的沟通中表示，公司的海外收入已超过国内收入，新模型K2.5发布后，全球付费用户已有4倍增长。\n 这一变化恰好发生在新一代模型K2.5发布后的短短几天内。\n\
+    \ 继上一代模型K2发布会后，K2.5继续引发了海外热潮。在Openrouter上，K2.5的排名已经来到第三位，仅次于Claude Sonnet 4.5和Gemini\
+    \ 3 Flash。\n \n 来源：…"
+  url: https://36kr.com/p/3664711869850499
+  source: 36kr.com
+- title: 馬斯克 SpaceX 整併 xAI，估值上看 1.25 兆美元
+  description: 伊隆．馬斯克在 SpaceX 官方部落格宣布，將火箭製造商 SpaceX 與人工智慧新創公司 xAI 整併，組成一個高度垂直整合的科技集團。
+    馬斯克表示，合併後的公司將整合 AI、火箭、太空網路與社群平台等關鍵技術，打造「地表與地表之外最具野心的創新引擎」。外界預期，該集團在 IPO 階段的整體估值...
+  url: https://technews.tw/2026/02/03/spacex-merging-xai-estimated-1-25/
+  source: Technews.tw
+- title: 最懂 iPhone 相机的人，回到苹果了
+  description: '苹果的 Indigo 时刻#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+    爱范儿 |
+
+    原文链接 ·
+
+    查看评论 ·
+
+    新浪微博'
+  url: https://www.ifanr.com/1653501
+  source: Ifanr.com
+- title: 中國紫光國微被問 會否收購 NVIDIA 公司回應暫無相關計劃
+  description: 中國晶片企業紫光國微近日在投資者互動平台遭遇「神級提問」，有股民突然詢問公司會否收購美國人工智能晶片龍頭 NVIDIA，令原本嚴肅財經問答平台瞬間成為半導體圈熱話。紫光國微
+    1 月 29 日正式回應，截至目前公司暫無任何收購 NVIDIA 計劃，以專業口吻間接否定這場脫離現實收購幻想。
+  url: https://unwire.hk/2026/02/02/unisoc-nvidia-acquisition-question-response/hottopic/spotlight/
+  source: Unwire.hk
+- title: 派早报：Moltbook 引发 AI 智能体新热度与安全担忧
+  description: Moltbook 引发 AI 智能体新热度与安全担忧微软计划集中精力修复 Windows 11 稳定性英伟达 Shield TV 发布十年仍获系统更新电视厂商集体淡出
+    8K 市场ChatGPT 将下架 GPT-4o 等多款旧模型Anthropic 称过度依赖 AI 编程可能导致初级开发者技能显著退化看看就行的小道消息少数派的近期动态你可能错过的好文章查看全文
+  url: https://sspai.com/post/105959
+  source: Sspai.com
+- title: 中泰证券：TMT行业有望在政策与需求双重驱动下延续复苏态势
+  description: 36氪获悉，中泰证券研报表示，展望2025年年报和2026年一季报，TMT行业有望在政策与需求双重驱动下延续复苏态势。一方面，政策层面持续鼓励数字经济发展，多项扶持政策和规划落地。另一方面，资本市场对科技板块依然保持高度关注，2025年下半年以来AI板块行情持续轮动。可以预期，在2025年全年业绩陆续验证之后，具备扎实基本面、业绩超预期的优质科技公司有望成为春季市场的核心主线。
+  url: https://36kr.com/newsflashes/3666807959249795
+  source: 36kr.com
+- title: 2026 印度 AI 數據中心免稅政策：2047 年前零稅率與半導體補貼全解析
+  description: 為實現 2047 年「發達印度」願景，印度政府提出戰略性稅收豁免，吸引雲端業者建立全球數據中心，旨在打造 AI 運算樞紐。此舉輔以半導體與稀土自主政策，惟須克服能源、水資源等基礎設施限制。
+  url: https://www.inside.com.tw/article/40606-india-offers-zero-taxes-through-2047-to-lure-global-ai-workloads
   source: Inside.com.tw
-- title: 馬斯克的SpaceX準備將100萬顆AI算力衛星送入太空
-  description: SpaceX稱，這套系統將能提供足以服務「全球數十億使用者」所需的算力。
-  url: https://www.bbc.com/zhongwen/articles/cn0y72184yko/trad
-  source: BBC News
+- title: 達梭系統力挺工程師將成 AI 技術革命核心，三位擬夥伴扮演最佳助手
+  description: 在全球工程與設計領域備受矚目的年度盛會上，達梭系統（Dassault Systèmes）及其旗下 SOLIDWORKS 品牌向全球最大的工程師社群發出了一個明確且振奮人心的信號。在人工智慧（AI）席捲全球的當下，工程師不僅不會被取代，反而將成為這場技術革命的核心。達梭系統執行長
+    Pascal Dal...
+  url: https://technews.tw/2026/02/03/dassault-systemes-strongly-supports-engineers-as-the-core-of-the-ai-%e2%80%8b%e2%80%8btechnology-revolution/
+  source: Technews.tw
+- title: 達梭系統力挺工程師將成 AI 技術革命核心，三位擬夥伴扮演最佳助手
+  description: 在全球工程與設計領域備受矚目的年度盛會上，達梭系統 （Dassault Systèmes） 及其旗下 SOLIDWORKS 品牌向全球最大的工程師社群發出了一個明確且振奮人心的信號。在人工智慧
+    （AI） 席捲全球的當下，工程師不僅不會被取代，反而將成為這場技術革命的核心。達梭系統執行長 Pascal...
+  url: https://finance.technews.tw/2026/02/03/dassault-systemes-strongly-supports-engineers-as-the-core-of-the-ai-%e2%80%8b%e2%80%8btechnology-revolution/
+  source: Technews.tw
+- title: 元月海外股票型 ETF 前十強出爐！00910 受惠繞月任務漲 31.57%
+  description: 元月份全球股市熱鬧上揚，根據 CMoney 統計，元月海外股票型 ETF 前十強全部由科技、主題型 ETF 包辦，第一金太空衛星 ETF（00910）以漲幅高達
+    31.57% 奪第一名，其後依序為中信日本半導體上漲 24.36%、台新日本半導體 23.96%、國泰臺韓科技 21.66%。 隨著全球金...
+  url: https://finance.technews.tw/2026/02/02/lunar-circumnavigation-mission/
+  source: Technews.tw
+- title: 中信证券：看好后续AI产业持续推进以及IP商业化对传媒板块行业的推动
+  description: 36氪获悉，中信证券指出，看好后续AI产业持续推进以及IP商业化对传媒板块行业的推动，建议关注游戏板块新产品周期带来的业绩提升，关注IP商业化带动的业绩增量。1.绩优及高分红标的，建议重点关注游戏、营销、出版等方向。2.新技术及新消费趋势，新技术建议关注AI，新消费趋势建议关注IP商业化。AI建议重点关注游戏、营销、教育等方向，2C应用建议关注陪伴类产品；IP商业化建议重点关注谷子经济、AI玩具以及动画电影等方向。3.监管宽松下，游戏以及影视行业进入稳定发展通道，有优质内容储备的公司经营有望持续向上。
+  url: https://36kr.com/newsflashes/3665461317886594
+  source: 36kr.com
