@@ -1,71 +1,94 @@
-- title: 氪星晚报｜支付宝AI付笔数超1.2亿；京东外卖：近400家餐饮品牌订单量突破百万；雷军：小米YU 7今年1月份销量37869台
-  description: "大公司：\n 支付宝AI付笔数超1.2亿\n 36氪获悉，2月12日，支付宝“AI付”一周累计支付笔数已超1.2亿笔，成为全球首个支付笔数破亿的AI原生支付产品。“AI付”是面向AI时代推出的安全便捷支付服务，已在千问、Rokid、瑞幸等多个AI场景上线服务。\n\
-    \ 赛诺菲任命Belén Garijo为新任首席执行官\n 赛诺菲宣布，不再续聘保罗·哈德森（Paul Hudson）的董事职务。因此，哈德森的首席执行官任期将于2026年2月17日届满。赛诺菲称，董事会感谢他在过去六年间为集团转型与发展作出的宝贵贡献。根据提名委…"
-  url: https://36kr.com/p/3680069763313539
+- title: 氪星晚报｜MOVA TPEAK宣布签订亿元订单；韩国SK集团董事长密集会晤硅谷巨头，布局AI半导体生态；小米汽车累计交付量已超60万台
+  description: "大公司：\n 韩国SK集团董事长密集会晤硅谷巨头，布局AI半导体生态\n 韩国SK集团董事长崔泰源在美国硅谷商务出差期间，继会见英伟达之后，又与多家全球大型科技公司CEO进行了会晤，包括谷歌、微软、博通和Meta等。\
+    \ 根据SK海力士新闻室13日的消息，崔董事长自本月初访美以来，先后会见了英伟达CEO黄仁勋、博通CEO陈福阳、微软CEO萨蒂亚·纳德拉、Meta CEO马克·扎克伯格以及谷歌CEO桑达尔·皮查伊。\
+    \ 此举被解读为通过SK集团的AI整合解决方案，与下一代AI半导体和数据中心展开合作，从而设计和扩展AI生态系统…"
+  url: https://36kr.com/p/3681523965996928
   source: 36kr.com
-- title: Anthropic宣布完成300亿美元G轮融资，投后估值达3800亿美元
-  description: 当地时间2月12日，人工智能公司Anthropic宣布完成300亿美元G轮融资，投后估值达3800亿美元。募集资金将用于推动前沿研究、产品开发和基础设施建设。（界面）
-  url: https://36kr.com/newsflashes/3680936684187523
+- title: 卧安机器人在深圳成立具身智能产业发展公司，注册资本1亿元
+  description: 36氪获悉，爱企查App显示，近日，卧安（深圳）具身智能产业发展有限公司成立，法定代表人为李志晨，注册资本1亿元人民币，经营范围为智能机器人的研发，人工智能应用软件开发，以自有资金从事投资活动，企业管理，信息咨询服务，技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广。股东信息显示，该公司由卧安机器人（深圳）股份有限公司全资持股。
+  url: https://36kr.com/newsflashes/3681212760256391
   source: 36kr.com
-- title: 这家机器人公司把“具身数据”塞进1万个背包里
-  description: "作者丨苏建勋\n 在具身智能领域，“搞数据”这个事儿，可能是为数不多的共识。\n 依靠训练巨量数据，大语言模型诞生了Chatgpt，“Scaling\
-    \ Law”也成了AI人的信仰，可在具身智能所属的物理世界，没有互联网上海量的数据参照。不论是人，还是机器人，在现实中的数据量，都不足以复现GPT时刻。\n\
-    \ 所以，数据怎么搞，能搞到多少，以及要让数据有质量，就成了具身智能从业者当下最重要的工作之一。\n 最近，就有一家机器人公司想在数据采集上“整点花活儿”。鹿明机器人发布了全球首款背包版UMI数采设备FastUMI\
-    \ Pro（背…"
-  url: https://36kr.com/p/3680210722254473
+- title: 韩国SK集团董事长密集会晤硅谷巨头，布局AI半导体生态
+  description: 韩国SK集团董事长崔泰源在美国硅谷商务出差期间，继会见英伟达之后，又与多家全球大型科技公司CEO进行了会晤，包括谷歌、微软、博通和Meta等。
+    根据SK海力士新闻室13日的消息，崔董事长自本月初访美以来，先后会见了英伟达CEO黄仁勋、博通CEO陈福阳、微软CEO萨蒂亚·纳德拉、Meta CEO马克·扎克伯格以及谷歌CEO桑达尔·皮查伊。
+    此举被解读为通过SK集团的AI整合解决方案，与下一代AI半导体和数据中心展开合作，从而设计和扩展AI生态系统的布局，使其成为人工智能业务的领导者。（新浪财经）
+  url: https://36kr.com/newsflashes/3681446114537089
   source: 36kr.com
-- title: 千问6天AI订单量破1.2亿单
-  description: 36氪获悉，2月12日，千问App数据显示：过去6天，用户说了41亿次“千问帮我”，AI完成下单超1.2亿笔。据了解，这是全球首次实现AI
-    Agent的大规模真实世界任务执行与商业化验证。
-  url: https://36kr.com/newsflashes/3679730987396992
-  source: 36kr.com
-- title: 马斯克在SpaceX合并后和巨额IPO前重组xAI
-  description: 亿万富翁埃隆-马斯克将其人工智能初创公司xAI与他的火箭公司SpaceX合并，在计划进行可能是有史以来规模最大的首次公开募股之前，对该公司的管理层进行了全面调整。在周三宣布重组之前，这家成立三年的人工智能公司的几位联合创始人最近相继离职，使得这家初创公司最初的12位联合创始人只剩下一半，在马斯克推动与OpenAI和谷歌展开全方位竞争的同时，也引发了有关稳定性的问题。（新浪财经）
-  url: https://36kr.com/newsflashes/3679558411742854
-  source: 36kr.com
-- title: 元琛科技在深圳成立安碳量芯科技公司，含多项AI业务
-  description: 36氪获悉，爱企查App显示，近日，元琛安碳量芯（深圳）科技有限公司成立，法定代表人为徐辉，注册资本200万元人民币，经营范围包括人工智能应用软件开发、人工智能行业应用系统集成服务、人工智能通用应用系统等。股东信息显示，该公司由安徽元琛环保科技股份有限公司全资持股。
-  url: https://36kr.com/newsflashes/3679782751448963
-  source: 36kr.com
-- title: 联想集团：第三季度营收222亿美元，同比增长18%
-  description: 36氪获悉，联想集团在港交所公告，截至二零二五年十二月三十一日止第三季度，集团收入同比增长18%，达创历史新高的222亿美元；人工智能相关收入同比增长72%，占集团总收入达32%。第三季度公司权益持有人应占溢利为5.46亿美元。
-  url: https://36kr.com/newsflashes/3679812003999366
-  source: 36kr.com
-- title: 三星宣布率先量產HBM4記憶體，強調量產初期就有領先的良率與性能
-  description: 2026年隨著NVIDIA、AMD都將推出新一代AI加速運算架構，也是各大高速記憶體廠商相互競爭的時間點；三星先聲奪人，宣布成為全球首家量產HBM4記憶體的公司，強調從量產就確保穩定的良率與領先性能，三星預估透過一站式的高性能記憶體解決方案，有望於2026年始HBM記憶體銷售增長3倍以上。▲三星HBM4採用1c
-    DRAM與4nm製程，強調兼具效能與出色的能耗表現三星強調其HBM4打破過去採用相對成熟製程的慣例，採用1c DRAM與4nm製程等在記憶體領先技術，使三星的HBM4具有出色的性能與良好的能源效率；此外三…
-  url: https://www.cool3c.com/article/246446
-  source: Cool3c.com
-- title: 比移民衝擊更大！AGI 若無監管，2027 年前恐引爆全球就業危機
-  description: 隨著科技公司朝著通用人工智慧（AGI）的目標快速前進，Google 前倫理學家崔斯坦·哈里斯（Tristan Harris）警告，若不加以控制，AGI
-    可能在 2027 年前引發全球就業市場崩潰。哈里斯在《CEO 日記》Podcast 中表示，許多業界領袖相信人類水平的人工智慧可能在不久的將來實現，...
-  url: https://technews.tw/2026/02/13/ai-could-trigger-a-global-jobs-market-collapse-by-2027-if-left-unchecked/
-  source: Technews.tw
-- title: MinerU完成10余家国产AI芯片算力适配
-  description: 36氪获悉，日前，上海人工智能实验室OpenDataLab团队联合DeepLink及多家国产芯片厂商，已完成对昇腾、平头哥、沐曦等10余家国产算力的深度适配。MinerU是上海人工智能实验室推出的AI文档解析工具，可将PDF、网页中的数学公式、复杂表格等元素高精度转化为大模型可读取的结构化数据，准确率达99%，被用于大模型语料生产及政企文档数字化。
-  url: https://36kr.com/newsflashes/3679777968271239
-  source: 36kr.com
-- title: 蘋果AI功能成付費誘餌，免費軟體恐全面「升級」變訂閱！果粉荷包要失血了？
-  description: '蘋果正積極檢視軟體服務，未來蘋果使用者將迎來更多付費升級與訂閱方案。隨著人工智慧普及，蘋果將更多功能納入高階付費升級服務，這項訂閱方案策略恐影響使用者體驗。蘋果正積極檢視旗下軟體與服務，尋求更多獲利機會。馬克・古爾曼指出，未來蘋果使用者將看到更多付費升級與訂閱方案，這反映了公司在人工智慧普及後，將更多原先免費的功能納入高階付費服務的策略。
+- title: 早报｜影石CEO回应年会送房送车/12306新增「低人一等座」提醒/OpenAI发布新模型，用英伟达对手芯片
+  description: '· 市监局：反对厂商「内卷」、亏本卖车
 
-    未來，蘋果使用者將迎來更多付費升級服務與訂閱方案，這與蘋果上個月推出的 Apple Creator Studio 模式如出一轍。馬克・古爾曼在他最新一期的《Power
-    On》電…'
-  url: https://www.techbang.com/posts/127757-apple-ai-free-apps-go-subscription
+    · 荣耀前 CEO 赵明加入千里科技
+
+    · 小米开源首代机器人 VLA 大模型
+
+    ·#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+    爱范儿 |
+
+    原文链接 ·
+
+    查看评论 ·
+
+    新浪微博'
+  url: https://www.ifanr.com/1655183
+  source: Ifanr.com
+- title: So-net 攜手屏東海生館推新春限定闖關活動，現場加入官方 LINE 帳號換好禮
+  description: 'So-net 攜手屏東海生館推出新春限定「So-net × 屏東海生館 闖關任務」，2 月 3 日至 2 月 22 日登場，完成闖關可兌換限量小禮。台灣碩網網路娛樂股份有限公司（So-net）宣布，與國立海洋生物博物館合作推出期間限定活動「So-net
+    × 屏東海生館 闖關任務」，並同步正式上線 So-net 遊戲中心官方 LINE 帳號。活動自 2 月 3 日起至 2 月 22 日止，配合農曆新年檔期，邀請民眾在參觀海生館的同時，透過闖關互動增添參觀樂趣。
+
+
+    So-net 表示，活動期間園區內將設置多個看板娘闖…'
+  url: https://www.techbang.com/posts/127830-so-net-aquarium-spring-event-line-account
   source: Techbang.com
-- title: 走出低谷的鎧俠第三季營收創下歷史新高，進一步調整合資企業營運策略
-  description: 全球記憶體大廠鎧俠控（Kioxia）於 12日公佈了截止至2025年12月31日的2025會計年度第三財務報告。受惠於人工智慧（AI）伺服器對高性能存儲產品的強勁需求，以及智慧型手機市場的高階化轉型，鎧俠本季繳出了一份亮眼的成績單，不僅營收創下歷史新高，營業利益率更顯著攀升。同時，公司宣佈調整與We...
-  url: https://finance.technews.tw/2026/02/12/kioxia-having-emerged-from-its-slump-achieved-record-high-revenue-in-the-third-quarter/
+- title: OpenAI 控 DeepSeek 利用蒸餾挑戰美國 AI 優勢，美中科技戰再升級
+  description: OpenAI 指控中國人工智慧公司 DeepSeek 利用不公平手法，以所謂「蒸餾」技術提取美國先進 AI 模型成果訓練 DeepSeek-R1。彭博新聞報導，OpenAI
+    12 日送交美國國會中國特別委員會的備忘錄指出，DeepSeek 行為是其「持續努力」的一部分，旨在「搭便車」利用 OpenA...
+  url: https://technews.tw/2026/02/13/openai-accuses-chinas-deepseek-of-distilling-us-ai-models-to-gain-an-edge/
   source: Technews.tw
-- title: TikTok 母公司字節跳動自研 AI 晶片，傳找上三星代工搶產能
-  description: 字節跳動尚未推出自有晶片，競爭對手阿里巴巴與百度在 AI 晶片研發方面已經領先：阿里巴巴 1 月發表「真武」（Zhenwu）晶片；百度已對外銷售晶片，並計劃近期推動旗下晶片子公司昆侖芯（Kunlunxin）上市。
-  url: https://www.inside.com.tw/article/40661-bytedance-ai-chip-samsung-foundry
+- title: Appier 2025 財報創歷史新高：Agentic AI 轉型奏效，營收獲利雙成長
+  description: Appier 公布 2025 財年財報，受惠代理型 AI 技術，營收達 437 億日圓，獲利亦創高。公司預測 2026 財年營收目標為
+    540 億日圓，由 AI 代理服務化（AaaS）持續驅動。
+  url: https://www.inside.com.tw/article/40676-appier-2025-earnings-agentic-ai-revenue-profit-record-highs
   source: Inside.com.tw
-- title: 中芯國際示警 AI 投資狂潮，資料中心恐成「新一代泡沫」
-  description: 中國半導體製造國際公司中芯國際（SMIC）聯合首席執行長趙海軍近日對科技公司在人工智慧（AI）資料中心建設上的急速擴張發出警告，指出這些計畫缺乏充分的規劃，可能導致未來的產能閒置。趙海軍在與分析師的通話中表示，許多公司希望在一到兩年內建設十年的資料中心容量，但對於這些資料中心的實際用途卻尚未有清晰的...
-  url: https://technews.tw/2026/02/12/top-chinese-chipmaker-warns-rapid-data-center-buildout-plan-is-half-baked/
+- title: MrBeast 砸錢買下 Step 銀行 App，目標服務 650 萬 Z 世代用戶
+  description: 全球最大 YouTube 頻道 MrBeast 宣布收購青少年銀行 App Step，這是網紅吉米・唐納森進軍金融業的重大動作。Step
+    目前擁有 650 萬 Z 世代用戶，提供 FDIC 保障帳戶。此收購距離 Beast Industries 獲 BitMine 投資 2 億美元僅數週，且先前已申請包含加密貨幣交易的「MrBeast
+    Financial」商標，顯示其金融布局野心。
+  url: https://www.inside.com.tw/article/40668-mrbeast-step-bank
+  source: Inside.com.tw
+- title: 小國的大戰略：當安全焦慮成為常態，新加坡總理黃循財為何押注人工智慧？
+  description: 在全球地緣政治緊張升溫與經濟前景轉趨溫和情勢下，新加坡總理兼財政部長黃循財（Lawrence Wong）於昨日國會預算演講中宣布成立國家人工智慧委員會，期望以科技突破人口老化與資源有限等限制。新加坡政府同時規劃在緯壹科技城（one-north）設立AI公園、擴大企業稅收優惠與補助計畫，加速產業轉型。面對網路威脅與區域衝突風險升高，新加坡亦強化國防與數位安全。
+  url: https://www.thenewslens.com/article/264766
+  source: Thenewslens.com
+- title: 华虹公司：2026年还没有看到存储市场增长放缓迹象
+  description: 华虹半导体高管日前在2025年第四季度业绩交流会上表示，历史上存储经历了繁荣与萧条，但很多观点认为本轮因为AI会让存储市场性质有所不同；目前来看至少2026年存储市场没有任何放缓增长的迹象。本轮AI推动的存储价格大幅上涨，的确对消费电子市场产生了负面影响，消费者会延迟产品更新周期，这可能对华虹合作伙伴产生一定负面影响，但公司其他领域增长势能更为强劲。（证券时报）
+  url: https://36kr.com/newsflashes/3681489698139784
+  source: 36kr.com
+- title: 具身智能如何抵达 “ChatGPT时刻”？智源院长、清华教授和3位创始人聊了聊
+  description: "文｜富充\n 编辑｜苏建勋\n 具身智能正在等待自己的“ChatGPT时刻”。但关于这个时刻的具体定义，业内还充满非共识。\n 近日，原力灵机的技术开放日圆桌论坛上，5位AI界的一线产、学、研从业者把这个问题摊开，各自发表了见解。他们分别是：\n\
+    \ 清华大学电子工程系长聘教授汪玉\n 北京智源人工智能研究院院长王仲远\n 阶跃星辰创始人&CEO 姜大昕\n 星海图创始人&CEO 高继扬\n 原力灵机联合创始人&CEO\
+    \ 唐文斌\n 阶跃星辰创始人&CEO姜大昕首先提出“ChatGPT时刻”的定义标准，是“零样本泛化”——即使给出从未见…"
+  url: https://36kr.com/p/3681608747609988
+  source: 36kr.com
+- title: 駭客組織UAT-9921將惡意程式框架VoidLink用於實際攻擊
+  description: 一個月前，資安公司Check Point揭露專為雲端環境打造的模組化惡意程式框架VoidLink，並指出開發者慣用簡體中文，疑似要求AI根據規格取向的開發方法（Spec-Driven
+    Development，SDD），打造近9萬行程式碼的複雜惡意程式，引起資安界高度關注。最近有新的調查結果出爐，駭客已將此框架用於實際活動。
+  url: https://www.ithome.com.tw/news/173948
+  source: Ithome.com.tw
+- title: 應材 2026 年首季 EPS 年增 75%，2026 年半導體業務將成長超過 2 成
+  description: 半導體設備商應材公布了截止於 2026 年 1 月 25 日的 2026 會計年度第一季財務報告。儘管單季營收較 2025 年同期微幅下降，但受惠於人工智慧（AI）運算加速投資的浪潮，帶動對高效能晶片與高頻寬記憶體（HBM）的強勁需求，公司在獲利能力上表現亮眼，GAAP
+    每股盈餘（EPS）較 202...
+  url: https://finance.technews.tw/2026/02/13/applied-materials-eps-for-the-first-quarter-of-2026-increased-by-75-year-on-year/
   source: Technews.tw
-- title: 美創業家示警 AI 衝擊恐超越疫情，5,000 萬瀏覽引論戰
-  description: 美國人工智慧（AI）新創公司執行長舒默示警，AI 的社會衝擊將比 COVID-19 疫情更劇烈，文章發表不到 24 小時，瀏覽人次突破
-    5,000 萬，引發科技圈、產業界的激烈論戰。 舒默（Matt Shumer）是新創公司OthersideAI共同創辦人兼執行長，旗下產品包括AI寫作工具Hyper...
-  url: https://technews.tw/2026/02/12/matt-shumer-something-big-is-happening/
+- title: Teamily AI 推出”北美元宝派”加强版，支持多人与多个AI Agents实时社交丨涌现新项目
+  description: "一句话介绍\n Teamily AI 是一个 AI-native 即时消息应用（instant messenger），支持多个人类与多个\
+    \ AI agents（代理）协作。它的核心是“代理社交网络”（agentic social network），人类与 AI agents可以在这里实时共存、互动。\n\
+    \ \n Teamily AI \n 融资进展\n Teamily AI 已经累计完成了 2000 万美元的融资，预计今年3月开启新一轮的融资计划。\n 产品及业务\n\
+    \ Teamily AI 是一个以 AI 为原生核心构建的即时通讯…"
+  url: https://36kr.com/p/3678646020940422
+  source: 36kr.com
+- title: 微軟轉向 AI 自給自足？2026 推自研模型，目標降低對 OpenAI 依賴
+  description: 微軟（Microsoft）12 日宣布其人工智慧（AI）策略將朝向自給自足的方向發展，這項轉變旨在減少對 OpenAI 的依賴。 微軟的
+    AI 主管穆斯塔法‧蘇萊曼（Mustafa Suleyman）在接受《金融時報》訪問時表示，微軟正推進所謂的「真正的 AI 自給自足」，將在 2026 年推出新的...
+  url: https://technews.tw/2026/02/13/microsoft-is-building-its-own-ai-model-as-it-loosens-its-ties-to-openai/
   source: Technews.tw
