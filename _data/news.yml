@@ -1,81 +1,85 @@
-- title: 李飞飞初创公司World Labs融资10亿美元 估值50亿美元
-  description: "2月19日消息，据外电报道，由人工智能先驱李飞飞创立的人工智能初创公司World Labs于2026年2月18日宣布完成10亿美元的融资，其中Autodesk领投2亿美元。其他参与者包括NVIDIA、AMD、Andreessen\
-    \ Horowitz、Emerson Collective、Fidelity Management & Research和Sea。\r\n融资详情及投资者Autodesk\
-    \ 在本轮融资中出资 2 亿美元，其他参与者包括 NVIDIA 公司、AMD 公司、Andreessen Horowitz、Em…"
-  url: https://www.cnbeta.com.tw/articles/tech/1550394.htm
-  source: Cnbeta.com.tw
-- title: Mistral CEO警告：超过50%的企业软件可能会被AI取代
-  description: "近日，法国人工智能（AI）初创公司Mistral首席执行官Arthur Mensch表示，当前企业所使用的软件中超过50%可能会被AI取代。投资者对AI热潮的看好促成了近三年美国股市的牛市，但近期市场基调已转变为对AI颠覆性潜力的担忧。\r\
-    \n今年1月，AI明星公司Anthropic发布了AI协作工具Claude Cowork，引发了软件股抛售。iShares Expanded Tech-Software\
-    \ Sector ETF（其主要持仓包括微软和Salesforce等公司）今年以来已下跌超过20%。投资者担忧，AI…"
-  url: https://www.cnbeta.com.tw/articles/tech/1550460.htm
-  source: Cnbeta.com.tw
-- title: 生成式 AI 工具生成密碼並不安全　專家警告只需數小時即可破解
-  description: 資安公司 Irregular 最新研究揭示，ChatGPT、Claude 及 Gemini 等主流 AI 聊天機械人生成的密碼表面上字元複雜卻存在可預測規律。黑客即使使用數十年前舊電腦也能在數小時內暴力破解。研究團隊警告這個根本缺陷無法透過修改提示語或調整模型參數解決。
-  url: https://unwire.hk/2026/02/19/ai-generated-passwords-vulnerability-hacked-in-hours/ai/
-  source: Unwire.hk
-- title: Gemini 正式加入「音樂生成」功能！最新 Lyria 3 模型登場，一句話就能創作歌曲
-  description: 'Gemini 真的變得越來越強，不只是聊天、生成影片和圖片，現在連音樂生成功能也支援了！稍早 Google 宣布 Lyria 3 音樂生成模型正式導入到
-    Gemini，可根據用戶輸入的文字、圖片或影片，快速做出 30 秒的音樂，包括樂器聲、歌聲和歌詞，還會自動生成音樂封面圖片。
+- title: 人工智能先驱李飞飞创办的World Labs获得10亿美元融资
+  description: 人工智能先驱李飞飞创办的公司World Labs在新一轮融资中筹集了10亿美元，这家初创公司正加速推进其“空间智能”技术的发展。
+  url: https://www.dw.com/zh/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%88%E9%A9%B1%E6%9D%8E%E9%A3%9E%E9%A3%9E%E5%88%9B%E5%8A%9E%E7%9A%84world-labs%E8%8E%B7%E5%BE%9710%E4%BA%BF%E7%BE%8E%E5%85%83%E8%9E%8D%E8%B5%84/a-76036647
+  source: DW (English)
+- title: 'Seedance 2.0: 這款中國AI應用程式令好萊塢陷入恐慌'
+  description: 由TikTok母公司開發的新型人工智慧（AI）模型本週震撼好萊塢，Seedance 2.0僅需少量文字提示即可生成具備音效與對白的電影級影片。
+  url: https://www.bbc.com/zhongwen/articles/cwy964g856go/trad
+  source: BBC News
+- title: 免費版就能用！Anthropic 發布 Sonnet 4.6，支援 100 萬 Token 脈絡長度可讀整庫程式碼
+  description: 'Anthropic 火速推出中階 AI 模型 Sonnet 4.6，程式碼撰寫與電腦操作能力顯著提升，脈絡長度達百萬 Token。AI
+    模型大戰真的沒有要停下來的意思。距離旗艦級模型 Opus 4.6 發布才短短兩週，Anthropic 又火速推出了中階模型的新版本「Sonnet 4.6」，延續了該公司每四個月更新一次的穩定節奏
+    。官方公告特別強調，這次升級在程式碼撰寫、指令遵循以及電腦操作能力上都有顯著提升 。
 
-    The post Gemini 正式加入「音樂生成」功能！最新 Lyria 3 模型登場，一句話就能創作歌曲 appeared first on 電腦王阿達.'
-  url: https://www.koc.com.tw/archives/631603
-  source: Koc.com.tw
-- title: Google I/O 2026 敲定 5 月 19 日登場！傳首款 AI 智慧眼鏡將現身，正面迎戰 Meta
-  description: 'Google I/O 大會即將登場，揭示 Google 在 AI 大戰中的最新佈局。AI 大戰打得火熱，Google 終於要出招了嗎？Google
-    母公司 Alphabet 於週二（17 日）正式宣佈，年度科技盛會 Google I/O 開發者大會將於 5 月 19 日至 20 日舉辦。Alphabet
-    執行長 Sundar Pichai隨後也在 X 平台（前 Twitter）上證實了這個日期。本次大會將回歸加州山景城（Mountain View）總部舉行，並同步在活動官網進行全球直播
-    。
-
-
-    對於科技迷來說，今年…'
-  url: https://www.techbang.com/posts/128006-google-io-2026-ai-glasses-debut-vs-meta
+    對廣大用戶來說，最棒的消息莫過於 Sonnet 4.6 將直接成為免費版與 Pro 版使用者的預設模…'
+  url: https://www.techbang.com/posts/128007-anthropic-sonnet-4-6-1m-tokens-codebase-free
   source: Techbang.com
-- title: NVIDIA 清空 Arm 持股，兩家公司技術合作關係不受影響
-  description: 不過，這筆持股的出清並不意味著兩家公司關係決裂。
-  url: https://www.inside.com.tw/article/40694-nvidia-sells-entire-arm-stake
-  source: Inside.com.tw
-- title: Palantir 與前員工新創官司取得部分勝利，禁止再挖角 Palantir 員工
-  description: Palantir Technologies Inc. 今日取得初步勝利，法官認定三名前員工創辦的人工智慧新創公司 Percepta 時，可能違反保密和不招攬協議。但法官未禁止新公司經營。
-    Palantir 去年提告 Percepta 聯合創辦人兼執行長 Hirsh Jain，指控他 2024 年 8...
-  url: https://finance.technews.tw/2026/02/19/palantir-gets-partial-win-in-fight-with-ex-workers-at-ai-startup/
+- title: Grok 4.2 公開測試版正式上線，主打「每週進化」的快速學習能力
+  description: '馬斯克旗下 xAI 正式推出 Grok 4.2 公開測試版！這個新版 Grok 4.2 具備快速學習能力，xAI 將以週為單位迭代更新，力求縮短與競爭對手差距，AI
+    玩家不容錯過。AI 領域的競賽真的是一刻不得閒。特斯拉與 X 平台的執行長伊隆·馬斯克（Elon Musk）稍早在 X 平台上正式宣佈，旗下人工智慧公司 xAI
+    的最新模型「Grok 4.2」候選發布版（Release Candidate），即日起開放公開測試 。
+
+    想嘗鮮的用戶得留意一下操作方式。馬斯克在貼文中特別提醒，這個新版本不會自動套用，使用者…'
+  url: https://www.techbang.com/posts/128005-grok-4-2-beta-weekly-evolution
+  source: Techbang.com
+- title: 俄羅斯新創公司 Neiry 啟動「生物無人機」早期實測，活體鴿子搭載神經介面引發關注
+  description: 俄羅斯神經科技公司Neiry啟動「生物無人機」實地測試，利用腦機介面技術引導鴿子飛行。這項生物無人機技術不僅挑戰傳統無人機概念，更引發腦機介面應用於動物行為控制的倫理爭議。總部設於杜拜與莫斯科、核心業務在俄羅斯的神經科技公司
+    Neiry，近年以腦機介面（BCI）裝置與演算法為主軸，產品橫跨消費型 EEG 頭戴裝置與動物侵入式神經植入技術。該公司約於 2018 年成形為集團架構，由創辦人
+    Alexander Panov 主導，早期以行銷與科技業務起家，之後轉向神經科技領域，並獲俄羅斯國家創新基金體系資金支持。如今，…
+  url: https://www.techbang.com/posts/127952-neiry-bio-drones-pigeons-neural
+  source: Techbang.com
+- title: 別被「亂碼」騙了，ChatGPT、Claude、Gemini 生成的密碼其實超好破解
+  description: 在人工智慧（AI）時代，網路安全面臨新挑戰。根據網路安全公司 Irregular 於今年 2 月的最新研究，許多大型語言模型（LLMs）如
+    Claude、ChatGPT 和 Gemini 所生成的密碼，雖然看似強大，實際上卻極其脆弱，容易被破解。 研究人員對這些AI模型進行測試，要求它們生成包含特殊...
+  url: https://infosecu.technews.tw/2026/02/20/ai-generated-passwords-are-apparently-quite-easy-to-crack/
   source: Technews.tw
-- title: OpenAI 與 Paradigm 聯手推 EVMBench，改善檢測修補以太坊智慧合約漏洞
-  description: OpenAI 與加密投資公司 Paradigm 合作推 EVMBench，是先進基準測試系統，評估人工智慧代理對以太坊虛擬機（EVM）智慧合約安全性和漏洞檢測力。這創新代表自動化區塊鏈安全協議的一次重大進步，並可能徹底改變開發者對去中心化應用安全的看法。
-    EVMBench的設計旨在全面評估AI代理在...
-  url: https://technews.tw/2026/02/19/openai-and-paradigm-created-a-testing-ground/
-  source: Technews.tw
-- title: 核能復興：新世代核分裂技術 8 家潛力公司大評比
-  description: 全球能源市場正經歷著一場前所未有的劇烈震盪與重構，若將這場核能復興比作一條潛伏已久的神龍，那麼2025年至2026年初所發生的一系列地緣政治、技術突破與資本運作，正是這條神龍猛然擺尾的時刻。這一擺，不僅掃清了過去三十年籠罩在核能產業上的陰霾，更捲起了以兆美元計的資本巨浪。
-    所謂神龍之首，是以前所未有...
-  url: https://technews.tw/2026/02/19/8-nextgen-nuclear-company/
-  source: Technews.tw
-- title: 生日當天被捕！英前王子安德魯牽扯淫魔檔案　涉公職人員行為不當
-  description: 英國前王子安德魯曾與美國已故「淫魔富豪」艾普斯坦過從甚密，相關醜聞已導致他被褫奪「王子」頭銜。英國廣播公司（BBC）剛剛報導，他因涉及公職人員行為不當被捕。
-  url: https://tw.news.yahoo.com/%E7%94%9F%E6%97%A5%E7%95%B6%E5%A4%A9%E8%A2%AB%E6%8D%95-%E8%8B%B1%E5%89%8D%E7%8E%8B%E5%AD%90%E5%AE%89%E5%BE%B7%E9%AD%AF%E7%89%BD%E6%89%AF%E6%B7%AB%E9%AD%94%E6%AA%94%E6%A1%88-%E6%B6%89%E5%85%AC%E8%81%B7%E4%BA%BA%E5%93%A1%E8%A1%8C%E7%82%BA%E4%B8%8D%E7%95%B6-104349351.html
-  source: Yahoo Entertainment
-- title: Meta据悉重启智能手表项目 计划今年发布首款产品
-  description: "据知情人士称，美国科技巨头Meta已重启其“Malibu 2”智能手表项目，计划今年发布首款产品。消息人士称，这款智能手表预计将于今年晚些时候发布，将具备健康追踪功能和内置的Meta\
-    \ AI助手。\r\nMeta大约五年前曾探索过智能手表，一度计划推出配备三摄像头的版本，但随着其Reality Labs部门大幅削减开支，该公司在 2022\
-    \ 年搁置了这项工作。这一消息预示着在人工智能热潮的推动下，可穿戴设备将迎来强势回归。各公司纷纷推出搭载AI技术的产品，尤其针对健康和健身领域。AI智能眼镜是其中的佼佼者，Meta公司的…"
-  url: https://www.cnbeta.com.tw/articles/tech/1550386.htm
+- title: 奥特曼：中国科技进步令人瞩目 ChatGPT将推Instagram式广告
+  description: "OpenAI首席执行官Sam Altman周四在接受 CNBC 采访时表示，中国科技公司在整个技术栈上的进展非常迅速。奥特曼表示，包括人工智能在内的许多领域的技术进步速度惊人。他还补充说，在某些领域，中国科技公司已接近前沿，而在另一些领域则落后于其他国家。\r\
+    \n奥特曼发表这番言论之际，正值中国大力发展通用人工智能，力图与美国展开竞争。通用人工智能是指人工智能达到人类水平的能力，并将其广泛应用于社会各个领域。他还表示，OpenAI\
+    \ 可能会考虑在 ChatGPT 中推出“Instagram 式”广告，以拓展收入来源。“…"
+  url: https://www.cnbeta.com.tw/articles/tech/1550540.htm
   source: Cnbeta.com.tw
-- title: 比尔·盖茨因爱泼斯坦档案风波退出印度人工智能峰会主旨演讲
-  description: "微软联合创始人比尔·盖茨原计划在新德里举行的“印度AI影响力峰会”上发表主旨演讲，但其慈善机构在他登台前数小时宣布，他将不再出席这一重要环节。盖茨基金会表示，此举是在“经过慎重考虑”后作出的，目的是“确保峰会的焦点仍然聚焦于其关键优先事项”，但未对具体原因做进一步说明。\r\
-    \n盖茨此番退场正值外界重新审视其与已故性犯罪者杰弗里·爱泼斯坦之间关系之际。今年1月，美国司法部公布的新文件中出现了盖茨的名字，引发舆论关注。对此，盖茨发言人称文件中的相关指控“完全荒谬、毫无根据”，盖茨本人此前也公开表示，他“后悔曾与爱泼斯坦有…"
-  url: https://www.cnbeta.com.tw/articles/tech/1550480.htm
-  source: Cnbeta.com.tw
-- title: 新玩意 236｜少数派的编辑们最近买了啥？
-  description: 从手机到手指机器人，少数派的编辑们又买了啥新玩意？查看全文
-  url: https://sspai.com/post/106451
-  source: Sspai.com
-- title: 10款值得在春节折腾的工具｜最后一个压轴
-  description: 如果春节里觉得无聊了，就试试下面的工具..吧。第一条第四条不算工具，算…通知吧。 好了，直接开始： 除了西部数据，希捷也宣布 2026
-    年硬盘卖完了。 昨天西部数据表示，2026年硬盘已经全年售罄，今天又获息：希捷也卖完了  目前，全球能生产 HDD 硬盘的三家厂商中（是的，青小蛙确认
-  url: https://www.appinn.com/10-tools-to-try-during-chinese-new-year/
-  source: Appinn.com
-- title: Google 宣布 150 億美元 AI 資料中心計畫，強化印度科技生態系
-  description: 19 日的印度 AI 影響高峰會，Google 高層強調印度在全球人工智慧（AI）領域的戰略重要性，並 AI 領導力和創新方面的獨特定位。首席執行長
-    Sundar Pichai 表示：「印度正處於非凡的 AI 時代曙光中。」強調 Google 對 AI 基礎設施、技能培訓和負責任創新的投資承諾。 G...
-  url: https://technews.tw/2026/02/19/watch-google-executives-hail-indias-ai-potential/
+- title: Sony 鐵了心要用 AI 做遊戲！GTA 6 卻堅持「純手工」？兩大巨頭策略大不同
+  description: 'Sony 計劃大量應用 AI 於遊戲開發以提升效率，而《GTA 6》則堅持純手工打造，拒絕 AI 介入。這場關於 AI 在遊戲開發中效率與靈魂的拉鋸戰，究竟誰能贏得玩家的心？當全球玩家還在為「AI
+    到底會不會毀了遊戲靈魂」爭論不休時，PlayStation 的東家 Sony 已經給出了明確答案：我們要大量使用。然而，就在天秤的另一端，備受期待的《GTA
+    6》（俠盜獵車手 6）母公司 Take-Two 卻跳出來大喊：「我們這可是純手工打造！」兩大巨頭在 AI 議題上的分道揚鑣，究竟意味著什麼？
+
+    Sony：AI 是工…'
+  url: https://www.techbang.com/posts/127876-sony-ai-vs-gta6-handcrafted
+  source: Techbang.com
+- title: 恒生科技指数跌近3%，智谱及MiniMax市值双双逆势突破3000亿港元
+  description: 2月20日，香港恒生指数收跌1.10%，恒生科技指数收跌2.91%。互联网科技股普跌，百度跌超6%，阿里巴巴跌近5%。半导体股走弱，华虹半导体跌近6%，中芯国际跌超3%。国产AI大模型板块逆势收涨，智谱涨近43%，MiniMax涨超14%，两者市值双双冲破3000亿港元。（财联社）
+  url: https://36kr.com/newsflashes/3691369055530889
+  source: 36kr.com
+- title: 輝達擬砸 300 億美元投資 OpenAI，取代千億美元長期合作
+  description: 《金融時報》（Financial Times）今天引述知情人士報導，輝達公司（Nvidia）即將完成對 OpenAI 的 300 億美元投資，取代雙方去年達成的
+    1,000 億美元長期合作意向。 報導指出，這筆交易將成為這家人工智慧（AI）新創公司新一輪募資的一部分，最快可能於本週末完成。 路透社無...
+  url: https://technews.tw/2026/02/20/nvidia-and-openai-abandon-unfinished-100bn-deal-in-favour-of-30bn-investment/
   source: Technews.tw
+- title: 莫迪高呼 AI 開放共享，台上兩大 CEO 卻用肢體語言畫清界線
+  description: 在 2 月 19 日的印度 AI 影響力峰會上，全球最大的人工智慧領導者齊聚新德里，討論最新的 AI 模型及其對社會的影響。然而，最引人注目的卻是
+    OpenAI 首席執行長山姆·阿特曼（Sam Altman）和 Anthropic 首席執行長達里奧·阿莫迪（Dario Amodei）在一場象徵性合影...
+  url: https://technews.tw/2026/02/20/ais-top-leaders-got-corralled-into-holding-hands/
+  source: Technews.tw
+- title: 川普關稅加 AI 熱潮，美國自台灣進口額數十年來首超中國
+  description: 彭博（Bloomberg News）報導，在美國總統川普的關稅措施重塑貿易流向之際，加上全球人工智慧（AI）熱潮帶動科技產品需求，美國自台灣商品進口額數十年來首度超越中國。
+    美國商務部昨天公布的數據顯示，美國去年12月自中國進口商品金額較前年同比大減近44%，降至211億美元；美國同期自台灣進口金額...
+  url: https://technews.tw/2026/02/20/us-imports-more-from-taiwan-than-china-for-first-time-in-decades/
+  source: Technews.tw
+- title: Phison︰儲存晶片短缺至 2030 年 預告 2026 年將有大量公司因此倒閉
+  description: null
+  url: http://www.hkepc.com/25111/Phison%E5%84%B2%E5%AD%98%E6%99%B6%E7%89%87%E7%9F%AD%E7%BC%BA%E8%87%B3_2030_%E5%B9%B4_%E9%A0%90%E5%91%8A_2026_%E5%B9%B4%E5%B0%87%E6%9C%89%E5%A4%A7%E9%87%8F%E5%85%AC%E5%8F%B8%E5%9B%A0%E6%AD%A4%E5%80%92%E9%96%89
+  source: Hkepc.com
+- title: 百萬銷量策略遊戲《王權》攜手《巫師》系列，《王權：巫師》2 月 26 日登上 PC 與行動平台
+  description: '《王權》系列宣布與《巫師》合作推出《王權：巫師》，玩家將化身傑洛特，以左右滑動的方式做出抉擇，展開黑暗奇幻冒險。遊戲預定 2 月 26
+    日登上 PC、iOS 與 Android 平台。獨立遊戲發行商 Devolver Digital 宣布，旗下百萬銷量的策略敘事遊戲《王權（Reigns）》系列，將與
+    CD PROJEKT RED 旗下《巫師（The Witcher）》系列展開跨界合作，推出新作《王權：巫師（Reigns: The Witcher）》。遊戲由《王權》系列開發團隊
+    Nerial 製作，預定於台灣時間 …'
+  url: https://www.techbang.com/posts/127832-reigns-witcher-collab-pc-mobile
+  source: Techbang.com
+- title: Google公布Gemini 3.1 Pro，比三個月前的Gemini 3 Pro推論提升一倍以上
+  description: Google於2025年11月公布的Gemini 3 Pro讓Google的AI服務評價顯著提升，經過約三個月的時間，Google宣布再推出Gemini
+    3.1 Pro，強調於推論表現提升一倍以上；Gemini 3.1 Pro同樣優先提供給AI Pro與AI Ultra訂閱用戶於Gemini應用程式、NotebookLM使用，開發者與企業用戶可透過
+    AI Studio、Antigravity、Vertex AI、Gemini Enterprise、Gemini CLI 與Android Studio等透過Gemi…
+  url: https://www.cool3c.com/article/246539
+  source: Cool3c.com
