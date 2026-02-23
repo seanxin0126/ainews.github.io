@@ -1,77 +1,85 @@
-- title: 美国拟推“科技志愿队”出海推广本土 AI
-  description: "美国政府正筹划组建一支类似“和平队”的“科技志愿队”（Tech Corps），派遣志愿者前往海外，向各国推广美国的人工智能技术，以在全球\
-    \ AI 主导权竞争中对冲中国技术的快速扩张。 该项目已于本周五正式宣布，将作为拥有数十年历史的和平队框架下的新计划，延续美国在教育、卫生与经济发展领域的对外志愿传统，但重点转向\
-    \ AI 能力建设与应用落地。\r\n目前，美国的专有大型模型，如 OpenAI 的 GPT‑5 与 Anthropic 的 Claude，在发达国家企业用户中已凭借性能和可靠性占据重要地位。\
-    \ 然而，布鲁金斯学会…"
-  url: https://www.cnbeta.com.tw/articles/tech/1550664.htm
-  source: Cnbeta.com.tw
-- title: X-VLA——基于Soft Prompt的Transformer编码器练就可扩展的跨本体VLA：VLM做多模态感知，DiT-style做动作生成
-  description: 文章浏览阅读95次，点赞3次，收藏2次。摘要：本文提出X-VLA模型，通过SoftPrompt机制解决跨具身机器人学习中的异质性问题。该模型为不同数据源分配可学习嵌入，有效整合硬件配置差异，提升泛化能力。训练分两阶段：先在异构数据上预训练通用策略，再通过微调适配新具身形态。实验表明，X-VLA能在仅增加少量参数的情况下，显著提升模型对多样化机器人系统的适应能力，为具身智能的跨平台部署提供新思路。（149字）
-  url: https://blog.csdn.net/v_JULY_v/article/details/158262322
-  source: Csdn.net
-- title: 英伟达与OpenAI放弃未完成的1000亿美元协议 转而达成300亿美元投资交易
-  description: "英伟达即将敲定对OpenAI的300亿美元投资，这笔投资将取代双方去年敲定的1000亿美元长期合作承诺，同时也是这家人工智能初创企业新一轮大规模融资的一部分。知情人士透露，这家全球市值最高的企业正与OpenAI处于谈判的最后阶段，此次投资最早或于本周末落地。\r\
-    \n该人士表示，这笔300亿美元的股权投资隶属于OpenAI的一轮大型融资，此次融资总额有望突破1000亿美元；不含本次新增融资，这家ChatGPT研发企业的估值将达到7300亿美元。知情人士补充称，OpenAI将把此次新增融资的大部分资金再次投入英伟达的硬件…"
-  url: https://www.cnbeta.com.tw/articles/tech/1550616.htm
-  source: Cnbeta.com.tw
-- title: 美國電影協會向字節跳動發侵權停止令　稱 Seedance 2.0「侵權是功能非漏洞」
-  description: 美國電影協會（MPA）代表旗下 7 大荷里活片廠，於上週五正式向字節跳動發出停止侵權信函，要求其 AI 影片生成平台 Seedance
-    2.0 立即停止訓練片廠版權內容，並設立機制阻止用戶生成受版權保護的影片。這亦是 MPA 首次向主要生成式 AI 公司發出這類停止令。
-  url: https://unwire.hk/2026/02/21/mpa-bytedance-seedance-ai-copyright-cease-and-desist/ai/
-  source: Unwire.hk
-- title: 微軟遊戲部門人事變動：Phil Spencer 宣布退休，Asha Sharma 接執行長
-  description: 微軟遊戲部門發生重大變革之際，Phil Spencer 宣布退休，結束微軟長達 38 年職涯。Spencer 自2014 年領導 Xbox，並於
-    2022 年任命為遊戲部門執行長。他於信件透露，早在去年就告知執行長 Satya Nadella 預定退休，並開始尋找接班人，確保公司穩定。 接替 Spe...
-  url: https://ccc.technews.tw/2026/02/21/phil-spencer-asha-sharma/
-  source: Technews.tw
-- title: Anthropic发布AI代码扫描工具，美股网络安全股承压
-  description: 当地时间2月20日，Anthropic发布了AI工具Claude Code Security，其可以扫描代码库中的安全漏洞，提供有针对性的软件补丁建议。目前，Anthropic已在旗下AI产品Claude的企业版和团队版中向部分用户提供该工具的预览版。这则消息引发美股网络安全板块集体抛售。20日当天，Global
-    X网络安全ETF下跌4.9%，收于2023年11月以来最低点。个股方面，网安软件公司SailPoint、Okta跌超9%，Cloudflare跌超8%，Crowdstrike跌近8%，Zscaler跌5…
-  url: https://36kr.com/newsflashes/3692508835606400
+- title: 再投12400亿 ! 谷歌，冲击全球AI“王座”
+  description: "Alphabet CEO桑达尔·皮查伊\n 如果采用之前对互联网的估值方式对AI大模型公司进行估值，那么很有可能会错失一个时代。\n\
+    \ 但这并不意味着，所有的大模型公司都能获配超溢价估值。\n 过去很长一段时间，对于创业型科技企业我们习惯找一家头部公司进行对标，然后贴上相应的标签。例如在芯片领域，一些创业型芯片企业很容易被对标英伟达，然后给予超出公司实际营收水平且梦幻般的估值。\n\
+    \ 实际上，从公司本身的质地而言，差距十分明显。而英伟达作为芯片全球龙头，不管从需求的角度还是市场的角度，其产品很容易出售，业绩也很容易兑现，市场…"
+  url: https://36kr.com/p/3693821399084937
   source: 36kr.com
-- title: WD 2026 全年 HDD 產能售罄 AI 熱潮令消費市場僅剩 5% 貨源
-  description: Western Digital（WD）行政總裁 Irving Tan 於 Q2 2026 業績會議確認，公司 2026 年全年 HDD
-    產能已悉數售罄。生產配額幾乎全由前 7 大企業客戶鎖定，消費市場訂單僅佔約 5%。AI 數據中心需求急速擴張，令零售渠道可獲分配的 HDD 貨源極為有限，消費者正面臨嚴峻短缺局面。
-  url: https://unwire.hk/2026/02/21/wd-hdd-2026-sold-out-ai-shortage/ai/
-  source: Unwire.hk
-- title: 為與輝達競爭 AI 晶片市場，Google 祭出「鈔能力」投資更多合作夥伴
-  description: Google（母公司 Alphabet）積極探索利用財務實力擴大人工智慧（AI）晶片市場，特別是挑戰市場領導者輝達主導地位。Google
-    Tensor Processing Units（TPUs）AI 負載應用逐漸增多，更加速 AI 晶片採用率。 為了促進TPU需求，Google計劃更多支持資料中心...
-  url: https://finance.technews.tw/2026/02/21/google-using-financial-might-to-take-on-nvidias-ai-chip-dominance/
-  source: Technews.tw
-- title: OpenAI 推 AI 心理健康危機管理四步驟，呼籲企業注意員工使用 AI 工具隱憂
-  description: 面對日益嚴重的人工智慧（AI）心理健康危機，OpenAI 迅速採取行動，推出四步驟管理策略，對公司領導者是重要參考。OpenAI 系統若檢測到單一用戶多次自殺訊息時會立即行動，除了聘請緊急準備主管，也安裝即時內容分類器，並產品嵌入強制休息提醒。OpenAI
-    執行長 Sam Altman 承認，公司模...
-  url: https://finance.technews.tw/2026/02/22/openais-playbook-for-managing-ai/
-  source: Technews.tw
-- title: 技嘉攜手 NVIDIA 推出〈惡靈古堡：安魂曲〉遊戲套裝，強化沉浸遊戲體驗
-  description: 全球電腦領導品牌技嘉科技攜手 NVIDIA 推出〈惡靈古堡：安魂曲〉（Resident Evil Requiem）遊戲套裝合作，涵蓋搭載
-    GeForce RTX 5070 以上桌上型電腦及筆記型電腦繪圖晶片的指定顯示卡、AI 電競筆記型電腦與電競桌上型電腦。 GeForce RTX 50 系列顯示卡...
-  url: https://technews.tw/2026/02/21/resident-evil-requiem/
-  source: Technews.tw
-- title: 突破兩千瓦解熱瓶頸！工研院「低壓冷媒兩相流冷板」助攻 AI 算力
-  description: 隨著 AI 算力需求增加，液冷技術雖已成為推動高效能運算的關鍵趨勢，但硬體功耗攀升的速度更為驚人，NVIDIA Blackwell 架構的
-    GB300 晶片 TDP 已達 1,400W，預計 2026 年問世的 Rubin 架構更將一舉推升至 2,300W。 當全球科技業屏息關注 AI 算力如何重塑...
-  url: https://finance.technews.tw/2026/02/21/2-kilowatts-heat-dissipation/
-  source: Technews.tw
-- title: 川普被踩煞車、全球關稅違法，232 條款仍讓台灣出口壓力未解
-  description: 美國最高法院稍早裁定，川普政府先前援引《國際緊急經濟權力法》（IEEPA）推動的「全球關稅」與「對等關稅」機制違法，等於替總統在未經國會授權下、以緊急狀態為由全面課徵關稅的權限劃出界線。
-    現在市場關切該裁決是否意味關稅壓力降溫，但對出口導向的台灣科技供應鏈而言，短期雖可減輕全面性課稅的不確定性，中長...
-  url: https://technews.tw/2026/02/21/trump-reciprocal-tariffs-232-taiwan/
-  source: Technews.tw
-- title: 国家队也做云盘了？中科院免费送 20GB 空间，支持 S3 / WebDAV / 微信上传
-  description: 中科院旗下的中国科技云推出了一款名叫数据胶囊的服务，针对实名认证用户免费提供 20GB 空间，可以在网页直接使用，还能通过 S3、WebDAV
-    连接使用，绑定微信之后可从微信对话中上传文件。@Appinn 最后，还支持 AI 工具使用 MCP 方式查询文件，以及检索文件内容。 先看视频： 如何注册
-  url: https://www.appinn.com/data-cstcloud-cn/
-  source: Appinn.com
-- title: NotebookLM 推出內建簡報修改功能，用 AI 微調簡報中錯誤文字、圖像
-  description: 台灣農曆過年期間，  Google NotebookLM  推出了一個很有用的更新：「可以透過 AI 指令，單獨修改簡報某一頁的內容」
-    。之前 NotebookLM 生成簡報的功能廣受好評，例如我建立一個法規資料庫，可以快速用 AI 生成圖文並茂的法規說明簡報。
-  url: https://www.playpcesor.com/2026/02/notebooklm-ai.html
-  source: Playpcesor.com
-- title: 雷蛇 Kiyo V2 開箱實測：Sony STARVIS 感光元件，專業級影像輕鬆搞定！
-  description: "Razer Kiyo V2 網路攝影機，提供專業級畫面，特別是其 4K HDR 功能，讓直播畫面更清晰。Camo Studio 專業版更大幅降低直播設定複雜度，讓創作者專注內容，絕對是直播利器。過去幾年，直播與遠距工作徹底改變了我們對「網路攝影機」的想像，從早期只要能開視訊就好，到現在它已經晉升為創作者與專業工作者的重要設備之一。而\
-    \ Razer 新推出的 Kiyo V2，定位就很明確，要讓更多人用「接近專業器材的畫面」，完成日常的直播、錄影與視訊會議。\n\n廠商資訊\r\n\n■\
-    \ 台灣雷蛇 ■ www.razer.com…"
-  url: https://www.techbang.com/posts/126850-razer-kiyo-v2-4k-ai-streaming-camera-review
+- title: 加拿大枪击案嫌犯曾用ChatGPT生成暴力场景 OpenAI未向警方预警
+  description: "美国开放人工智能研究中心（OpenAI）表示，加拿大不列颠哥伦比亚省塔布勒岭校园枪击案发生前几个月，枪手与ChatGPT聊天机器人互动，OpenAI曾考虑提醒执法部门。\r\
+    \n知情人士透露，枪手杰西·范·鲁特塞拉尔在2025年6月使用ChatGPT时，描述了涉及枪支暴力的场景，并被自动审查系统标记。OpenAI一些员工将鲁特塞拉尔的行为解释为潜在现实世界暴力的迹象，并敦促公司领导提醒加拿大执法部门注意，不过OpenAI领导最终决定不联系当局。OpenAI一位发言人表示，该公司封禁了鲁特塞拉尔的帐户，但确定其活动并不符…"
+  url: https://www.cnbeta.com.tw/articles/tech/1550714.htm
+  source: Cnbeta.com.tw
+- title: 硅谷的忠诚已死：只要价码足够高，任何人都可以被挖走
+  description: "硅谷创始人与公司之间的“生死同盟”正在瓦解\n 硅谷，曾以“改变世界”为信仰的科技乌托邦，如今已沦为赤裸裸的人才角斗场。创始人与公司之间的“生死同盟”正在瓦解，取而代之的是一份份价值数亿美元的报价单和永不停歇的“转会”闹剧。\n\
+    \ 自2025年中期以来，Meta、谷歌、英伟达三大巨头已经在所谓“收购性招聘”的游戏中豪掷超过360亿美元，这不是传统收购，而是对顶尖人才的直接掠夺。与此同时，OpenAI与Anthropic之间也上演着“你挖我墙角、我偷你核心”的滑稽循环，顶级研究员的年薪被推至千万乃至数亿美元，创始人不再相…"
+  url: https://36kr.com/p/3693790818267011
+  source: 36kr.com
+- title: 山姆·奥特曼质疑企业借人工智能当替罪羊
+  description: "在印度举办的 AI Impact 峰会上，OpenAI 创始人兼首席执行官山姆·奥特曼表示，他怀疑不少公司正在借“人工智能”之名，为本来就计划实施的裁员寻找挡箭牌，将本应由自身经营决策承担的责任，转嫁到新技术身上。\
+    \ 在接受 CNBC-TV18 采访时，奥特曼称，如今企业把 AI 当作“背锅侠”的情况正在出现，而这与真正由 AI 带来的岗位替代并不完全相同。\r\n\
+    奥特曼说：“我不知道确切比例，但现在确实存在某种程度的‘AI 洗牌’——一些公司把本来就会进行的裁员归咎于 AI，同时也确实存在 AI 对某些岗位的真实替代…"
+  url: https://www.cnbeta.com.tw/articles/tech/1550752.htm
+  source: Cnbeta.com.tw
+- title: 阿里云Coding Plan支持千问3.5、GLM-4.7、Kimi-K2.5等模型
+  description: 36氪获悉，阿里云Coding Plan订阅服务上新Qwen 3.5-Plus、GLM-4.7、Kimi-K2.5等编程模型，用户订阅后即可自由切换模型。用户可在Qwen
+    Code、Claude Code、Cline、OpenClaw等主流AI工具使用阿里云Coding Plan订阅服务。
+  url: https://36kr.com/newsflashes/3693891692228482
+  source: 36kr.com
+- title: 马年第一涨，AI股杀疯了
+  description: "AI的造富效应，的确惊人。\n 作者丨王满华\n 编辑丨王庆武\n 来源丨投中网\n 港股市场的AI热潮从节前一路燃烧至节后，而在这场狂欢中，MiniMax与智谱无疑是最耀眼的主角。\n\
+    \ 2月20日，马年港股迎来首个交易日，国产AI大模型“双子星”股价双双冲高。截至收盘，智谱大涨42.72%，报725港元/股；MiniMax亦涨超14%，报970港元/股，两家公司市值携手突破3000亿港元大关。\n\
+    \ 3000亿港元是什么概念？对比来看，当前京东市值约为2945.84亿港元，这意味着，两家成立尚不足十年的AI公司，市值已悄然超…"
+  url: https://36kr.com/p/3693876116844424
+  source: 36kr.com
+- title: Sam Altman：人工智能被当作近期大规模裁员替罪羊
+  description: "几个月来，美国各行各业的裁员人数都在上升，包括科技、金融、零售和媒体等行业。一些知名企业，例如亚马逊、Meta、花旗集团等，也宣布了裁员计划，因为它们将投资转向人工智能和自动化领域，以适应不断变化的经济环境。\r\
+    \n然而，OpenAI首席执行官萨姆·奥特曼(Sam Altman)近日驳斥了人工智能是导致裁员的主要原因的说法。奥特曼最近在印度新德里举行的AI影响力峰会上接受采访时表示：“我不知道确切的比例是多少，但目前存在一些人工智能洗白现象，人们将原本会裁员的原因归咎于人工智能，而人工智能也确实取代了一些不同类型的工…"
+  url: https://www.cnbeta.com.tw/articles/tech/1550720.htm
+  source: Cnbeta.com.tw
+- title: 三星Galaxy AI将升级为多代理生态系统 深度整合Perplexity AI
+  description: "三星内部调研显示，近八成用户日常会同时使用两个以上的 AI 助手，这促使公司加速推进 Galaxy AI 的演进，将其从单一助手升级为多代理（multi-agent）生态系统。\
+    \ 新版 Galaxy AI 在操作系统层面加入对多款 AI 助手的集成支持，旨在让用户在“同时使用多个 AI”的场景下获得更加顺畅、一致的体验。\r\n\
+    借由系统级整合，Galaxy AI 能在底层统一管理不同 AI 代理，无需用户频繁在应用间切换或重复下达指令。 这不仅减少了操作成本，也能让各个 AI 代理在共享上下文的前提下进行响应，从而实现…"
+  url: https://www.cnbeta.com.tw/articles/tech/1550748.htm
+  source: Cnbeta.com.tw
+- title: 900亿元增量资金入市，公募聚焦两大主线
+  description: 马年行情开市在即，公募增量资金准备继续。从统计来看，股票ETF和春节前成立有待建仓的次新主动权益基金，是马年开年行情入市的两大类公募资金，两者合计规模在900亿元以上。公募预判认为，马年A股市场有望呈现主线更为丰富、结构更趋均衡的态势。“科技成长”与“中国优势”是两大核心主线，坚定看好AI所引领的整个科技产业长期向上趋势，以及具备全球竞争力的中国制造业。（证券时报）
+  url: https://36kr.com/newsflashes/3693771613302407
+  source: 36kr.com
+- title: 联想发出警告 3月或上调部分PC产品的价格
+  description: "去年末，随着近期超大规模云端服务供应商加大人工智能（AI）方面的支出，存储产品的短缺情况变得越来越严重。无论DRAM还是NAND闪存，价格都因供应短缺快速上涨。联想作为全球最大的PC制造商，曾表示已囤积了足够的存储产品来应对未来一段时间的供应短缺，零部件库存水平比平常高出了50%，以适应供应链出现的急剧变化。\r\
+    \n即便如此，联想在今年1月还是上调了产品的定价。据CRN报道，联想北美渠道负责人本月早些时候向合作伙伴发出警告，称随着DRAM成本上升，预计3月会上调部分PC产品的价格。联想表示，持续的AI数据中心建设导致…"
+  url: https://www.cnbeta.com.tw/articles/tech/1550784.htm
+  source: Cnbeta.com.tw
+- title: 春晚机器人卖爆了，我们离“人手一台”还有多远？
+  description: "1996年“春晚”，小品演员郭达往舞台上推了一只写着“ABCD”，印着“丰田”标志的货箱，箱子里藏着一个名叫“缺心眼子”的“进口机器人”。那时的“机器人”是国人对未来的一种诙谐想象。在大家眼里，“机器人”就应该像西方科幻电影中那样机械化，恰如当年蔡明饰演的机器人的样子。它不仅动作要像机器，思维逻辑也必须是直线的、二极管式的——要么开，要么关；要么听话，要么死机。\r\
+    \n蔡明的表演也强化了这一特性。她的台词剥离了所有语调起伏，用一种理性的、冰冷的，近乎“电子合成音”的单调频率，来模拟机器的僵硬感和笨拙，以制造笑料。谁能…"
+  url: https://www.cnbeta.com.tw/articles/tech/1550718.htm
+  source: Cnbeta.com.tw
+- title: 忍无可忍，Ilya宫斗奥特曼！微软CTO爆内幕：全因嫉妒下属太优秀？
+  description: "编辑：元宇 KingHZ \n 【新智元导读】硅谷最离谱宫斗：Ilya因嫉妒Jakub的「震撼突破」而点燃OpenAI火药桶，奥特曼被董事会踢出，引发高管离职潮。算力不足和预算挤压是根源，2026年文件曝光后，Ilya「塌房」。\n\
+    \ 2023年，OpenAI上演了硅谷版「权力的游戏」：奥特曼在一无所知的情况，被当时的首席技术官Mira Murati 和首席科学家Ilya联手踢出OpenAI。\n\
+    \ \n 山姆·奥特曼被踢出OpenAI\n 但这样抓马的戏码，你还以为是AI安全理念的高尚对决？\n 不，这一次，邮件把真相写得刺眼…"
+  url: https://36kr.com/p/3693861726826112
+  source: 36kr.com
+- title: 微軟次世代Xbox大變身！不只玩遊戲，根本是台PC？2027年登場挑戰軟體整合
+  description: '微軟正打造融合 PC 與主機體驗的下一代 Xbox，讓 Windows 應用程式在遊戲機上成為可能。微軟下一代 Xbox 的輪廓越來越清晰，而且它可能不再是你印象中的傳統遊戲主機。根據最新消息，微軟正與合作夥伴探討在
+    2027 年推出新主機的可能性。這款新設備被形容為「本質上是一台 PC」，不僅能玩 Xbox 遊戲，還能執行 Windows 應用程式 。不過，儘管硬體晶片似乎已準備就緒，軟體端的
+    Windows 11 是否能跟上腳步，卻成了最大的變數。
+
+    晶片到位，但軟體還在追趕？
+
+    AMD 執行長蘇姿丰（Lisa …'
+  url: https://www.techbang.com/posts/127951-xbox-pc-microsoft-2027-win11
   source: Techbang.com
+- title: 奥特曼嘲讽马斯克“太空数据中心”构想：在当下“荒谬” 本十年也难成气候
+  description: "2 月 21 日，OpenAI 首席执行官山姆·奥特曼在印度新德里出席一场公开活动时，对埃隆·马斯克提出的“将数据中心搬到太空”的计划作出尖锐评价，称在当前技术和成本条件下，这一想法“荒谬可笑”，激起现场观众一阵笑声。\r\
+    \n奥特曼表示，从长远来看，把数据中心部署到地球轨道“总有一天会变得有意义”，但以现阶段的发射成本和在太空维修芯片等硬件的难度而言，这一构想远未到可行落地的时点。“老实讲，以目前的技术格局来看，把数据中心放到太空，是一个荒谬的想法。”奥特曼在与当地媒体的直播访谈中说。\
+    \ 他强调，轨道数据中心或许在未来…"
+  url: https://www.cnbeta.com.tw/articles/tech/1550756.htm
+  source: Cnbeta.com.tw
+- title: 忍无可忍Ilya宫斗奥特曼 微软CTO爆内幕：全因嫉妒下属太优秀？
+  description: "2023年，OpenAI上演了硅谷版“权力的游戏”：奥特曼在一无所知的情况，被当时的首席技术官Mira Murati 和首席科学家Ilya联手踢出OpenAI。但这样抓马的戏码，你还以为是AI安全理念的高尚对决？不，这一次，邮件把真相写得刺眼：算力不够、人手紧张、产品爆火挤压研究预算……\r\
+    \n山姆·奥特曼被踢出OpenAI再加上Jakub Pachocki用“惊人进步”把导师Ilya多年卡住的难题一举攻破。天才也会受伤，组织也会失控。于是，一场科技圈最离谱的“宫斗”，在妒火中被点燃。师徒争斗，奥特曼被驱逐微软首席技…"
+  url: https://www.cnbeta.com.tw/articles/tech/1550728.htm
+  source: Cnbeta.com.tw
