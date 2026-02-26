@@ -1,27 +1,26 @@
-- title: 不只是「學習」而是「背書」？研究證實頂尖模型能「逐字」還原暢銷小說
-  description: 在最新研究中，世界頂尖的人工智慧（AI）模型顯示出能生成近乎逐字的暢銷小說副本，這引發了對於這些系統是否真的不儲存受版權保護作品的質疑。來自
-    OpenAI、Google、Meta、Anthropic 和 xAI 的大型語言模型（LLMs）被發現記憶了比先前認為的更多訓練數據。AI 和法律專家指出，這...
-  url: https://technews.tw/2026/02/25/ais-can-generate-near-verbatim-copies-of-novels-from-training-data/
-  source: Technews.tw
-- title: AMD与Meta达成第二份超大型芯片供应协议
-  description: AMD周二表示，它已同意在五年内向Meta出售价值高达600亿美元的人工智能芯片，这项交易允许Facebook所有者购买这家芯片公司多达10%的股份。该公司去年与OpenAI签订了类似协议，被誉为对其芯片和软件投下的信任票，从而大幅提振了股价。（新浪财经）
-  url: https://36kr.com/newsflashes/3697928502734724
+- title: Anthropic推出智能体AI工具，旨在实现人力资源、投资银行等领域工作自动化
+  description: 据报道，在旗下AI工具引发市场暴跌并激起AI颠覆性影响的思考后，AI初创公司Anthropic PBC正在将其Claude聊天机器人的触角延伸至新的领域。该公司周二为其Claude
+    Cowork智能体软件推出全新AI工具，旨在实现人力资源、投资银行和设计等领域工作的自动化。Anthropic表示，这些工具是与合作伙伴公司共同开发的，例如与金融数据提供商FactSet
+    Research Systems Inc.合作创建的插件。（界面）
+  url: https://36kr.com/newsflashes/3698051639979655
   source: 36kr.com
-- title: 8点1氪丨三亚飞北上广深机票逼近万元；史上最贵iPhone要来了，苹果首发折叠屏定价或冲2万；2026中国电影票房暂列全球第一
-  description: "今日热点导览\n <ul>\n <li>智谱就GLM Coding Plan问题致歉并公布补偿方案</li>\n <li>问界M9起火声明，配合调查呼吁不信谣</li>\n\
-    \ <li>泡泡玛特官宣新IP</li>\n <li>美国电影协会致函字节跳动</li>\n <li>Kimi近20天收入超去年全年</li>\n </ul>\n\
-    \ TOP 3 大新闻\n 三亚飞北上广深机票逼近万元，官方出手\n 2月23日，春节假期进入尾声。海南三大机场将迎来整个春运期间客流峰值日，预计运送旅客将突破23.2万人次。记者查询\
-    \ 多家在线旅游平台发现，…"
-  url: https://36kr.com/p/3696545311403904
+- title: AI光伏领域粉体需求爆发，业绩持续增长，「新川电子」获近亿元pre-IPO轮融资 | 36氪首发
+  description: "文 | 张冰冰\n 编辑 | 阿至\n 36氪获悉，杭州新川电子材料股份有限公司（简称「新川电子」）近期宣布完成近亿元pre-IPO轮融资，由杭州城投，联想投资、富浙科技、浙江交投产业转型基金等机构联合参投，资金将主要用于MLCC60nm-80nm成品镍粉、光伏特种铜粉、贱金属催化剂等产品研发，生产线规模扩张及市场拓展。\n\
+    \ 「新川电子」是36氪长期关注的企业，专注于纳米级金属粉材的研发、生产，以MLCC（片式多层陶瓷电容）用镍粉和超细软磁粉为核心产品，其内电极用200nm及以下高端成品镍粉于2024年获评“国内首批次…"
+  url: https://36kr.com/p/3698117482212997
   source: 36kr.com
-- title: 如何用 Google Antigravity 實現 n8n 工作流優化與視覺化除錯
-  description: 本文介紹如何利用 Google Antigravity 結合 n8n 實現 AI 協作開發。教你從環境安裝、檔案連結、AI 分析優化到實戰視覺化除錯，大幅提升自動化工作流的品質。在開發自動化流程時，手動撰寫複雜的
-    JSON 邏輯或處理節點報錯往往耗時費力。如果你也曾因為 n8n 流程太過龐大而感到頭痛，那麼 Google Antigravity 正是你的救星。這是一款強大的
-    AI 輔助開發工具，能直接讀取並修改你的本地檔案。本篇教學將帶領你結合 Gemini 3 Pro 的強大解析力，一步步優化你的自動化工作流，…
-  url: https://www.techbang.com/posts/127856-google-antigravity-n8n-workflow-optimize-debug
-  source: Techbang.com
-- title: 一夜蒸发 310 亿美元！Claude 新工具干翻 IBM 摇钱树，AI 正在「清零」人类工位
-  description: '如果你想摧毁一家公司，不需要打败它，只需要让人相信它可以被打败。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+- title: 华为哈勃与中发展投了家热控材料公司，创始人曾造出国内首块金属基复合材料｜36氪首发
+  description: "作者丨欧雪\n 编辑丨袁斯来\n 硬氪获悉，金属基热管理材料企业——哈尔滨市一盛新材料科技有限公司（下称“一盛新材料”）近日完成数千万A轮融资，投资方为华为哈勃与中关村发展集团启航投资。本轮融资主要用于产线设备采购、产能扩建及新一代热控材料的研发。\n\
+    \ 一盛新材料成立于2024年9月18日，是一家主要经营和研发国内高新顶尖金属复合材料的高科技企业，团队依托国家级金属基复合材料工程实验室，其界面调控技术、复杂构件净成型技术和低成本工艺等核心技术处于行业领先地位。\n\
+    \ 公司产品涵盖金刚石/铜、金刚石/铝超高导热材料、石墨/铝…"
+  url: https://36kr.com/p/3697538397744775
+  source: 36kr.com
+- title: 早报｜触控版MacBook Pro曝光：配备灵动岛与OLED/曝三星S26 Ultra首发局部可调防窥屏/华为2025年销售收入超8800亿元
+  description: '· 苹果推送 iOS 26.4 Beta 2，液态玻璃再调整
+
+    · 松下将欧美电视销售交给中国创维
+
+    · AI Agent「失忆」误转 44 万美元代币给诈骗者#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 
     爱范儿 |
 
@@ -30,79 +29,58 @@
     查看评论 ·
 
     新浪微博'
-  url: https://www.ifanr.com/1655572
+  url: https://www.ifanr.com/1655691
   source: Ifanr.com
-- title: 何小鹏内部信：要实现全球首个高阶人形机器人量产
-  description: 2月24日，马年春节假期后开工第一天，小鹏汽车CEO何小鹏向全体员工发布了一封开工信，主题为“稳进破局，2026共赴物理AI新十年”，在信里，何小鹏称要在2026年“把梦想量产”，全新一代
-    IRON 机器人将在年底年底启动量产， 要成为“全球第一个规模量产的高阶人形机器人”。今年Iron将率先落地导览 、导购等场景，并向全球开发者开放 SDK。何小鹏希望小鹏汽车能够率先在中国抓住属于自动驾驶的“DeepSeek”时刻，他认为，小鹏正站在历史性的拐点上——2026，物理
-    AI + 全球化必须打透。（华尔街见闻）
-  url: https://36kr.com/newsflashes/3696897479372420
+- title: 亚马逊、谷歌和甲骨文等公司将建设数据中心电力供应系统
+  description: 亚马逊、谷歌、Meta、微软、xAI、甲骨文和OpenAI将签署一项协议，为人工智能数据中心建设自有电力供应。这些公司管理人士将出席3月4日在白宫举行的一次活动并签署协议。（新浪财经）
+  url: https://36kr.com/newsflashes/3699336118235011
   source: 36kr.com
-- title: 雷军：未来五年小米将重点攻坚芯片、AI、操作系统等底层核心技术
-  description: 小米集团董事长兼CEO雷军表示，小米计划未来五年重点攻坚芯片、AI、操作系统等底层核心技术，向着成为全球硬核科技公司的目标不断努力。（华尔街见闻）
-  url: https://36kr.com/newsflashes/3696964057001858
+- title: 八年积淀，中国人工智能迎来自主的世界级学术主场WAICA
+  description: "WAICA 2026正式启动：姚期智任主席，首创“人工智能+大众+专家”协同评审\n 当全球人工智能学术界苦于审稿失真、复现乏力、青年学者上升通道收窄之时，一场以“重塑规则”为使命的学术会议在上海正式启航。\n\
+    \ 2026年2月，依托世界人工智能大会（WAIC）八年积淀打造的国际学术会议——世界人工智能大会·学术（WAIC-Academic，简称WAICA）正式启动。首届会议已确定于7月与WAIC同期在上海举行，官网（waica2026.worldaic.com.cn）及投稿系统同步上线，标志着中国在打造世界级学术标杆…"
+  url: https://36kr.com/p/3698417555976071
   source: 36kr.com
-- title: 蘋果 3 月春季新品連發：五款以上產品密集登場，平價 MacBook 規格細節首度流出
-  description: '蘋果即將迎來新品發布週，預計推出多款重磅新品，涵蓋平價MacBook、iPhone 17e及iPad系列更新。這次蘋果將以新聞稿搭配實體體驗會，讓全球果粉期待蘋果新品的驚喜。蘋果即將迎來忙碌的一週，根據《彭博社》Mark
-    Gurman 的最新消息，蘋果計畫於 3 月 2 日至 3 月 4 日展開為期三天的產品發布攻勢，據悉本次將採新聞稿發表，而非傳統的發表模式，預計至少有五款新品連番亮相。
+- title: 技術驅動治理，智能塑造未來：ASDS 與文明—治理—智能的生態循環
+  description: '自主科學發現系統（ASDS）標誌著科研體系從工具輔助邁向系統主導。ASDS 的發展帶來治理形態的轉變，技術、治理與智能的界線日益交融，重塑文明運行邏輯。 (本文為讀者投稿，作者為徐作聖。徐作聖是陽明交大退休教授、產業趨勢評論家，長期關注全球高科技供應鏈變革與國家競爭力策略。深研智能技術底層架構，致力於推動台灣科技政策從應用面轉向基礎科學研究，主張以科學治國為核心，重塑台灣在第五次工業革命中的技術話語權。《T客邦》歡迎各路好手針對擅長主題投稿或是針對數位議題發表自身意見，詳情以及方式請見徵稿頁面。）
 
-    捨棄傳統直播，改採「全球體驗會」模式
-
-    與以往的大型發表會不同，蘋果此次似乎不打算舉行預錄的直播影片，而是回歸透過官網 App…'
-  url: https://www.techbang.com/posts/128040-apple-march-spring-event-budget-macbook-leak
+    在全球科技競逐…'
+  url: https://www.techbang.com/posts/128043-asds-tech-governance-ai-future
   source: Techbang.com
-- title: Google Pixel 10a 下月 5 日登台！多項攝影功能首次加入 A 系列
-  description: 繼去年的 9a 把鏡頭做到「完全平整」， 10a 也承襲了這項獲得市場好評的外型設計！Google 也為這代新機加入了眾多攝影方面的新功能。
-  url: https://www.inside.com.tw/article/40724-pixel-10a-taiwan-mar-5
+- title: 陈茂波：香港将成立AI+与产业发展策略委员会
+  description: 香港特区政府财政司司长陈茂波今日（25日）发表2026至2027财政年度政府财政预算案。陈茂波表示，鉴于AI应用正迅速推动产业革新，新技术、新产业和新产品急速冒起，他会成立并主持“AI+与产业发展策略委员会”，为AI带动产业转型及发展订定策略，创造有利条件，并邀请专家、学者、企业及园区公司等参与，初期将聚焦生命健康及具身智能。（大湾区之声）
+  url: https://36kr.com/newsflashes/3698163094384519
+  source: 36kr.com
+- title: 8点1氪丨凌晨3点候补成功致千元车票作废，12306回应；油价迎来年内第三次上涨；大疆起诉美国联邦通信委员会
+  description: "今日热点导览\n <ul>\n <li>宝马7系降价约27万，新年BBA车价大降</li>\n <li>今年春节假期新能源汽车出行创新高</li>\n\
+    \ <li>周大福黄金3月涨价，一条金手链将涨18000元</li>\n <li>部分Mac Mini生产或转移到美国，苹果供应链再调整</li>\n <li>iPhone\
+    \ 18 Pro小批量试产，2nm芯片与灵动岛缩小同步亮相</li>\n </ul>\n TOP 3 大新闻\n 凌晨3点候补成功致千元车票作废，12306回应\n\
+    \ 近日，有网友报料，其在购买厦门至宜兴返程票时，凌晨3点…"
+  url: https://36kr.com/p/3697959369273217
+  source: 36kr.com
+- title: 8点1氪丨比尔·盖茨就其与爱泼斯坦关系道歉；魅族手机或于3月正式退市；腾讯元宝回应生成拜年海报中出现骂人脏话
+  description: "今日热点导览\n 超20家汽车品牌，推出七年低息贷款\n 微信上线 “面对面收照片和文件” 功能\n 苹果股东大会曝光库克年薪\n\
+    \ 知情人士否认飞天茅台将提价\n 节后机票价格大幅回落\n TOP3大新闻\n 比尔·盖茨就其与爱泼斯坦关系向盖茨基金会员工道歉\n 当地时间24日，科技巨头微软创始人比尔·盖茨就其与美国已故性犯罪者爱泼斯坦的关系向盖茨基金会员工道歉，他承认自己的错误给这一慈善组织蒙上阴影，但同时坚称自己未参与爱泼斯坦的犯罪行为。\n\
+    \ “我要明确一点，我从未与受害者，也就是他身边的那些女性有过任何接触，”盖茨说。盖茨称…"
+  url: https://36kr.com/p/3699365546667912
+  source: 36kr.com
+- title: SaaS 供應商的末日警報？ Anthropic、OpenAI 搶推 AI 代理組合拳，傳統辦公軟體邊緣化
+  description: 為競逐企業 AI 市場，Anthropic 與 OpenAI 策略分歧。前者主打跨軟體協作的「工具化」代理插件，採即插即用模式；後者則聯手顧問巨頭，提供從策略到執行的「轉型方案」，定義
+    AI 為數位員工。
+  url: https://www.inside.com.tw/article/40727-anthropic-launches-new-push-for-enterprise-agents-with-plugins-for-finance-engineering-and-design
   source: Inside.com.tw
-- title: 科技股大逃殺，Claude Cowork 與《2028 全球智慧危機》報告如何嚇壞投資人
-  description: 2 月 23 日，分析公司 Citrini Research 在 Substack 上發表一篇名為《2028 全球智慧危機》的思考實驗，該文引發了市場的劇烈波動。這篇文章描繪了一個假設的未來情境，預測到
-    2028 年美國的失業率將因大規模的人工智慧（AI）驅動的白領失業而上升至 10.2%。 儘管G...
-  url: https://technews.tw/2026/02/24/an-ai-thought-experiment-on-substack-is-sending-the-stock-market-spiraling/
-  source: Technews.tw
-- title: Anthropic启动员工持股回购，估值3800亿美元
-  description: 2026年2月，AI公司Anthropic面向现职及离职员工启动股权回购计划。本次回购依据公司最新3800亿美元估值进行，公司已筹集50–60亿美元资金。回购规模不设强制配额，由员工自主决定是否出售所持激励股权。此举使员工无需等待上市或并购即可实现股权变现，对长期保持私有状态的头部AI企业具有典型意义。（DoNews）
-  url: https://36kr.com/newsflashes/3696712290086787
+- title: WiseTech首席执行官：裁员30%后，AI还将带来更多成本节约
+  description: 物流软件企业WiseTech Global Ltd． 首席执行官祖宾・阿普表示，人工智能带来的效率提升最终将渗透到公司全部门。就在数小时前，这家企业宣布计划在两年内裁减近30%员工。（新浪财经）
+  url: https://36kr.com/newsflashes/3698490410430345
   source: 36kr.com
-- title: AMD、Meta 達成千億美元 AI 協議！將部署高達 6 吉瓦 AMD GPU
-  description: Meta 已同意向 AMD 購買 6 吉瓦（Gigawatts，簡稱 GW）的人工智慧運算能力，交易總價值超過 1,000 億美元。根據協議，Meta
-    最多可能持有 AMD 約 10% 的股份。 雙方於週二（24 日）宣布這項交易。外媒《華爾街日報》報導，此舉被視為 AMD 在挑戰輝達（NVIDIA...
-  url: https://technews.tw/2026/02/24/amd-and-meta-announce-expanded-strategic-partnership-to-deploy-6-gigawatts-of-amd-gpus/
-  source: Technews.tw
-- title: 苹果终于亮出了下一个「iPhone」｜硬哲学
-  description: '不争一时，争一世#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-    爱范儿 |
-
-    原文链接 ·
-
-    查看评论 ·
-
-    新浪微博'
-  url: https://www.ifanr.com/1655336
-  source: Ifanr.com
-- title: 早报｜时隔四年！iPhone 18 Pro有望推出红色版/微信版AirDrop上线/2026年电影票房已破80亿
-  description: '· 特斯拉无线充电技术获批
-
-    · 荣耀将推出首款人形机器人
-
-    · 三星 S26 Ultra 宣传物料曝光#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-    爱范儿 |
-
-    原文链接 ·
-
-    查看评论 ·
-
-    新浪微博'
-  url: https://www.ifanr.com/1655550
-  source: Ifanr.com
-- title: Google Pixel 11 傳搭載 Titan M3 安全模組，挑戰最強資安手機地位
-  description: 'Google Pixel 11 系列將導入全新的 Titan M3 硬體安全模組，大幅提升資安防護。Google 自從 2018 年為
-    Pixel 3 系列推出專用的 Titan M 安全輔助處理器後，資安防護一直是該系列的核心競爭力，並在後續的 Tensor 晶片中升級至 Titan M2。根據科技媒體
-    Phone Arena 的最新報導，Google 正計畫在 Pixel 11 系列所搭載的 Tensor G6 晶片中，進一步導入全新的 Titan M3
-    硬體安全模組。
-
-    消息人士 Mystic Leaks 指…'
-  url: https://www.techbang.com/posts/128021-google-pixel-11-titan-m3-security
-  source: Techbang.com
+- title: 美国下令外交官游说反对数据监管倡议
+  description: 一份内部外交电报报道，特朗普政府已要求美国的外交官游说反对外国政府推动相关举措，这些举措旨在监管美国科技公司对外国人数据的处理。报道称，美国政府认为，外国的上述监管可能干扰与人工智能相关的服务。美国国务院未回应置评请求。（新浪财经）
+  url: https://36kr.com/newsflashes/3698702334537600
+  source: 36kr.com
+- title: 中信建投：国内外大模型密集迭代，继续看好AI产业链
+  description: 36氪获悉，中信建投研报称，AI发展日新月异，大模型持续迭代升级，算力需求非常强劲。如智谱新模型编程能力大幅提升，引发算力需求激增，Seedance视频能力表现非常亮眼，引发业界大佬关注。研报认为大模型的商业变现路径畅通，正在从“低价/免费圈地”阶段走向“为高质量付费”阶段，且带动的算力需求非常旺盛。假期期间，美股AI算力光通信个股总体表现亮眼。黄仁勋表示将在3月举办的GTC大会发布“世界前所未见”的芯片。继续看好AI产业链，包括大模型、AI算力链等。
+  url: https://36kr.com/newsflashes/3697973071703680
+  source: 36kr.com
+- title: 陈茂波：香港推出100亿港元创科产业引导基金
+  description: 香港特区政府财政司司长陈茂波今日（25日）发表2026至2027财政年度政府财政预算案。陈茂波表示，特区政府推出100亿港元“创科产业引导基金”，引领市场资本投资生命健康科技、AI与机械人、未来产业等策略性新兴领域。特区政府正甄选基金经理，以期基金年内开始运作。（大湾区之声）
+  url: https://36kr.com/newsflashes/3698184873226119
+  source: 36kr.com
