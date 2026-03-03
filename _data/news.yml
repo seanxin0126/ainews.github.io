@@ -1,43 +1,33 @@
-- title: 特朗普刚下令禁用Anthropic 美军数小时后就在中东打击行动中使用该公司AI工具
-  description: "就在美国总统特朗普宣布联邦政府将停止使用科技公司Anthropic的人工智能工具数小时后，美军便借助同一批工具，对伊朗发动了大规模空袭。知情人士证实，包括美国中东中央司令部在内的全球美军指挥机构，均在使用Anthropic旗下的Claude人工智能工具。中央司令部拒绝对此次针对伊朗行动中使用的具体系统置评。\r\
-    \n这些人士称，尽管该公司与五角大楼关系日趋紧张，美军中央司令部仍使用这款工具进行情报评估、目标识别和作战场景模拟，凸显出这类AI工具已深度嵌入军事行动。特朗普政府与Anthropic已就其AI模型如何供五角大…"
-  url: https://www.cnbeta.com.tw/articles/tech/1551682.htm
-  source: Cnbeta.com.tw
-- title: Anthropic与五角大楼争议爆发后 Claude登顶App Store免费榜首位
-  description: "科技公司 Anthropic 推出的聊天机器人 Claude近期在与美国国防部（五角大楼）的合作争议后人气激增，在苹果美国区 App\
-    \ Store 免费应用排行榜中跃升至第一位，超过了竞争对手 OpenAI 的 ChatGPT。 据悉，Claude 在周六晚间首次登顶排行榜，并在周日上午继续保持这一位置，而在今年一月底，它还徘徊在免费榜单前一百名之外。\r\
-    \n应用数据分析机构 SensorTower 的统计显示，Claude 在一月底时刚刚挤入美国区免费应用榜单前一百名，随后整个二月份大部分时间都维持在前二十名以内。\
-    \ …"
-  url: https://www.cnbeta.com.tw/articles/tech/1551748.htm
-  source: Cnbeta.com.tw
-- title: 8点1氪丨阿联酋宣布承担所有滞留旅客费用；宗馥莉砍掉娃哈哈机器人业务；五粮液回应董事长被查
-  description: "今日热点导览\n 国际油价开盘暴涨超10%\n 国投白银LOF：3月2日开市起至当日10:30停牌\n Guess中国超百家分支机构已注销\n\
-    \ 奈飞证实收到派拉蒙支付的28亿美元终止费\n 外媒：OpenAI获1100亿美元融资，英伟达投资300亿美元\n TOP3大新闻\n 伊朗、以色列等多国相继宣布关闭领空，阿联酋宣布承担所有滞留旅客费用\n\
-    \ 受2月28日美国和以色列对伊朗发动军事打击影响，伊朗、以色列等多国相继宣布关闭领空，大量国际航班紧急返航或取消。2月28日晚至3月1日凌晨，阿联酋迪拜国际机场航站楼遭到战火波及，机场航…"
-  url: https://36kr.com/p/3705035989299333
+- title: 头部人形机器人关节公司完成C+轮融资，单品销量第一、年营收翻倍｜硬氪首发
+  description: "作者｜黄楠\n 编辑｜袁斯来\n 硬氪获悉，深圳市零差云控科技有限公司（以下简称“零差云控”）近日完成C+轮融资，源式资本担任本轮融资独家财务顾问。零差云控是硬氪持续关注的企业【详细可见报道：估值超10亿，这家机器人关节公司销售额全球第一｜潜伏独角兽】。本轮融资信息和企业定位如下：\n\
+    \ 融资金额及投资机构\n 融资轮次：C+轮\n 融资规模：数千万元\n 投资方：华控基金、创东方投资\n 资金用途：研发投入、产能扩张及市场拓展\n 公司基本信息\n\
+    \ 成立时间：2016年12月\n 注册地址：广东省深圳市宝安区\n 企业定位：零差云控聚…"
+  url: https://36kr.com/p/3590663070384392
   source: 36kr.com
-- title: OpenAI详细披露其与美国国防部协议中的多层级保护措施。
-  description: "OpenAI于周六表示，其前一日与美国五角大楼达成的、在国防部涉密网络部署技术的协议，包含额外保障措施以规范技术使用场景。美国总统特朗普周五已下令政府停止与Anthropic合作，五角大楼则宣布将这家初创公司列为供应链风险。在双方就技术安全防护措施摊牌后，此举对该人工智能实验室构成重大打击。Anthropic表示，将就任何风险认定向法院提起诉讼。\r\
-    \n不久之后，由微软、亚马逊、软银等投资方支持的竞争对手——OpenAI，也于周五晚间宣布达成了自身的合作协议。OpenAI在周六表示：“我们认为，与包括Anthropi…"
-  url: https://www.cnbeta.com.tw/articles/tech/1551676.htm
-  source: Cnbeta.com.tw
-- title: 特朗普封杀Anthropic OpenAI先声援后“背刺” 这中间究竟发生了什么？
-  description: "短短一周之间，风云突变，曾是美国DoW（战争部，也就是国防部）在机密范畴“唯一宠儿”的Anthropic出局，甚至被列上黑名单——凡是和DoW有合约的公司，不能和Anthropic合作。而后，Anthropic空出来的位置迅速引来争夺。xAI迅速上桌。OpenAI一边公开支持Anthropic，一边也突然上了桌。\r\
-    \n十来年前，硅谷普遍以和美国官方（尤其是军事上）有合作为耻，甚至有员工集体请愿于是终止合作的事件。对，说的就是你，Google。如今，我们却能看到硅谷前沿的AI公司，围绕和DoW的合约，上演“三国杀”。…"
-  url: https://www.cnbeta.com.tw/articles/tech/1551690.htm
-  source: Cnbeta.com.tw
-- title: 首款机器人手机荣耀ROBOT PHONE今年量产
-  description: "荣耀将在MWC2026世界移动通信大会上展示一款极具未来感的产品，那就是全球首款机器人手机ROBOT PHONE。据多方爆料，这款ROBOT\
-    \ PHONE并非停留在PPT阶段的虚幻概念，而是一款完全可量产的机型。按照目前的进度，该产品最快有望在今年8月份正式面向市场发布。\r\n荣耀ROBOT\
-    \ PHONE的核心竞争力在于搭载了荣耀自研的YOYO端侧大模型。这让移动设备具备了更完整的感知与判断能力，能够通过摄像头与多重传感器实时识别使用状态与环境变化。基于这种深度感知，手机可以在恰当的时机主动提供护眼提醒、行程同步或是精…"
-  url: https://www.cnbeta.com.tw/articles/tech/1551694.htm
-  source: Cnbeta.com.tw
-- title: 早报｜小米Vision GT概念超跑亮相/曝新款Apple Watch支持指纹识别/手机之后，汽车也要迎来涨价了
-  description: '· 周意保展示 Find N6 真机：折痕控制「久用平整」
-
-    · 英伟达或将推出新推理芯片
-
-    · 蔚来李斌获中国人工智能最高奖#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+- title: 生成式AI赋能数字化心理治疗，「望里科技」获数千万元B+轮融资｜36氪首发
+  description: "文｜胡香赟\n 编辑｜海若镜\n 36氪获悉，精神心理数字诊疗平台「望里科技」已完成数千万元B+轮融资。本轮融资由远毅资本独家投资，募集资金主要用于产品研发。此外，望里科技的新一轮融资也已开启，指数资本任财务顾问。\n\
+    \ 望里科技专注于精神心理领域，自建的该领域数据库已积累30万真实世界患者数据。此外，望里科技已在精神病学国际权威期刊发表十多篇论文，并承接多项国家级、省部级科研课题；在应用方面，公司可针对不同行业客户提供“专业设备+APP+专业人员”的完整解决方案，其一站式心理服务方案已覆盖全国16个省100+城市。\n\
+    \ …"
+  url: https://36kr.com/p/3670040712094601
+  source: 36kr.com
+- title: 重磅官宣：2026年的AWE上，36氪造了一整条街区
+  description: "AWE2026“入境指南”。 \n \n \n 如果“懂生活的科技”有形状，它会是什么样？\n 是一台比你更懂你情绪的智能音箱，还是一个能自动除湿、还会用卡通云朵卖萌的空调？是一台见到木地板就静音、遇到地毯就发力的扫地机器人，还是一台会提醒你“该吃水果了”的智能冰箱？\n\
+    \ 如果你在去年的AWE现场逛过36氪打造的“未来+机器人展区”，你可能已经触摸过这个问题的答案。那一次，我们联手五家顶尖机器人公司，把人形机器人、仿生宠物、协作机械臂和商用服务机器人第一次集中推到了AWE的聚光灯下，就是为了回答一个问题：AI如何从高耸的云…"
+  url: https://36kr.com/p/3705249084895369
+  source: 36kr.com
+- title: 氪星晚报｜马斯克称第二代星链卫星将提供5G速度的太空互联网服务；调整住宿税，日本京都预计增收132亿日元；卢伟冰：小米今年即将发布全新的机器人产品
+  description: "大公司：\n 智元机器人等在安徽成立华智天成科技新公司\n 36氪获悉，爱企查App显示，近日，安徽华智天成科技有限公司成立，法定代表人为肖智成，注册资本约1176万元人民币，经营范围包括计算机软硬件及辅助设备零售、计算机软硬件及辅助设备批发、软件销售、通信设备销售等。股东信息显示，该公司由智元机器人关联公司智元创新科技股份有限公司、天水华天电子集团股份有限公司等共同持股。\n\
+    \ 海螺新型建材有限公司在肥东成立\n 36氪获悉，爱企查App显示，近日，肥东海螺新型建材有限公司成立，法定代表人为程小兵，注册资本3000万元人…"
+  url: https://36kr.com/p/3705604996952453
+  source: 36kr.com
+- title: Pivotal碧沃投资本柳丹：中国新药BD全球占比将继续提高，但应从追求“金额数量”转向“合作质量”｜2026医疗展望
+  description: "走过了为期4年的“去泡沫”和“洗牌”，医疗健康赛道终于迎来柳暗花明。接连不断的BD交易，叠加创新药企盈利预期持续抬高、港交所“科企专线”和科创板第五套规则重启等政策红利，二级市场率先开启新一轮上行周期。\r\
+    \n\n 2025年全年，共有39家医疗健康企业成功发行IPO，募集总规模达359亿元；个股层面，百余家企业的年内涨幅超过100%，恒瑞医药、百济神州等、百利天恒、信达生物等14家企业市值破千亿，TOP10市值医疗健康企业的整体构成也由传统的综合药企、CXO为主，向创新药概念企业转移。\r\
+    \n\n 接下来，港股、科创板的I…"
+  url: https://36kr.com/p/3702746899198087
+  source: 36kr.com
+- title: 发布了机器人和机器人手机，荣耀是个机器人公司了｜MWC 2026
+  description: '机械结构，2026 新趋势#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
 
     爱范儿 |
 
@@ -46,48 +36,77 @@
     查看评论 ·
 
     新浪微博'
-  url: https://www.ifanr.com/1656274
+  url: https://www.ifanr.com/1656288
   source: Ifanr.com
-- title: 派早报：OpenAI 接替 Anthropic 与五角大楼达成合作
-  description: OpenAI 接替 Anthropic 与五角大楼达成合作派拉蒙将收购华纳兄弟，Netflix 出局韩国解除对谷歌地图的数据限制Ultrahuman
-    推出 Ring Pro 指环英伟达将推出 AI 推理专用芯片内存成本提升可能让入门 PC 消失不妨一看的简讯少数派的近期动态你可能错过的好文章查看全文
-  url: https://sspai.com/post/106730
-  source: Sspai.com
-- title: Claude被特朗普封杀24小时登顶App Store CEO含泪首发声
-  description: "一夜之间，Claude登顶美国App Store榜首，火得一塌糊涂！有趣的是，这次的爆火，与Anthropic和五角大楼“硬杠”有直接的联系。谁也不曾想，剧情反转比翻脸还快，前脚OpenAI员工签署联名信，后脚奥特曼官宣拿下国防部合同。\r\
-    \n也有和奥特曼不在同一战线的OpenAI员工，直接递交了辞呈这一签不要紧，谁料后果竟如决堤之水，再难收拾。OpenAI两面三刀的行为，彻底激怒了所有人。人们纷纷在全网掀起了“抵制ChatGPT”的运动！如今，不论在Reddit，还是X等各大社交平台上：取消ChatGPT订阅，转投…"
-  url: https://www.cnbeta.com.tw/articles/tech/1551684.htm
-  source: Cnbeta.com.tw
-- title: 榮耀MWC 2026展示人形機器人與機器人手機，AHI理念引領AI硬體轉型
-  description: 【財訊快報／陳孟朔】在2026年世界移動通訊大會(MWC)上，中國手機製造商榮耀(Honor)正式展示其首款人形機器人及創新「機器人手機」，象徵該公司正全面轉型為人工智慧(AI)驅動的硬體企業。榮耀執行長李健在會上提出「增強人類智能」(Augmented
-    Human Intelligence, AHI)理念，強調AI應兼具高智商(IQ)與高情商(EQ)，賦予技術從智能度到生命感的雙重躍升，並將此理念融入其「阿爾法戰略」中。這款人形機器人是榮耀首款自主研發的Android系統機器人，初步定位於客戶服務場景，惟目前尚…
-  url: https://tw.stock.yahoo.com/news/%E6%A6%AE%E8%80%80mwc-2026%E5%B1%95%E7%A4%BA%E4%BA%BA%E5%BD%A2%E6%A9%9F%E5%99%A8%E4%BA%BA%E8%88%87%E6%A9%9F%E5%99%A8%E4%BA%BA%E6%89%8B%E6%A9%9F-ahi%E7%90%86%E5%BF%B5%E5%BC%95%E9%A0%98ai%E7%A1%AC%E9%AB%94%E8%BD%89%E5%9E%8B-010800787.html
-  source: Yahoo Entertainment
-- title: 小米非量产概念超跑官图公布
-  description: "小米首款概念超跑——Xiaomi Vision Gran Turismo官方美图正式公布。雷军同时表示，该款超跑实车将于明天在西班牙巴塞罗那世界移动通信大会（MWC）与公众正式见面。2月28日晚，Xiaomi\
-    \ 17 Series全球发布会在西班牙巴塞罗那举行，会上小米Vision GT概念超跑正式发布，引发全球科技与汽车爱好者的广泛关注。\r\n据悉，Vision\
-    \ Gran Turismo是由《Gran Turismo》发起的未来超跑概念车项目，专门为GT模拟驾驶平台打造，邀请全球顶尖汽车品牌参与，小米是首个受邀参与…"
-  url: https://www.cnbeta.com.tw/articles/tech/1551710.htm
-  source: Cnbeta.com.tw
-- title: ChatGPT Health 無法穩定辨識急症與精神危機，逾半數未能提供適當急診指引
-  description: 《Nature Medicine》2 月 23 日發表首份針對 OpenAI 旗下消費者健康工具 ChatGPT Health 的獨立安全評估，發現系統在逾半數由醫師評定為高確定性急症的情境中，未能提供適當的急診指引，同時也發現自殺危機警報的觸發邏輯與臨床風險呈相反關係。
-    急症誤診率高達 48% 至...
-  url: https://technews.tw/2026/03/02/chatgpt-health-is-unable-to-consistently-identify-acute-illnesses-and-mental-health-crises/
-  source: Technews.tw
-- title: 程式碼揭露：Google Maps 將導入 Nano Banana AI 繪圖功能
-  description: '根據程式碼資訊，Google 地圖傳出將整合 Nano Banana AI，讓用戶能以創意風格重塑街景與地點圖像；不過有人懷疑其功能過於「小眾」，其實際實用性仍待商榷。Google
-    旗下的 AI 影像生成模型 Nano Banana 憑藉著強大的繪圖與編輯能力，被公認為目前市面上最頂尖的工具之一。現在，Google 似乎打算將這股 AI
-    旋風帶進全球數十億人使用的 Google Maps 中。
+- title: 早报｜更便宜的MacBook有望本周发布/荣耀机器人手机正式亮相/小米「徕卡手机」国行版官宣
+  description: '· 宗馥莉砍掉娃哈哈机器人业务
 
-    綜合外媒報導，《Android Authority》在最新的 Google Maps Android 版（版本號 26.…'
-  url: https://www.techbang.com/posts/128082-google-maps-nano-banana-ai-drawing
+    · 理想 MEGA 不做增程的原因：车头太短
+
+    · 英伟达：5G 不够用，6G 须由 AI 驱动#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+    爱范儿 |
+
+    原文链接 ·
+
+    查看评论 ·
+
+    新浪微博'
+  url: https://www.ifanr.com/1656279
+  source: Ifanr.com
+- title: 南充市安智创科低空经济发展公司成立，注册资本1亿元
+  description: 36氪获悉，爱企查App显示，近日，南充市安智创科低空经济发展有限责任公司成立，法定代表人为谢欣，注册资本1亿元人民币，经营范围包括智能无人飞行器制造、智能无人飞行器销售、航空运营支持服务、航空运输设备销售、人工智能行业应用系统集成服务、信息系统集成服务等。股东信息显示，该公司由西充县财政局全资持股。
+  url: https://36kr.com/newsflashes/3705449181360263
+  source: 36kr.com
+- title: 中国生物制药谢炘：医疗IPO将分化，资金流向BD、商业化预期明确标的｜2026医疗展望
+  description: "走过了为期4年的“去泡沫”和“洗牌”，医疗健康赛道终于迎来柳暗花明的2025年。接连不断的BD交易，叠加创新药企盈利预期持续抬高、港交所“科企专线”和科创板第五套规则重启等政策红利，二级市场率先开启新一轮上行周期。\r\
+    \n\n 2025年全年，共有39家医疗健康企业成功发行IPO，募集总规模达359亿元；个股层面，百余家企业的年内涨幅超过100%，中国生物制药、恒瑞医药、百济神州等、百利天恒、信达生物等14家企业市值破千亿，TOP10市值医疗健康企业的整体构成也由传统的综合药企、CXO为主，向创新药概念企业转移。\r\
+    \n\n…"
+  url: https://36kr.com/p/3702758570488193
+  source: 36kr.com
+- title: 沉睡海底 24 年，全球首條跨大西洋光纖海纜 TAT-8 啟動拆除回收工程
+  description: '全球首條跨大西洋光纖海底電纜 TAT-8 正進行打撈回收。根據最新消息，海底環境服務公司目前正在葡萄牙附近海域的海床，進行全球首條跨大西洋光纖海底電纜
+    TAT-8 的拆除與打撈回收作業 。這條寫下電信史重要篇章的海纜，是由美國 AT&T、英國電信與法國電信聯合建造，並於 1988 年 12 月 14 日正式投入使用
+    。然而，該系統在 2002 年發生故障後，因維修成本過高而被迫停止營運，從那時起便在海底靜置了長達 24 年之久 。
+
+    TAT-8 的全稱為 Trans-Atlantic Telephone 8（跨大西…'
+  url: https://www.techbang.com/posts/128095-tat-8-transatlantic-cable-decommissioning
   source: Techbang.com
-- title: 3分钟搞懂深度学习AI：什么是多层感知机？ - yiyu0716
-  description: 多层感知机（MLP）是深度学习的核心架构，宛如一家分工明确的“决策公司”。通过输入层、隐藏层到输出层的层级协作与特征提炼，它能将复杂数据逐级拆解，赋予AI解决高难度“非线性”问题的强大分析与决策能力。
-  url: https://www.cnblogs.com/yiyuldx/p/19655481
-  source: Cnblogs.com
-- title: 美軍空襲伊朗傳用 Anthropic 技術，川普下令聯邦機關限期退場
-  description: 美國總統川普（Donald Trump）27 日下令，所有聯邦政府機關立即停止使用 Anthropic 的 AI 技術後不久，美國、以色列兩國針對伊朗領導層的聯合軍事行動正式展開，伊朗最高領袖哈米尼（Ayatollah
-    Ali Khamenei）遇襲身亡。 《華爾街日報》報導稱，美國在對伊朗進行一次...
-  url: https://technews.tw/2026/03/02/us-military-reportedly-used-claude-in-iran-strikes-despite-trump-ban/
-  source: Technews.tw
+- title: 阿斯利康陈冰：创新药大额BD仍会出现，关键看“互补性”｜2026医疗展望
+  description: "走过了为期4年的“去泡沫”和“洗牌”，医疗健康赛道终于迎来柳暗花明的2025年。接连不断的BD交易，叠加创新药企盈利预期持续抬高、港交所“科企专线”和科创板第五套规则重启等政策红利，二级市场率先开启新一轮上行周期。\r\
+    \n\n 2025年全年，共有39家医疗健康企业成功发行IPO，募集总规模达359亿元；个股层面，百余家企业的年内涨幅超过100%，恒瑞医药、百济神州等、百利天恒、信达生物等14家企业市值破千亿，TOP10市值医疗健康企业的整体构成也由传统的综合药企、CXO为主，向创新药概念企业转移。\r\
+    \n\n 接下来，港股…"
+  url: https://36kr.com/p/3702755208622469
+  source: 36kr.com
+- title: 深圳市飞速创新技术股份有限公司通过港交所上市聆讯
+  description: 36氪获悉，港交所文件显示，深圳市飞速创新技术股份有限公司通过港交所上市聆讯。
+  url: https://36kr.com/newsflashes/3705989595165065
+  source: 36kr.com
+- title: 三星 2奈米晶片來了！Exynos 2600 效能實測曝光，多核跑分追平驍龍 8 Gen 5
+  description: 'Exynos 2600 的 2奈米製程展現強勁實力，多核與 GPU 效能大躍進，宣告三星晶片逆襲。三星 Galaxy S26 系列正式亮相，全球首款
+    2 奈米製程的手機晶片 Exynos 2600 實測成績終於揭曉 。這次由 Galaxy S26 與 Galaxy S26 Plus 率先搭載，宣告三星半導體正式邁入
+    2 奈米新紀元 。對於期待新機效能的消費者來說，這次的測試數據無疑注入了一劑強心針。
+
+    效能緊咬高通，多核成績破萬
+
+    根據最新曝光的效能基準測試數據，Exynos 2600 展現出相當穩健的實力 。在單核…'
+  url: https://www.techbang.com/posts/128124-exynos-2600-2nm-benchmark-vs-snapdragon
+  source: Techbang.com
+- title: 如何在iPhone上使用富士相機原廠濾鏡？
+  description: 近期富士Fujifilm正式釋出自家經典膠片風格的LUT檔案，即使不使用富士相機，也能將這些原廠膠片色彩套用到iPhone照片或影片中，輕鬆營造出富士底片機般的影像質感。近期富士Fujifilm正式釋出自家經典膠片風格的LUT檔案，並開放用戶免費下載使用！所謂LUT（Look-Up
+    Table）是一種常見於影像後製與調色流程中的工具，可透過重新對應色彩資料，快速套用特定的影像風格，而這次富士提供的原廠LUT，正是以旗下多款經典底片模擬為基礎，包括Velvia、ASTIA、Classic
+    Chrome、ETERNA…
+  url: https://www.techbang.com/posts/127024-how-to-use-fujifilm-filters-on-iphone
+  source: Techbang.com
+- title: vivo X300 Ultra 亮相 MWC，怎么做视频，成为手机厂商的新考题｜MWC 2026
+  description: '军备竞赛，vivo 率先出招#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+    爱范儿 |
+
+    原文链接 ·
+
+    查看评论 ·
+
+    新浪微博'
+  url: https://www.ifanr.com/1656437
+  source: Ifanr.com
