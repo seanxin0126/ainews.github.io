@@ -1,89 +1,78 @@
-- title: 9点1氪｜“华人神探”李昌钰去世；罗技为“一降价你像狗一样跑来”广告语道歉；寿司郎就餐需出示手机SIM卡尾号
-  description: "今日热点导览\n <ul>\n <li>前阿里千问负责人林俊旸离职后首发长文：从训练模型转向训练智能体</li>\n <li>九号公司：与泡泡玛特达成合作，联名电动车将于4月推出</li>\n\
-    \ <li>苹果公司或将改变战略，向外部人工智能助手开放Siri</li>\n <li>多位即将卸任的CEO将人工智能列为决定离职的原因之一</li>\n\
-    \ <li>英国将对限制青少年使用社交媒体展开试点</li>\n </ul>\n TOP3大新闻\n 美籍华裔刑事鉴识专家李昌钰逝世，享年87岁\n 美国康涅狄格州纽黑文大学27日发布公告说，美籍…"
-  url: https://36kr.com/p/3741924007461128
+- title: 36氪首发 | 这家量子计算公司获吉利等数亿投资，对标国际巨头Quantinuum
+  description: "作者丨欧雪\n 编辑丨袁斯来\n 硬氪获悉，合肥幺正量子科技有限公司（以下简称“幺正量子”）近日已完成数亿元Pre A轮融资。本轮由蚂蚁集团和吉利资本联合领投，混沌投资、英飞尼迪、中博聚力、国元基金等跟投，老股东顺为资本追加投资，云岫资本担任本轮独家财务顾问。资金将主要用于加速QCCD离子阱量子计算路线的核心技术研发。\n\
+    \ 幺正量子成立于2022年，是目前国内唯一基于QCCD（量子电荷耦合架构）离子阱技术路线的量子计算公司。\n 公司孵化自郭光灿院士创立的中科院量子信息重点实验室，创始人韩永建博士毕业于中国科大，师从郭光…"
+  url: https://36kr.com/p/3743360666566919
   source: 36kr.com
-- title: 曹操出行2025年业绩：首次调整后Q4盈利，迈向盈利性增长新阶段
-  description: "3月27日，曹操出行公布了2025年全年业绩。数据显示，公司业务范围已覆盖全国195座城市，2025年全年实现营收202亿元，同比增长38%；毛利率提升至9.4%，增加1.3个百分点。\n\
-    \ 更值得关注的是第四季度的财务数据——期内公司经调整净利润转正，历史性地首次实现单季扭亏为盈。与此同时，现金流指标也释放出积极信号，公司全年经营活动净现金流同比增长60.3%。这意味着，曹操出行已经彻底摆脱了依赖外部输血的阶段，真正具备了自我造血与内生增长的能力。\n\
-    \ 在中国共享出行版图中，曹操出行始终是一个独特的存在。其不仅是定制…"
-  url: https://36kr.com/p/3741142695117059
-  source: 36kr.com
-- title: DotNetPy：现代.NET 与 Python 互操作 实战指南 - 张善友
-  description: 引言：多语言开发新纪元的挑战与机遇 在当今的软件开发图景中，没有任何一种编程语言能够独立统治所有领域。C# 以其卓越的工程化能力、强大的类型系统以及在企业级后端、桌面应用和云原生基础设施中的统治地位而著称；而
-    Python 则凭借其在人工智能、机器学习、数据科学及快速原型开发方面的生态优势，成为了事
-  url: https://www.cnblogs.com/shanyou/p/19750566
-  source: Cnblogs.com
-- title: 「一人一天一部剧」时代降临，但AI短剧供给过剩不是末日｜专访巨日禄杰夫
-  description: "2026春节前，由字节跳动旗下视频生成模型Seedance2.0掀起的巨浪，正推动AI剧走向规模化落地。身在这场巨变中的短剧公司，或惊恐、焦虑，抑或面对新的机会热情高涨。\n\
-    \ AI短剧创作平台巨日禄创始人杰夫预判，3—4月将成为行业关键节点，“一人一天一部剧”的生产能力成为现实，商业化标准的短剧制作成本将被大幅压缩，随之而来的是成本结构的彻底倒挂：人力成本占比从8成骤降至2成，算力与Token成为核心成本。供给过剩将在两三个月后如期而至，但这并非赛道式微的信号，反而意味着市场细分需求将被充分激活，行业总盘持续扩大。…"
-  url: https://36kr.com/p/3738258350817540
-  source: 36kr.com
-- title: 前端使用AI试水报告 - 彭加李
-  description: 前端使用AI试水报告 背景 听朋友说目前工作有相当部分前端代码是使用AI完成的，主要工具有：Trae、Qoder。 常用AI名词解释
-    专用词语 名词 通俗解释 LLM（大语言模型） 一个巨大的“文字接龙”机器——根据上文猜下一个字应该是什么。因为参数够多、数据够大，突然变聪明了，所以叫“大”模型。
-  url: https://www.cnblogs.com/pengjiali/p/19788232
-  source: Cnblogs.com
-- title: 华尔街日报把OpenAI和Anthropic这场“十年内斗”的底层逻辑讲得很清楚
-  description: '@源深路炒家：华尔街日报把OpenAI和Anthropic这场“十年内斗”的底层逻辑讲得很清楚，本质不是技术路线之争，而是三层叠加：
-    第一层是理念分歧。OpenAI更偏“市场公司”，认为通过产品化、商…'
-  url: https://www.bohaishibei.com/post/108139/
-  source: Bohaishibei.com
-- title: OpenClaw 中國企業採用率已達美國兩倍，不使用甚至可能被開除
-  description: '自 2025 年末以來，一款名為「OpenClaw」的開源工具迅速改寫了全球科技產業的版圖。這款由奧地利工程師 […]
-
-    The post OpenClaw 中國企業採用率已達美國兩倍，不使用甚至可能被開除 appeared first on 電腦王阿達.'
-  url: https://www.koc.com.tw/archives/636930
-  source: Koc.com.tw
-- title: 早报｜防挖角，苹果给设计师发高额奖金/曝Claude最强新模型代号「卡皮巴拉」/小鹏汽车将改名小鹏集团
-  description: '· 乐道重启轿车和 SUV 研发，定位 20 万级市场
-
-    · 腾讯云发布「养虾产品全景图」
-
-    · 智谱 CEO 张鹏：大模型低价竞争不可持续#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。'
-  url: https://www.ifanr.com/1660125
-  source: Ifanr.com
-- title: 連賺12年！Capcom揭示未來十年野心：PC遊戲成核心，電影投資擴大IP宇宙！
-  description: 'Capcom揭示未來十年戰略，將PC平台定位為全球領先遊戲平台，並透過電影投資擴展世界級IP影響力。深耕PC平台，Capcom欲將IP魅力推向遊戲圈之外。遊戲產業巨頭
-    Capcom 近日發布《2025 年線上綜合報告》，董事長兼執行長辻本憲三在報告中首度系統性闡述公司未來十年的發展戰略 。核心方向清晰明確：將 PC 平台定位為「全球領先的遊戲平台」，並計畫透過加大電影投資，將旗下世界級
-    IP 的影響力擴展到遊戲圈之外 。
-
-    連 12 年獲利增長，數位轉型成效斐然
-
-    報告首度回顧截至 2025 年 3 月 31 日財年…'
-  url: https://www.techbang.com/posts/128447-capcom-ceo-pc-leading-gaming-platform
+- title: 負熵驅動：ASDS 與自主代理架構的熱力學重構
+  description: 在當前計算架構的演進路徑中，資訊處理已從單純的邏輯運算轉向複雜的熱力學系統演化。ASDS、AI Agent 與 OpenClaw 的深度耦合，構成了一個具備高度組織性的「負熵」系統。 (本文為讀者投稿，作者為徐作聖。徐作聖是陽明交大退休教授、產業趨勢評論家，長期關注全球高科技供應鏈變革與國家競爭力策略。深研智能技術底層架構，致力於推動台灣科技政策從應用面轉向基礎科學研究，主張以科學治國為核心，重塑台灣在第五次工業革命中的技術話語權。《T客邦》歡迎各路好手針對擅長主題投稿或是針對數位議題發表自身意見，詳情以及方式請…
+  url: https://www.techbang.com/posts/128461-negentropy-asds-agent-thermodynamics
   source: Techbang.com
-- title: 英國研發 AI 智慧眼鏡幫助失智症患者自理生活
-  description: 對於初期失智症患者來說，日常生活最挫折的往往是忘記怎麼做簡單的事，這款由英國 CrossSense 公司研發的眼鏡，重量不到 75 公克，戴起來跟一般的黑框眼鏡差不多，但它內建的視訊鏡頭就像是一雙不會疲累的眼睛，可減輕照護者的壓力，並讓患者在熟悉的環境中生活得更有尊嚴。當患者看著廚房的電水壺時，眼鏡會主動語音提醒水滾了要小心燙手，或是在看到藥盒時提醒該服藥了。眼鏡內建一個叫
-    Wispy 的 AI 助理，它不只是死板報出物品名稱，還會學習使用者的個人習慣，如果使用者正打算泡茶卻突然卡住，Wispy 會溫柔引導下一步…
-  url: https://www.cool3c.com/article/247358
-  source: Cool3c.com
-- title: 适用人工智能领域 教育部、国家语委发布两项语言文字新规范
-  description: 为积极回应人工智能时代对语言文字的现实需求，推进语言文字规范标准体系建设，近日，教育部、国家语言文字工作委员会发布《机器合成普通话水平测评等级标准及测评大纲》和《人工智能
-    语料库 基础术语》两项语言文字规范。两项规范由教育部语言文字应用研究所（国家语委普通话与文字应用培训测试中心）组织研制，经国家语委语言文字规范（标准）审定委员会审定通过，目前已由语文出版社正式出版。（央视新闻）
-  url: https://36kr.com/newsflashes/3741915021393926
-  source: 36kr.com
-- title: 匡智會學員作品亮相Art Basel　邱騰華：AI時代支援智障人士須與時並進
-  description: 匡智會今年連續第三年參與於灣仔會展舉行的國際藝術盛事「巴塞爾藝術展」(Art Basel)，以「物潤留聲」為主題，展出多幅由智障學員創作的藝術作品。匡智會主席邱騰華表示，希望透過國際級平台展示學員才能，並強調在人工智能（AI）時代下，社會對智障人士的支援及工作機會須與時並進。邱騰華表示，匡智會自七十年代於大埔松嶺村總部設立小型院舍起步，發展至今已擴展至特殊學校、宿舍及職業訓練中心等多個領域。本次展出的作品，正是由學員親自回到松嶺村總部寫生創作，畫筆下不僅記錄了風景，更展現了匡智會及本港智障服務隨時代演變的歷程。
-  url: https://hk.news.yahoo.com/%E5%8C%A1%E6%99%BA%E6%9C%83%E5%AD%B8%E5%93%A1%E4%BD%9C%E5%93%81%E4%BA%AE%E7%9B%B8art-basel-%E9%82%B1%E9%A8%B0%E8%8F%AF-ai%E6%99%82%E4%BB%A3%E6%94%AF%E6%8F%B4%E6%99%BA%E9%9A%9C%E4%BA%BA%E5%A3%AB%E9%A0%88%E8%88%87%E6%99%82%E4%B8%A6%E9%80%B2-043000951.html
-  source: Yahoo Entertainment
-- title: 桌面寵物型 AI 工具 lil agents 如何在一週內累積 500 顆星
-  description: 開源專案 lil agents 在 macOS Dock 上放置兩隻會走路的像素小人，點擊即可呼叫 AI 終端機，支援 Claude
-    Code、OpenAI Codex 與 GitHub Copilot 三種 CLI 工具並可自由切換。這個採 MIT 授權的輕量工具不修改任何 AI 後端功能，透過角色動畫與完成音效，讓命令列互動多一層視覺回饋，上線後迅速在
-    GitHub 累積逾 574 顆星。
-  url: https://www.inside.com.tw/article/40967-lil-agents
-  source: Inside.com.tw
-- title: Google Gemini 推出 AI 切換工具，輕鬆匯入 ChatGPT、Claude 對話記錄與記憶
-  description: 'Google 宣布推出全新、易於使用的 AI 切換工具，讓使用者輕鬆將其他 AI 應用中的記憶、上下文和聊天記 […]
-
-    這篇文章「Google Gemini 推出 AI 切換工具，輕鬆匯入 ChatGPT、Claude 對話記錄與記憶」最早出現在免費資源網，請追蹤 Facebook、X
-    (Twitter)、Threads 或訂閱 RSS feed 獲取更多科技新知及免費資源相關介紹教學。'
-  url: https://free.com.tw/import-chatgpt-claude-memory-to-gemini/
-  source: Free.com.tw
-- title: 歐盟認錯、日本重啟，核電成科技競爭核心：能源安全等同國安，全球核能大復活
-  description: 《財訊》報導，1 月有超過 170 國與企業會員的世界核能協會（World Nuclear Association，WNA），發表成立
-    25 年來首份《世界核能展望報告》（World Nuclear Outlook Report），不僅詳盡介紹全球核能發展，並分析各國政府目標，同時提出六大建議。
-    W...
-  url: https://finance.technews.tw/2026/03/28/energy-security-national-security-global-nuclear-power-revival-eu-admits-mistake-japan-restarts-nuclear-power-tech-competition/
+- title: MiTAC Computing 於 CloudFest 2026 展示 AI-ready、符合 OCP 標準與液冷創新技術
+  description: 全球高效能與節能伺服器解決方案領導廠商──神達控股股份有限公司旗下子公司神雲科技股份有限公司（MiTAC Computing Technology
+    Corporation），於 CloudFest 2026 展示其最新 AI-ready 基礎架構、符合 OCP 標準平台，以及液冷創新技術。神雲科技攜...
+  url: https://technews.tw/2026/03/29/mitac-computing-cloudfest-2026-ai-ready/
   source: Technews.tw
+- title: 護國神山防線告急！非法陸資砸高薪「暗黑挖角」　檢調全台大搜捕17處
+  description: 為守護台灣高科技產業的競爭力，新竹地檢署近日展開強力掃蕩行動，查緝非法陸資滲透、竊取營業秘密等不法行為！檢方指出，多家大陸公司涉嫌偽裝背景，在台非法設立據點並以高薪誘惑科學園區人才，企圖染指模擬晶片、人工智慧（AI）等核心技術，嚴重威脅我國國家安全與經濟脈動。
+  url: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1af64579-cd27-4d94-b672-1a23abaeb1c4
+  source: Yahoo Entertainment
+- title: 陸企科技業來台挖牆腳　調查局大掃蕩查獲陸上市公司等11家
+  description: CNEWS匯流新聞網記者張孝義／台北報導 近年AI浪潮席捲全球並開啟普及應用的新世代，我國在全球科技產業居領先地位的半導體、IC設計等相關產業鏈正是我國與全球競逐發展AI的核心關鍵，調查局根據情蒐，發現有多家非法陸資企業涉嫌在台違法挖角高科技人才、技術滲透
+    技術滲透情形，自3月16日至26日動員6個外勤處站，在5個地檢署指揮下同步搜索49處、約談90人，查獲...
+  url: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_baf9f6b0-93d2-44ab-b958-e6da80ccafb3
+  source: Yahoo Entertainment
+- title: 景气持续扩散，机构看好存储芯片赛道
+  description: 今年以来，存储芯片板块在强劲的行业周期和业绩支撑下，走出了不错的上涨行情。Choice数据显示，截至3月25日，国证存储芯片产业指数今年以来上涨19%。多家机构认为，尽管存储行业已历经一轮上涨，但在AI驱动、供给趋紧及景气扩散等多重因素支撑下，本轮周期持续性或超出预期，相关公司估值仍具提升空间，存储芯片行业正迎来高景气延续的关键窗口期。（上证报）
+  url: https://36kr.com/newsflashes/3744633751814144
+  source: 36kr.com
+- title: AI驱动新一轮增长周期，云厂商迎来业绩拐点
+  description: AI带来的需求增长正逐步扭转中国云厂商长期以来的亏损局面。近期，金山云发布的最新财报显示，2025年第四季度公司实现营收27.6亿元，同比增长23.7%，并连续两个季度实现经调整经营利润转正。腾讯披露的财报显示，2025年腾讯云在历经多年亏损后，首次实现规模化盈利。业内人士分析，长期以来，受制于低价竞争，中国云计算行业整体盈利能力偏弱。但随着AI需求的爆发，行业格局正发生深刻变化。尽管云服务上游同样面临供应链涨价压力，但在AI时代，云厂商的议价能力有望得到提升。（上证报）
+  url: https://36kr.com/newsflashes/3744670446223617
+  source: 36kr.com
+- title: 派早报：英文维基百科正式禁止 AI 参与编写
+  description: 英文维基百科正式禁止 AI 参与编写美国法院认定广告商联合抵制 X 合法PS5 涨价 100 美元起长期低头导致的颈部横纹成为美容新赛道研究显示
+    AI 对话会削弱社交判断并加深依赖Spotify 联合唱片公司向 Anna’s Archive 索赔三亿美元看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
+  url: https://sspai.com/post/108044
+  source: Sspai.com
+- title: 10倍大積木竟藏M4 Mac mini！荷蘭神人巧手打造「夢幻電腦」，兩顆凸點還有超狂隱藏功能！
+  description: '這款荷蘭設計師打造的 10:1 樂高積木電腦，不僅外型吸睛，內部更搭載高效能 Mac mini M4。這台樂高積木電腦將復古美學與現代
+    Mac mini M4 完美結合，展現驚人創意與實用功能。這款由荷蘭設計師打造的 10：1 樂高積木電腦，真的讓人看到什麼叫「把夢想實體化」！雖然它外表看起來就是一個巨大的樂高積木，但內部其實藏了一台效能強悍的
+    Mac mini M4 。這不只是一個靜態的模型，而是一台完全可以運作的高科技電腦 。
+
+    放大 10 倍的細節挑戰：Fusion 360 裡的極致工藝
+
+    要把一整台 M4 M…'
+  url: https://www.techbang.com/posts/128308-m4-mac-mini-lego-hidden-features
+  source: Techbang.com
+- title: 當AI成為CEO的「幕僚長」：Meta效率革命下的企業轉型與職場新挑戰
+  description: '祖克伯親自帶頭，Meta正全面推動AI融入日常工作，將AI使用納入績效考核。這場AI效率革命不僅大幅提升工作效率，更成為員工保住飯碗的生存必修課。Meta
+    執行長祖克伯正帶頭示範如何把 AI 融入日常工作。根據華爾街日報報導，祖克伯希望公司內外的每個人最終都能擁有專屬的個人 AI 助理，而他自己更是身先士卒 。知情人士透露，祖克伯正在打造一款「CEO
+    專屬 AI 助理」，用來協助他處理繁雜的工作事務 。
+
+    這款仍在開發中的 AI 助理，能幫助祖克伯更快地獲取資訊 。舉例來說，過去許多需要層層上報才能得到的答覆，現在…'
+  url: https://www.techbang.com/posts/128499-zuckerberg-ai-assistant-meta-layoffs
+  source: Techbang.com
+- title: 美國太平洋艦隊簽約使用人工智慧飛簷走壁機器人協助艦艇維護
+  description: 俄烏戰爭之後，無人機與反無人機作戰成為世界軍事討論的主流，再加上人工智慧的快速發展，許多人擔憂「天網」的時代是不是就快到來了？就在這個關頭，美國海軍太平洋艦隊與人工智慧機器人公司簽約，不過，不是開發了致命的海上攻擊機器人，而是用來協助艦艇維護。
+    美國海軍太平洋艦隊，與總部位於美國賓州匹茲堡的新創公司...
+  url: https://technews.tw/2026/03/30/gecko-robotics-signs-deal-with-us-navy-to-support-vessel-maintenance/
+  source: Technews.tw
+- title: Deepfake 深偽影片受害者不斷增加！德國女星深偽色情風暴延燒 引爆修法壓力與政治爭議
+  description: '[Newtalk新聞] 德國知名電視主持人費南德斯（Collien Fernandes）指控遭深偽色情影像攻擊事件持續發酵，不僅引發全國示威，也促使政府加速推動相關修法，並牽動政治層面爭議。
+    《英國廣播公司》（ BBC ）指出，現年 44 歲的費南德斯日前指控前夫、演員克里斯蒂安．烏爾門 涉及製作與散布其人工智慧生成色情影像，相關內容最早由德國媒體披露。費南德斯表示，自事件曝光後遭到死亡威脅，甚至在漢堡公開演說時需穿著防彈背心並由警方保護。她表示：「我現在站在這裡，身上穿著防彈背心並由警方保護……因為有人想要殺我…'
+  url: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_60bd3e98-9333-465a-9dc1-51e1da9ed5d5
+  source: Yahoo Entertainment
+- title: 16.98 万元起！丰田这台「拼好车」铂智 7，把华为、Momenta、小米都装上了
+  description: 最懂车的全球大厂加最懂科技的中国伙伴，就是铂智 7 的核心竞争力。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+  url: https://www.ifanr.com/1660150
+  source: Ifanr.com
+- title: 拆穿名词诈骗！用大白话理解晦涩难懂的AI概念 - SharpCJ
+  description: 前言 现在的 AI 圈子有点像当年的互联网泡沫期，新名词满天飞。今天一个 RAG，明天一个 MCP，后天又是 Agent Skill。
+    互联网行业很多的朋友都被这些术语吓退，跟别提其它行业的朋友了。其实剥开这些“洋气”的外衣，会发现它们解决的都是很朴素的工程问题，所谓智能体就是所有不需要智能的部分构
+  url: https://www.cnblogs.com/joy99/p/19792266
+  source: Cnblogs.com
+- title: Agent Client Protocol 全景解析 - 哥不是小萝莉
+  description: 1.概述 Agent Client Protocol（ACP）是一个标准化通信协议，用于规范代码编辑器和集成开发环境（IDE）与编码智能体（Coding
+    Agents）之间的交互。该协议同时支持本地和远程使用场景。 2.内容 2.1 为什么需要 ACP？ AI 编码智能体（Coding Agents
+  url: https://www.cnblogs.com/smartloli/p/19792150
+  source: Cnblogs.com
