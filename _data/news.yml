@@ -1,83 +1,78 @@
-- title: 获韶音投资，一家AI公司做了“硬件版OpenClaw” | 36氪独家
-  description: "文｜邓咏仪\n 编辑｜苏建勋\n 当OpenClaw风暴席卷全球之时，无界方舟创始人曾晓东的反应不是兴奋，而是一种“终于被看见”的感觉。\n\
-    \ “OpenClaw本质上是一个Agent框架，底层是一个会写代码的Agent，放在云端服务器或者电脑上。”他对《智能涌现》说，“我们的AIOS本质上也是一个Agent框架，但它是放在硬件端侧的OpenClaw——机器人、耳机、眼镜，都可以在这套OS上运行。”\n\
-    \ 无界方舟从2024年成立起，就在做这件事。曾晓东给这套范式起了个名字：Vibe Hardware——用自然语言做硬件开发…"
-  url: https://36kr.com/p/3749149674439169
+- title: 36氪首发丨前赛默飞员工创业黑灯实验室，实现国内100%交付，获近亿融资
+  description: "作者丨欧雪\n 编辑丨袁斯来\n 硬氪获悉，北京戴纳实验科技股份有限公司（下称“戴纳科技”）已于近日完成近亿元B+轮融资。本轮由顺禧基金管理的北京市新材料产业投资基金（以下简称“北京新材料基金”）和北京市丰台区丰泽志远产业培育基金（以下简称“丰泽基金”）共同投资。资金将主要用于核心技术迭代、产能扩张，以及与北京化工大学联合搭建全球首个新材料CRO平台，加速AI+新材料研发服务的产业化落地。\n\
+    \ 戴纳科技成立于2011年，是国内首家提出并100%成功交付黑灯实验室的企业。公司专注于全球AI4S（AI for Scienc…"
+  url: https://36kr.com/p/3750417621795588
   source: 36kr.com
-- title: 36氪晚报｜AI大模型产品“奇趣”完成千万级融资；阶跃星辰上线Step 3.5 Flash 2603模型；沃尔沃汽车第一季度全球销量同比下降11%
-  description: "大公司：\n 滴滴租车推出“无车必赔”机制，无车率下降15%\n 为提升履约确定性，滴滴租车推出“无车必赔”机制：因商家原因导致无法用车，平台将协调升级车型，或全额退款并赔付三倍日租金。规则实施后，无车率同期下降15%，平台共赔付预约无车订单三百余次。针对车损纠纷和线下乱收费情况，平台提供免费第三方定损及先行赔付，费用全程线上公示，统一收款，严禁线下加价，违规收费先行赔付，线下乱收费投诉量下降50%。目前超95%的订单实现“无投诉、无纠纷”。\n\
-    \ 韩国交易所启动SIDECAR机制，暂停KOSDAQ程序化卖出\n 36氪获…"
-  url: https://36kr.com/p/3749518049739271
+- title: 中电信人工智能科技公司增资至约33.7亿元
+  description: 36氪获悉，爱企查App显示，近日，中电信人工智能科技（北京）有限公司发生工商变更，新增北京市人工智能产业投资基金（有限合伙）、国家人工智能产业投资基金合伙企业（有限合伙）等为股东，同时，注册资本由30亿元人民币增至约33.7亿元人民币，增幅约12%。
+    该公司成立于2023年11月，法定代表人为何忠江，经营范围包括人工智能行业应用系统集成服务、人工智能基础资源与技术平台、人工智能理论与算法软件开发等，现由中国电信股份有限公司及上述新增股东共同持股。
+  url: https://36kr.com/newsflashes/3750546336367367
   source: 36kr.com
-- title: 8点1氪丨甲骨文凌晨突发邮件裁员3万人；市监局回应张雪机车禁止新手购买；SpaceX据悉秘密提交IPO文件，估值或超过1.75万亿美元
-  description: "今日热点导览\n 宇树科技被抽中首发企业现场检查 \n 国家税务总局：2025年个税汇算已超7000万人申请退税 \n 原特斯拉中国区高管孔艳双入职小米 \n\
-    \ 特斯拉正式停产Model S和Model X两款车型 \n 美国纽约市宣布撤销政府设备使用TikTok禁令\n TOP 3大新闻\n 甲骨文凌晨6点突发邮件裁员3万人，约占全球员工总数的18%\n\
-    \ 全球软件巨头甲骨文（Oracle）于当地时间3月31日凌晨向员工群发邮件，宣布启动新一轮大规模裁员。多名收到通知的员工在社交媒体上披露，邮件措辞直白：“在认真评估甲骨文当前的业…"
-  url: https://36kr.com/p/3748927500387072
+- title: 中标多订单旺，上市公司增长动能强劲
+  description: 2026年以来，多家A股上市公司披露订单签约及项目中标公告，整体呈现强劲增长势头。根据Wind资讯数据统计，截至4月2日，从订单与中标规模看，今年以来上市公司单笔金额覆盖千万元级、亿元级乃至百亿元级，订单披露频次较去年同期亦显著提升。从覆盖领域看，订单和中标项目呈现“传统产业稳根基、新兴产业领增长”的格局，新能源、人工智能配套等领域占比较大。（证券日报）
+  url: https://36kr.com/newsflashes/3750368381469444
   source: 36kr.com
-- title: 零克云正上线“云端龙虾”OpenClaw服务
-  description: 36氪获悉，零克云正式上线“云端龙虾”OpenClaw服务，云端一键部署，内置多模型组合，用户无需配置任何API Key或环境参数。针对AI模型调用，零克云基于智能调度与多模型路由技术，可根据任务复杂度自动匹配最优模型。“云端龙虾”无需复杂配置，可快速无障碍接入海外Codex、Claude等模型。同时，支持一键接入飞书、钉钉、企业微信等。
-  url: https://36kr.com/newsflashes/3749367714431749
+- title: 微软计划未来四年在日本投资100亿美元，与日企合作开发AI基础设施
+  description: 微软当地时间4月2日宣布，计划未来四年在日本投资100亿美元，将与Sakura Internet和软银公司合作开发人工智能基础设施。（界面）
+  url: https://36kr.com/newsflashes/3750485448704777
   source: 36kr.com
-- title: 国家药监局：到2030年初步构建药品监管与人工智能融合创新体系
-  description: 36氪获悉，4月2日，国家药监局发布《关于“人工智能+药品监管”的实施意见》。《意见》提出，到2030年，初步构建药品监管与人工智能融合创新体系，“人工智能+药品监管”运行管理机制基本形成，算力支撑底座更加集约高效，形成满足监管智能化需要的高质量数据集、垂直大模型和智能体，人工智能在审评审批、监督检查、检验监测、政务服务等场景中有效应用，人机协同效率显著提升，全生命周期数智化监管能力迈上新台阶。到2035年，基本形成数智驱动、智能敏捷、自主可控、生态协同的智慧化药品安全治理新格局。
-  url: https://36kr.com/newsflashes/3749088355566089
+- title: 神州数码2025年营收超1400亿，AI相关业务增长近五成｜最前线
+  description: "作者｜黄楠\n 编辑｜袁斯来\n 神州数码（000034.SZ）2025年全年业绩报告近日发布。\n 财报显示，公司全年实现营业收入1438亿元，同比增长12%，营收规模连续三年稳步攀升。其中，AI相关业务成为核心增长引擎，全年收入达330亿元，同比增长了48%，正式迈入规模化落地期，成为与传统分销业务并重的当期增长极。\n\
+    \ 具体到业务板块，高价值战略业务呈现爆发式增长。以神州问学为核心的AI软件及服务业务营收1.1亿元，同比增长了165.4%，企业级Agent中台进入商业化变现阶段；数云服务及软件业务营收35.6亿元，…"
+  url: https://36kr.com/p/3751046517129735
   source: 36kr.com
-- title: 具身智能机器人广东省工程研究中心获批组建
-  description: 36氪获悉，据深圳市人工智能与机器人研究院官微，近日，依托深圳市人工智能与机器人研究院（AIRS）申报的“具身智能机器人广东省工程研究中心”获得广东省发展改革委批复组建。
-  url: https://36kr.com/newsflashes/3748933484921600
-  source: 36kr.com
-- title: 逾八成消费电子及家电A股公司2025年实现盈利
-  description: 受益于AI技术深度赋能、业务与海外市场多元拓展以及“以旧换新”等政策落地，2025年A股消费电子与家电行业整体呈现稳步修复态势，企业加快转型升级，逐步迈向价值提升新阶段。Choice数据显示：截至4月1日19时，在已披露2025年业绩的35家消费电子A股公司中，30家公司实现盈利，18家实现正增长；在已披露2025年业绩的34家家用电器公司中，32家公司实现盈利，13家实现正增长。总体来看，逾八成消费电子及家电A股公司在2025年实现盈利，其中头部企业与创新型企业表现亮眼。（上证报）
-  url: https://36kr.com/newsflashes/3748931776971264
-  source: 36kr.com
-- title: 蘋果AI佈局再出招！前Google高層Lilian Rincon入主，全面操刀Siri行銷與產品
-  description: 'Apple 延攬前 Google 高管，強化人工智慧佈局。隨著新版 Siri 將在 iOS 27 登場，Apple 如何透過人工智慧與升級版
-    Siri，在激烈競爭中脫穎而出？Apple 在人工智慧領域的佈局又有大動作。根據 Axios 報導，Apple 近日聘請了前 Google 副總裁莉蓮·林孔（Lilian
-    Rincon），出任公司的人工智慧產品行銷副總裁 。在加入 Apple 之前，林孔曾在 Google 擔任 Google Shopping 的產品副總裁，主要負責主導針對消費者的購物體驗相關業務
-    。
-
-    在 …'
-  url: https://www.techbang.com/posts/128580-apple-poaches-google-vp-ai-marketing-ios27-siri
-  source: Techbang.com
-- title: 記憶體成本狂飆！樹莓派調漲售價保獲利，營收預期超標帶動股價大漲逾兩成
-  description: '樹莓派銷量爆發，營收預期上調，股價飆升！然而，記憶體成本飆漲迫使樹莓派產品連番漲價。面對記憶體成本壓力，這家微型電腦霸主如何應對？英國微型電腦製造商樹莓派（Raspberry
-    Pi）近期迎來一波爆發。由於銷量大增並上調了 2026 年的營收預期，加上反映記憶體成本而調漲售價，帶動其股價在盤中一度飆升 27% 。公司指出，這波強勁的銷售動能從去年一路延續至今，受惠於美國與中國市場的龐大需求，2025
-    年共創下 3.232 億美元（約新台幣 103.4 億元）的營收，年增率高達 25% 。
-
-    成本轉嫁消費者，四個月內連…'
-  url: https://www.techbang.com/posts/128657-raspberry-pi-price-hike-memory-costs-stock-surge
-  source: Techbang.com
-- title: AI 助理 Claude 爆紅！拒絕美軍、嗆爆 ChatGPT，還有「電腦操控」神功能，付費訂閱數狂飆！
-  description: 'Anthropic 旗下的 AI 助理 Claude 付費訂閱人數近期創紀錄飆升，成為消費級 AI 領域的黑馬。究竟是什麼原因讓這款
-    AI 助理的付費訂閱用戶數爆發式成長？就算正跟美國國防部激烈鬥法，Anthropic 旗下的 AI 助理 Claude 在一般消費者市場卻迎來了史無前例的爆發
-    。根據最新消費數據顯示，Claude 的付費訂閱人數近期正以創紀錄的速度飆升，成為目前消費級 AI 領域最受矚目的黑馬 。
-
-    這份來自消費交易分析公司 Indagari 的報告，追蹤了約 2800 萬名美國消費者的數十億筆匿名…'
-  url: https://www.techbang.com/posts/128588-claude-ai-military-reject-chatgpt-challenge-pc-control
-  source: Techbang.com
-- title: SpaceX 秘密提交 IPO 申請 估值衝上 1.75 兆美元 挑戰史上最大 IPO
-  description: Mash Yang發佈SpaceX 秘密提交 IPO 申請 估值衝上 1.75 兆美元 挑戰史上最大 IPO，最新資訊於2026-04-02
-    13:49： 750 億美元。此案若順利完成，將超越沙烏地阿拉伯石油公司，成為全球史上規模最大的首次公開募股案。#(247472)
-  url: https://www.cool3c.com/article/247472
+- title: OpenAI 收購矽谷爆紅商業節目 TBPN，寫下首宗媒體收購紀錄
+  description: OpenAI 收購科技節目 TBPN 並納入策略部門，此舉為 OpenAI 首宗媒體收購案，其編輯獨立性引發外界疑慮，被視為 AI 公司掌握論述權之佈局。
+  url: https://www.inside.com.tw/article/41004-openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show
+  source: Inside.com.tw
+- title: 伊朗襲擊 AWS 巴林資料中心 18 家美科技巨頭列攻擊名單
+  description: Mash Yang發佈伊朗襲擊 AWS 巴林資料中心 18 家美科技巨頭列攻擊名單，最新資訊於2026-04-03 21:39：伊朗革命衛隊對巴林
+    AWS 資料中心發動實體攻擊，顯示地緣政治衝突已直接威脅雲端基礎設施。該組織公布攻擊名單，揚言持續摧毀美國科技公司之中東設施，引發對關鍵基礎設施實體安全...#(247513)
+  url: https://www.cool3c.com/article/247513
   source: Cool3c.com
-- title: Bitcoin 最快 2032 年 面臨私鑰被破解 Google 量子研究敲響加密警鐘
-  description: Google Quantum AI 於 2026 年 3 月 30 日發表白皮書，顯示破解 Bitcoin 加密算法所需量子運算資源門檻大幅下降，效率較早前估算提升
-    20 倍。量子初創公司 Oratomic 同日亦發表相關研究，以太坊基金會研究員 Justin Drake 因此表示，對量子電腦於 2032
-  url: https://unwire.hk/2026/04/02/google-quantum-bitcoin-2032-crack-threat/tech-secure/
-  source: Unwire.hk
-- title: Arm AGI CPU 繞開出口限制，合法進軍中國資料中心
-  description: 4 月 1 日，Arm 公司宣布將其新推出的 AGI 中央處理器（CPU）銷售至中國，這一舉措標誌著該公司在全球第二大人工智慧基礎設施市場的擴張。儘管面臨美國和英國對某些技術的出口限制，Arm
-    仍然能夠合法地將這款產品銷售給中國客戶。 Arm的AGI CPU搭載136個Neoverse V3核心，這...
-  url: https://technews.tw/2026/04/02/arm-to-sell-its-new-agi-cpu-in-china/
+- title: OpenAI 收購矽谷當紅科技節目 TBPN，進軍媒體領域
+  description: 根據外電報導，人工智慧公司 OpenAI 宣布收購科技節目 TBPN （ Technology Business Programming
+    Network）但未揭露交易金額，這也是 OpenAI 首次收購媒體相關平台。 OpenAI AGI 部署執行長 Fidji Simo 指出，隨著公司影響力擴大，...
+  url: https://technews.tw/2026/04/03/openai-buy-tbpn/
   source: Technews.tw
-- title: OpenClaw 发布 ClawHub 中国镜像：Skill 仓库访问更快了，闹剧结束了。
-  description: ClawHub 闹剧终于画上了句号。OpenClaw 开发者正式发布了 ClawHub 官方仓库的中国镜像网站，由字节赞助。而此前闹出抄袭的
-    TencentHunyuan 出局。
-  url: https://www.appinn.com/openclaw-clawhub-china-mirror-faster-skill-repo-access/
-  source: Appinn.com
-- title: 看完都忘记AI agent的事了
-  description: '@tombkeeper：因为要给一些领导介绍 AI Agent，所以这两天在收集资料。搜索 Agent 导致安全问题的案例时，看到一个姑娘抱怨自己的数据被
-    Agent 删除了，于是我就点开了她的主页，…'
-  url: https://www.bohaishibei.com/post/108281/
-  source: Bohaishibei.com
+- title: 8点1氪丨张雪回应陈光标赠1300万元劳斯莱斯；与辉同行曾带货优思益，销售额超千万；马斯克回应OpenAI股票在二级市场遇冷
+  description: "今日热点导览\n 抖音生活服务组织架构大调整\n 杭州市场监管部门对索象等公司立案调查\n 伊朗：霍尔木兹海峡对敌人将永远关闭\n\
+    \ 飞天茅台原箱批价涨至1730元/瓶\n 礼来口服GLP-1药物在美获批用于减肥\n TOP3大新闻\n 张雪回应陈光标赠1300万元劳斯莱斯\n 4月1日，陈光标在社交平台发布视频称，将赠予张雪机车创始人张雪一台价值1300万元的劳斯莱斯。4月2日凌晨，张雪回应称：“那我收了，顺便招募一位附近的2手车商（信任度权威的）上门8折收了。款捐赠给嫣然天使，我们就委屈点还用面包车接客户吧。”此前，张雪曾说自…"
+  url: https://36kr.com/p/3750345334292999
+  source: 36kr.com
+- title: AI开发者请就位！第二届“数龙杯”新增智能体赛道，你的“龙虾”准备好了吗？
+  description: "文 | 刘士武\n 近日，由世纪华通主办的第二届「数龙杯全球AI创新大赛」宣布将于4月初正式启动，并在参赛项目类型方面进行了全面升级。除了各类AI游戏与AI应用以外，本届大赛专门新增了AI智能体赛道，希望挖掘在这个领域真正有创造力、能解决实际问题的优秀项目。\n\
+    \ \n 第二届「数龙杯全球AI创新大赛」（文末附报名入口）\n 这一举措的背景，呼应了2026开年OpenClaw将AI行业发展推向的新高潮。\n “小龙虾”不仅能自己规划任务、执行操作，还能像养电子宠物一样被用户训练和互动，瞬间带起了全民养虾的热潮。在社交媒体上，…"
+  url: https://36kr.com/p/3749811482297090
+  source: 36kr.com
+- title: DeepSeek V4 傳改用華為 AI 晶片，阿里巴巴、字節跳動和騰訊搶下單
+  description: 根據《The Information》報導，中國 AI 新創 DeepSeek 即將推出的新一代模型 V4，將採用華為最新 AI 晶片運行。為因應模型上線需求，包括阿里巴巴、字節跳動與騰訊等中國科技巨頭，已提前下單華為新一代晶片，訂單規模達數十萬顆。
+    報導指出，DeepSeek-V4 預計將於未來數...
+  url: https://technews.tw/2026/04/04/deepseek-v4-huawei/
+  source: Technews.tw
+- title: 派早报：Google 发布 Gemma 4 开源系列模型、智谱发布 GLM-5V-Turbo 多模态模型等
+  description: Google 将强制要求所有 Wear OS 手表应用支持 64 位，中国广电联合会演员委员会就 AI 换脸与声纹克隆侵权问题发布声明等。查看全文
+  url: https://sspai.com/post/108209
+  source: Sspai.com
+- title: 搜尋邏輯大轉變！iKala Chroma 助品牌搶佔 GEO 先機，同步推出「企業龍蝦」iKala Nexus
+  description: iKala 舉辦首屆「iKala Connection Day」，會中亮相旗下全新產品 Chroma，針對 GEO 趨勢提出監測解方；同時介紹企業級
+    AI 代理平台 iKala Nexus。跨國 AI 公司 iKala 於 1 日舉辦首屆「iKala Connection Day」，以「數據共生・串聯企業核心的
+    AI 轉型實踐」為主題剖析 AI 驅動的企業轉型架構，並於會中亮相旗下全新產品 Chroma，針對 GEO（生成式引擎優化）趨勢提出監測解方；同時介紹企業級
+    AI 代理平台 iKala Nexus，旨在賦…
+  url: https://www.techbang.com/posts/128660-ikala-chroma-nexus
+  source: Techbang.com
+- title: Ray-Ban 聯名 Meta 智慧眼鏡再升級！支援多焦鏡片但價格直逼萬六，AI 功能同步大進化
+  description: 'Meta Ray-Ban 智慧眼鏡迎來全新升級，不僅強化光學支援，更針對近視族群推出客製化選擇。其 AI 功能也大幅進化，讓這款智慧眼鏡成為更強大的隨身
+    AI 終端，AI 功能支援中文翻譯與對話摘要。Meta 與雷朋母公司依視路陸遜梯卡合作推出的最新一代智慧眼鏡正式亮相 。這次主打更高的客製化程度，特別針對需要配戴近視或漸進多焦鏡片的使用者量身打造，引入兩款全新鏡框樣式
+    Ray-Ban Meta Blayzer Optics 與 Scriber Optics，不過整體售價也跟著水漲船高 。
+
+     
+
+    全新設計更貼合臉型…'
+  url: https://www.techbang.com/posts/128663-ray-ban-meta-smart-glasses-ai-multifocal
+  source: Techbang.com
+- title: Sony 收購英國 AI 新創 Cinemersive Labs 強化 PlayStation 視覺運算能力
+  description: Mash Yang發佈Sony 收購英國 AI 新創 Cinemersive Labs 強化 PlayStation 視覺運算能力，最新資訊於2026-04-03
+    21:36：索尼互動娛樂收購 AI 公司 Cinemersive Labs，整合其 2D 轉 3D 技術以強化 PlayStation ...#(247508)
+  url: https://www.cool3c.com/article/247508
+  source: Cool3c.com
