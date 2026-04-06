@@ -1,86 +1,81 @@
-- title: Anthropic宣布正式封杀OpenClaw
-  description: 美国大模型头部公司Anthropic旗下AI编程工具Claude Code负责人Boris Cherny发文称，美国西部时间4月4日中午12点起，Claude订阅服务将不再包含对OpenClaw等第三方工具的使用额度。团队一直在努力满足Claude需求的增长，而订阅并非为这些第三方工具的使用模式设计。容量是团队谨慎管理的资源，会优先考虑客户使用产品和API。（第一财经）
-  url: https://36kr.com/newsflashes/3751993972802307
+- title: 高端智能投影品牌AWOL Vision获近亿元B轮融资，新品拿下近2000万美金众筹｜硬氪首发
+  description: "作者｜黄楠\n 编辑｜袁斯来\n 硬氪获悉，高端智能投影品牌AWOL Vision近日完成近亿元B轮融资，投资方包括天堂硅谷、会畅科技及金鹏佳等机构。资金将主要用于核心技术研发，持续迭代超短焦与长焦激光显示能力，并推进“家庭AI智能娱乐平台”生态构建；同时加快全球渠道与品牌拓展，强化供应链协同，并引入顶尖人才以夯实全球化运营基础。\n\
+    \ AWOL Vision成立于2020年，长期专注RGB激光投影与家庭视听体验创新，并以深圳海高特科技有限公司作为其研发与设计中枢，为全球视听领域用户提供更具沉浸感的解决方案，重塑家庭娱乐…"
+  url: https://36kr.com/p/3752260051616512
   source: 36kr.com
-- title: 原小米字节硬件高管徐睿加入Meta 将领导新组建的AI硬件团队
-  description: "4月4日，据爱范儿报道，原小米、字节跳动硬件业务高管徐睿，将成为Meta旗下的MSL（超级智能实验室）新组建的AI硬件团队的负责人。据了解，由Alexandr\
-    \ Wang领导的MSL将成立一个全新的AI硬件团队，徐睿将参与该新部门的组建和领导工作。\r\n据悉，徐睿曾经在小米、字节跳动、英特尔、亚马逊、联想等互联网科技公司担任硬件业务专家和负责人。2015年-2017年期间，徐睿在小米工作，曾管理小米电视全球团队，负责分析全球智能电视和机顶盒市场，制定了小米电视全球产品路线图，是早期的小米电视/盒子团队的核心成员之一，…"
-  url: https://www.cnbeta.com.tw/articles/tech/1556578.htm
+- title: 英伟达发布神经纹理压缩 显存占用最高可降低85%
+  description: "近年来，英伟达一直是技术领域的领跑者，推出了一系列革命性的技术功能，其中最突出的就是其人工智能图像增强技术DLSS， 而在近日的GTC\
+    \ 2026大会上，该公司又发布了黑科技——神经纹理压缩。\r\n该人工智能技术据称可将玩游戏时显存的占用降低85%，且画质零损失。其神经纹理压缩Demo显示，在显存占用6.5GB和970MB之间实现了“惊人的视觉效果一致性”。随着游戏变得越来越复杂、越来越逼真，游戏行业越来越依赖图像放大技术来满足不断增长的硬件需求。这种优化不足导致的一个主要问题是显存占用率，近年来显存占用率急剧上升。…"
+  url: https://www.cnbeta.com.tw/articles/tech/1556626.htm
   source: Cnbeta.com.tw
-- title: 一群00后极客和这家机器人公司共处72小时
-  description: "2026年3月29日下午5点，在我们抵达深圳科创学院四楼时，参加“全球首届具身智能开发者大会”的20组选手，已经在这里持续开发了60个小时。\n\
-    \ 现场弥漫着一股咖啡混合着冷气的味道，随处可见没吃完的奶茶和果切，楼道里和墙角支着一个个帐篷，有选手在里面补觉，“前一天熬到凌晨4点”。\n \n 图片由智能涌现拍摄\n\
-    \ 和开发应用/软件的黑客松不同，在这场具身智能开发者大会上，看得见的，有近百台高性能六轴机械臂；看不见的，背后还有100+ PFLOPs的算力支持，以及自变量WALL-OSS、Pi0.5、英伟达DreamZero…"
-  url: https://36kr.com/p/3752115857638145
-  source: 36kr.com
-- title: Anthropic启动员工出资政治行动委员会 为大选季加码政治捐款
-  description: "美国人工智能公司 Anthropic 正在筹建一支新的企业政治行动委员会（PAC），成为最新一批在大选季通过员工出资方式参与竞选资金博弈的科技企业之一。\
-    \ 4 月 3 日，该公司主体 Anthropic PBC 向联邦选举委员会递交组织声明，宣布成立名为“AnthroPAC”的委员会。 据悉，该 PAC 的资金将完全来自\
-    \ Anthropic 员工的自愿捐款，这是科技公司向竞选项目投入政治资金的常见做法。\r\nAnthroPAC 预计将以两党路线运作，向民主、共和两党候选人提供捐助，其运作将由一个两党背景的董事会进行监…"
-  url: https://www.cnbeta.com.tw/articles/tech/1556556.htm
+- title: 苹果50周年：AI赛道错失五年领先优势
+  description: "在迎来成立50周年之际，苹果正面临一个关键转折点：如何在人工智能浪潮中重新确立自身优势。多位前员工与行业观察人士表示，苹果在生成式AI浪潮中“错失了大约五年的领先优势”，但公司仍具备在未来竞争中翻盘的条件。\r\
+    \n长期以来，苹果以“隐私优先”的产品理念著称。公司向消费者承诺，用户数据主要保存在设备本地，而不会被用于广告业务。这一策略与Google和Meta形成鲜明对比，后两者长期依赖广告模式，通过大量用户数据训练算法并投放精准广告。不过，一些业内人士认为，这一策略在生成式AI早期阶段反而让苹果处于不利位置。当前主流A…"
+  url: https://www.cnbeta.com.tw/articles/tech/1556614.htm
   source: Cnbeta.com.tw
-- title: 【CDT报告汇】民主期刊：AI并非无所不能，独裁政权仍无法消除大规模抗议（外二篇）
-  description: 本期CDT报告汇主要内容：大西洋理事会 (Atlantic Council) 联合荣鼎咨询公司发布报告，指台海战争将令全球经济损失至少3万亿美金；二、人权评量倡议组织发布2022年度人权指数报告，称中国人权状况堪忧；三、维吾尔人权项目表示，联合国难民署未能保护维吾尔难民
-  url: https://chinadigitaltimes.net/chinese/726304.html
-  source: Chinadigitaltimes.net
-- title: Anthropic 再收緊 OpenClaw 限制　禁用訂閱方案　用戶須另購按量計費套餐
-  description: OpenClaw 用家之中，不少都使用 Anthropic 的 Claude 系列模型，不過 Anthropic 宣佈由香港時間 4
-    月 5 日凌晨 3 時起正式停止 Claude 訂閱方案支援第三方工具 OpenClaw，用戶若要繼續使用須另行購買按用量計費的折扣套餐。這筆費用將與原有訂閱分開結算。
-  url: https://unwire.hk/2026/04/04/anthropic-cuts-openclaw-claude-subscription/ai/
-  source: Unwire.hk
-- title: Copilot救不了？微軟AI投資成錢坑，客戶恐轉投新創懷抱
-  description: 微軟因對人工智慧的巨額資本支出，股價面臨嚴峻考驗。投資人擔憂人工智慧新創恐取代微軟核心產品，導致微軟股價可能創下金融海嘯以來最糟單季表現。微軟目前正處於科技業兩大不利趨勢的交會點，股價可能創下自二十年前全球金融海嘯以來最糟的單季表現
-    。一方面，這家軟體巨頭正大幅增加資本支出，華爾街投資人越來越關心其在人工智慧基礎設施的龐大投資，何時才能真正在營收成長上帶來顯著的回報 。另一方面，投資人也開始拋售軟體類股，因為他們擔心像
-    Anthropic 和 OpenAI 等人工智慧新創公司所開發的 AI 代理服務，未來可能會直…
-  url: https://www.techbang.com/posts/128578-microsoft-ai-copilot-money-pit
-  source: Techbang.com
-- title: AI 聊天機械人獲授權續開藥　猶他州試驗引起醫學界憂慮
-  description: 美國猶他州批准三藩市初創公司 Legion Health 以 AI 聊天機械人為精神科病人續發藥物，成為全球首個獲准這類臨床權限的精神健康
-    AI 系統，這項為期一年的試驗計劃於上星期公佈，預計 2026 年 4 月正式接受申請，惟精神科醫生對系統安全性及透明度深表憂慮。
-  url: https://unwire.hk/2026/04/04/ai-chatbot-psychiatric-prescription-utah-trial/ai/
-  source: Unwire.hk
-- title: 微軟推出語音辨識、語音生成與圖像生成 MAI 模型
-  description: 微軟推出語音辨識、語音生成與圖像生成三款模型，分別為 MAI-Transcribe-1、MAI-Voice-1 與 MAI-Image-2，效能號稱優於
-    OpenAI 與 Google 等同業產品。 微軟宣布推出新一代 MAI 模型組合，並已正式上線 Microsoft Foundry，主打高效能與...
-  url: https://technews.tw/2026/04/04/microsoft-mai-model/
+- title: 国产GPU越来越会赚钱：4家厂商芯片毛利率超过50% 最高近70%
+  description: "过去的一年中国产GPU中的四大——摩尔线程、沐曦、壁仞及天数智芯都已经IPO上市，市值最高的摩尔线程一度达到5000亿元，目前已经回落到2700多亿。\r\
+    \n上市之后，这四家公司也陆续公布了年报，营收普遍在10-20亿之间，其中天数智芯去年营收10.34亿，壁仞去年营收10.35亿，摩尔线程营收15.06亿，沐曦营收最高，但也就是16.44亿元。这四家GPU上市公司还是巨额亏损的，最少亏损的天数智芯去年亏了4.4亿，沐曦亏了7.9亿，摩尔线程亏了10.2亿，壁仞亏了18亿，是最多亏损的一家。好消息是他们的亏损额相比之…"
+  url: https://www.cnbeta.com.tw/articles/tech/1556646.htm
+  source: Cnbeta.com.tw
+- title: Nothing 宣布 2027 年推出首款 AI 智慧眼鏡，瞄準 Ray-Ban Meta
+  description: 英國新創公司 Nothing 計劃在 2027 年上半年推出其首款 AI 智慧眼鏡，這個消息引起科技界關注。根據彭博社報導，Nothing
+    創始人裴宇（Carl Pei）對於這項計畫最初持保留態度，但隨後決定採取多設備策略，將重心擴展至智慧眼鏡和耳機等新產品。 這款智慧眼鏡將不會配備內建顯示螢幕，而...
+  url: https://technews.tw/2026/04/05/nothing-is-eyeing-ai-smart-glasses/
   source: Technews.tw
-- title: 早报｜Slack粗暴切断大中华区服务引发用户不满/小米手机涨价，卢伟冰：内存涨价远超预期/三大外卖平台被约谈，6月落实食品安全新规
-  description: '· 工信部预警：iOS 13 至 17.2.1 存在严重漏洞，建议尽快升级
-
-    · 苹果下架 Vibe Coding 应用 Anything
-
-    · 曝 R 星母公司解散 AI 团队，七年研发成果戛然而止#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。'
-  url: https://www.ifanr.com/1661050
-  source: Ifanr.com
-- title: 不戴耳機、聲音不外漏：日本 JR 東海道新幹線引進 NTT PSZ 音響技術，打造車廂內的個人聲音泡泡
-  description: NTT音響技術PSZ首度導入東海道新幹線 N700S 上級座席，乘客無需耳機即可在車廂內享受私人音場，聲音不外漏也不打擾鄰座。東海道新幹線即將迎來一項音響技術革新。NTT
-    旗下子公司 NTT ドコモビジネス 與 NTT ソノリティ 宣布，將與 JR 東海合作，在東海道新幹線 N700S 列車的上級艙等座席（上級クラス座席）導入
-    NTT 自行研發的專利技術「PSZ（Personalized Sound Zone，個人化音效區域）」。乘客不需要配戴耳機或耳塞，音樂和影片聲音只會出現在自己耳邊，不會外漏打擾鄰座。這也是…
-  url: https://www.techbang.com/posts/128577-jr-shinkansen-ntt-psz-sound-bubble
-  source: Techbang.com
-- title: Meta內部文件曝光：AI成「最窒息KPI」，員工怒吼：根本災難！
-  description: 'Meta 正以激進手段逼迫員工使用 AI 工具，將 AI 使用次數綁定績效指標。這場由上而下的效率革命，讓 Meta 員工苦不堪言，質疑公司的高壓
-    AI 工具 政策。Meta 執行長祖克伯為了將公司徹底轉型為「AI 原生」，正以前所未有的激進手段逼迫員工使用 AI 工具 。根據外流的內部文件顯示，員工每天使用
-    AI 的次數已經成為最讓人窒息的績效指標，在元宇宙計畫燒光百億美元（約新台幣 3200 億元）後，高層終於找到了折騰員工的新目標 。然而這場由上而下的效率革命，在基層員工眼中卻成了一場純粹的災難
+- title: 0基础教你快速写自己的Agent Skills - 陈彦斌
+  description: 介绍 在人工智能飞速发展的今天，Agent（智能体）已经不再是一个陌生的词汇。你可能听说过它能自动写代码、能帮你订机票，甚至能充当你的私人助理。但你是否好奇，这些强大的能力究竟是如何“安装”到Agent身上的？
+    其实，给Agent赋予能力，就像给手机安装App一样，核心在于定义清晰的Skills（技
+  url: https://www.cnblogs.com/chenyanbin/p/19824343/agentskills
+  source: Cnblogs.com
+- title: 微软在使用条款中强调Copilot“仅供娱乐” 并不适合重要用途
+  description: "微软在大力向消费者和企业推广其人工智能产品、并在 Windows 11 深度集成 Copilot 的同时，却在官方文件中将这款 AI\
+    \ 服务定位为“娱乐用途”。 更新于去年 10 月的《Microsoft Copilot 使用条款》明确写道，这一大型语言模型（LLM）“仅供娱乐目的”，用户不应将其用于提供重要建议，并需自担风险。\r\
+    \n这一表述与微软近期围绕 Copilot+ PC 及面向企业用户的宣传形成鲜明反差，引发外界对其信心程度的质疑。在该使用条款中，微软写道：“Copilot\
+    \ 仅供娱乐用途。它可能会犯错，且可…"
+  url: https://www.cnbeta.com.tw/articles/tech/1556666.htm
+  source: Cnbeta.com.tw
+- title: OpenClaw被Anthropic封杀 国产大模型抢市场
+  description: "被称为小龙虾的OpenClaw是今年最火的现象级AI产品，也极大地推动了广大网友使用AI的意愿，然而Anthropic今天还是宣布封杀了小龙虾。Anthropic旗下的Claude大模型因为能力极强，很多人哪怕不惜高价订阅也要给小龙虾使用Cluade套餐，但Anthropic跟OpenClaw关系一向糟糕，多次出手限制，现在更是直接封杀了第三方使用。\r\
+    \n这件事现在引起了AI社区的热议，很多人并不赞成Anthropic的做法，但Anthropic态度坚决，目前来看不太可能收回决定了。那就让国产的AI大模型给他们来点…"
+  url: https://www.cnbeta.com.tw/articles/tech/1556610.htm
+  source: Cnbeta.com.tw
+- title: 越预警越被骂 AI三巨头陷入“奥本海默”死局
+  description: "3月30日，X平台上一条转发视频的评论炸开了锅。用户@malmesburyman转发了Anthropic CEO Dario Amodei的采访片段，配文：你真的能从这家伙身上感受到为什么杜鲁门觉得奥本海默那么令人厌恶。\r\
+    \n视频里，Amodei正在重复他那套熟悉的论调：我们的模型已经非常接近人类智能水平，但社会对即将到来的风险却缺乏广泛认识。这条评论引发两极分化。支持者认为Amodei一边开发强AI一边装圣人，就像奥本海默造完原子弹后才说“手上沾满鲜血”;反对者则认为这个类比根本站不住脚。奥本海默是在原子弹已经杀…"
+  url: https://www.cnbeta.com.tw/articles/tech/1556676.htm
+  source: Cnbeta.com.tw
+- title: 砸4億美元買下不到10人的新創！Anthropic收購Coefficient Bio，劍指AI藥物研發兆元商機
+  description: 為了在醫療與生命科學領域取得絕對的領先優勢，開發出知名人工智慧模型Claude的Anthropic，稍早傳出以價值約4億美元的全股票交易
+    (All-stock deal)，收購了一家成立僅8個月、團隊規模不到10人的生技AI新創公司Coefficient Bio。
+  url: https://tw.news.yahoo.com/anthropic-acquires-coefficient-bio-a-startup-with-fewer-than-10-employees-for-400-million-targeting-the-trillion-dollar-market-opportunity-in-ai-driven-drug-discovery-171528845.html
+  source: Yahoo Entertainment
+- title: 前 Microsoft 元老推 AI「指紋浮水印」技術：專防遊戲業「內鬼」洩密，已有部分廠商悄悄部署
+  description: '遊戲公司長期受內部洩密所苦，但新的 AI 浮水印技術或許能終結「內鬼」洩密。這項 AI 浮水印技術透過肉眼難辨的微調，讓洩密者無所遁形，有效保護遊戲公司。長期以來，遊戲公司對內部洩密現象防不勝防，從《上古卷軸
+    6》、《惡靈古堡》到《原神》等諸多 3A 大作，大量未公開資訊屢屢提前曝光 。現在，得益於新的 AI 浮水印技術，遊戲公司或許終於找到了阻止「內鬼」提前洩密的方法
     。
 
-    秘密文…'
-  url: https://www.techbang.com/posts/128574-zuckerberg-ai-or-fired-meta-kpi
+    前 Microsoft 元老、海軍技術專家 Troy Batterberry 在 GDC 遊戲開發者大會上介紹了這項 AI 浮水印技術 。B…'
+  url: https://www.techbang.com/posts/128524-microsoft-ai-watermark-gaming-leaks
   source: Techbang.com
-- title: Spotify 提告 Anna's Archive 索賠 3.2 億美元 誓言將影子資料庫逐出網路圈
-  description: Spotify 聯合唱片公司向 Anna's Archive 提出高達 3.22 億美元的天價索賠，指控其大規模盜版 Spotify
-    音樂。Spotify 與多家大型唱片公司正向美國紐約南區聯邦法院申請缺席判決，要求知名影子資料庫 Anna's Archive 賠償共計 3.22 億美元（約新台幣
-    103 億元），並對其實施永久禁令 。Anna's Archive 被指控未經授權，抓取並外流了數百萬份來自 Spotify 串流平台的音樂檔案 。然而，該網站在整個訴訟過程中完全無視法院傳票與命令，最終被法院書記官認…
-  url: https://www.techbang.com/posts/128584-spotify-sues-annas-archive-320m
-  source: Techbang.com
-- title: 矽谷巨頭用裁員換 GPU、用監管卡位：AI 軍備競賽，關上通往新創和民意的門
-  description: 英國《衛報》報導，輝達（Nvidia）執行長黃仁勳在 GTC 大會預言，公司營收將在 2028 年達 1 兆美元；為了支撐龐大 AI
-    基礎設施開銷與「曼哈頓大小」的資料中心，Meta 考慮裁減高達 20% 員工，連執行長 Mark Zuckerberg 都在開發 AI 代理幫自己做 CEO
-    的工作。...
-  url: https://infosecu.technews.tw/2026/04/04/silicon-valley-ai-race-shuts-out-startups-and-public-voice/
+- title: '[2026 必裝] 自己的 AI 自己養！阿正老師推這款「Ollama」：一鍵在你的電腦跑超強 AI，斷網也能用、資料不外洩！'
+  description: '這幾年 AI 發展實在太快了，但我們也越來越依賴大公司的雲端服務。有時候阿正老師在學校處理一些行政的文件時，心 […]
+
+    這篇文章 [2026 必裝] 自己的 AI 自己養！阿正老師推這款「Ollama」：一鍵在你的電腦跑超強 AI，斷網也能用、資料不外洩！ 最早出現於 軟體玩家。'
+  url: https://pcrookie.com/ollama/
+  source: Pcrookie.com
+- title: 不想再当螺丝钉的打工人，开始琢磨一个人开公司了
+  description: OPC，到底是机遇还是陷阱？ 差评君最近刷到了不少 OPC 的帖子，看得我左右脑直接开始互搏。 所谓 OPC（One Person Company，一人公司
+    ），就是一个人当老板，AI 当员工，靠人 …
+  url: https://www.bohaishibei.com/post/108347/
+  source: Bohaishibei.com
+- title: 人類瀏覽五個網頁、AI 刷五千個！Cloudflare 揭露網路流量結構劇變
+  description: 雲端基礎設施與安全公司 Cloudflare 執行長馬修·普林斯（Matthew Prince）在美國德州奧斯汀舉辦的 SXSW 大會上，接受《TechCrunch》採訪，探討當前趨勢時警告，隨著生成式
+    AI 技術的快速發展，AI 機器人（Bot）在網路上產生的流量，預計到了 2027 年將會超越人...
+  url: https://technews.tw/2026/04/05/ai-bots-to-surpass-human-internet-traffic-by-2027/
   source: Technews.tw
-- title: Anthropic 正式公告終止對 OpenClaw 等第三方平台支援，並宣布補貼政策
-  description: 這次政策急轉彎，官方給出的理由是：第三方工具對 Anthropic 基礎設施造成了「不成比例的負擔」（outsized strain）。Anthropic
-    在通知郵件中向用戶坦言，OpenClaw 等 AI 代理工具能夠 24 小時不間斷運行，這種使用模式遠遠超出了當初訂閱制設計所能承載的範圍。
-  url: https://www.koc.com.tw/archives/637751
-  source: Koc.com.tw
+- title: 渐进式披露：如何用少即是多的理念改进 AI 产品的人机交互 - Newbe36524
+  description: 渐进式披露：如何用&quot;少即是多&quot;的理念改进 AI 产品的人机交互 在 AI 产品设计中，用户输入的质量往往决定了输出的质量。本文分享我们在
+    HagiCode 项目中实践的一套&quot;渐进式披露&quot;交互方案，通过分步引导、智能补全和即时反馈，将用户简短模糊的输入转化为结构
+  url: https://www.cnblogs.com/newbe36524/p/19823549
+  source: Cnblogs.com
