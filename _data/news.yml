@@ -1,80 +1,88 @@
-- title: AI 淪為駭客終極武器？Anthropic 推出最強防禦模型 Mythos，NVIDIA、Google 搶先試用
-  description: 'Anthropic的AI模型Mythos抓漏速度驚人，但Anthropic選擇開放給科技巨頭，以期提升網路安全防禦力。AI 抓漏速度太快，甚至可能淪為駭客的終極武器。
-
-    人工智慧新創 Anthropic 於週二宣布，將向全球多家頂尖網路安全與軟體企業開放其最新的人工智慧模型 Mythos，希望藉此遏制 AI 技術落入駭客手中所引發的網路軍備競賽
-    。目前包含亞馬遜、蘋果、思科、Google、摩根大通與微軟等科技與金融巨頭，都已經獲准使用這套名為 Mythos 的模型進行網路防禦測試，用途包含尋找自身軟體中的漏洞，以及…'
-  url: https://www.techbang.com/posts/128772-anthropic-mythos-ai-defense
-  source: Techbang.com
-- title: 英国金融监管机构急于评估Anthropic最新人工智能模型的风险
-  description: 据英国《金融时报》周日报道，英国金融监管机构正在与政府网络安全机构和各大银行举行紧急会谈，以评估Anthropic公司最新的人工智能模型带来的风险。知情人士称，英国主要银行、保险公司和交易所的代表预计将在未来两周与监管机构举行的一次会议上听取有关该模型（Claude
-    Mythos Preview）所带来的网络安全风险的介绍。（新浪财经）
-  url: https://36kr.com/newsflashes/3764432164520453
+- title: 36氪首发｜港中文博士和前大疆智能制造负责人创业，要做AI时代的“个性化乐高”
+  description: "作者 | 张子怡\n 编辑 | 袁斯来\n 36氪获悉，个性化制造品牌UNICUS（原方仔照相馆，深圳千帜科技有限公司）于近日完成新一轮融资。融资金额达数百万美金。本轮由线性资本领投，九坤创投、天际资本跟投，元一资本担任独家财务顾问。公司创始团队及Maker赛道头部公司创始人以个人身份参与跟投。\n\
+    \ 本轮资金将主要用于积木生成大模型训练、AI Agent的研发以及海外市场的拓展，持续构建“AI驱动的个性化制造”核心能力体系。\n 过去两年，生成式AI的爆发大多集中在数字世界，而UNICUS选择让AI走进物理工厂。基于自研…"
+  url: https://36kr.com/p/3763919765226240
   source: 36kr.com
-- title: 日本四大跨界巨頭組國家隊！軟銀、索尼、本田、NEC 打造「實體 AI」新公司
-  description: 為了扭轉在生成式 AI 領域落後美中的局面，日本正式啟動「國家級」戰略計畫，由軟銀（SoftBank）、索尼（Sony）、本田（Honda）、日本電氣（NEC）成立名為「日本
-    AI 基礎設施模型開發」的 AI 新公司，劍指下一代 AI 關鍵領域「實體 AI（Physical AI）」。 AI 國家隊...
-  url: https://finance.technews.tw/2026/04/12/physical-ai-jp/
-  source: Technews.tw
-- title: 苹果AI负责人将离职
-  description: 马克 · 古尔曼在其最新一期《Power On》中提到，2018年从谷歌跳槽空降到苹果的前AI负责人约翰 · 詹南德雷亚确认将于本周正式结束其在苹果的“休整期”。古尔曼指出，自2025年3月苹果决定大幅削减其AI职责以来，他的离职就已然注定。
-    这一人事变动主要源于Apple Intelligence未能达到预期、升级版Siri多次延期，以及公司在生成式AI领域被打了个措手不及。当时，苹果直接撤销了他对Siri、机器人及其他AI团队的监管权。（新浪财经）
-  url: https://36kr.com/newsflashes/3764454058328838
+- title: 氪星晚报｜“马斯克版微信”或在本周五上线；Meta押注AI数字人，正打造AI版扎克伯格；AI潮玩品牌“MOMOTOY”完成数千万元融资
+  description: "大公司：\n 金山办公：一季度净利同比预增402%-473%\n 36氪获悉，金山办公公告，预计2026年第一季度实现归属于上市公司股东的净利润20.22亿元-23.07亿元，同比增长401.89%-472.81%。\n\
+    \ 沪电股份：一季度净利同比预增54.76%-65.25%\n 36氪获悉，沪电股份公告，预计2026年第一季度归属于上市公司股东的净利润为11.8亿元-12.6亿元，比上年同期增长54.76%-65.25%。\n\
+    \ Meta押注AI数字人，正打造AI版扎克伯格\n Meta正在打造人工智能版马克・扎克伯格，可代…"
+  url: https://36kr.com/p/3765146768376326
   source: 36kr.com
-- title: DXC 推出全新 Assure Smart Apps，加快保險公司以人工智慧推動轉型
-  description: 在企業科技與創新業界領先在前的 DXC Technology 於 4 月 9 日宣布推出全新 Assure Smart Apps，其建基於
-    ServiceNow，並已於 2026 年 3 月在 DXC Connect 保險高層論壇上推出。Assure Smart Apps 結合 DXC 深厚的保險專...
-  url: https://finance.technews.tw/2026/04/12/dxc-launches-new-assure-smart-apps/
-  source: Technews.tw
-- title: CanIRun.ai 測試電腦硬體能否跑動 AI 模型，視覺化分級一目了然
-  description: '今天要介紹的「CanIRun.ai」是專為 AI 愛好者設計的線上工具，主要功能是檢測在自己的電腦上可以本地（ […]
+- title: 估值 2.5 亿，成立 4 个月，潮玩中的爱马仕 「MOMOTOY」获数千万元融资
+  description: "资本市场对潮玩的关注一直未曾退却。\n 近日，36氪获悉，AI潮玩品牌「MOMOTOY」已完成数千万元融资，由翼朴基金投资，投后估值2.5亿。\n\
+    \ 成立仅4个月，MOMOTOY以999足金盲盒+AI情感交互为核心特色，走出高奢化与科技化并行的差异化路径。品牌负责人透露，本轮融资资金，会重点投向AI技术迭代、高端产品矩阵落地、全球渠道拓展及核心商圈旗舰店铺设四大核心领域。\n\
+    \ 行业数据显示，2025年中国潮玩市场规模已达879.7亿元，同比增长21%，首次超越传统玩具市场规模，预计2026年将突破1100亿元，年均增速保…"
+  url: https://36kr.com/p/3756978314511110
+  source: 36kr.com
+- title: 众擎机器人旗下公司、锋物科技在北京成立机器人公司
+  description: 36氪获悉，爱企查App显示，近期，北京锋物机器人有限公司成立，法定代表人为李明远，注册资本500万元人民币，经营范围包括工业机器人销售、智能机器人的研发、智能机器人销售、工业机器人制造、人工智能双创服务平台等。股东信息显示，该公司由天津锋物科技有限公司、众擎机器人旗下深圳众擎机器人生态科技有限公司共同持股。
+  url: https://36kr.com/newsflashes/3764715816370691
+  source: 36kr.com
+- title: 图速科技发布三款新品：其具身打磨机器人全栈自研，打磨效率为人工3-4倍丨最前线
+  description: "作者丨欧雪\n 编辑丨袁斯来\n 在AI+制造 新时代到来的开局之年，工业打磨这一长期依赖人工经验的“隐形工序”，正在迎来技术拐点。\n\
+    \ 4月10日，图速自动化科技（上海）有限公司正式发布砺眸®LumiSander具身智能平台与图御™|RouteMind 2.0在线路径规划系统，同步亮相的还有图匠®\
+    \ LumiCraft具身打磨机器人。\n 三款新品同时推出，标志着这家成立十年的自动化企业正加速向具身智能表面处理技术平台转型。\n 打磨是工业生产中的极为关键的工艺环节，下游应用广泛。硬氪了解到，工业打磨广泛应用于轨道交通、航…"
+  url: https://36kr.com/p/3765207394009602
+  source: 36kr.com
+- title: 智能体“军团”进入临床试验，北大校友四个月融了2亿美金、估值翻6倍
+  description: "文｜胡香赟\n 编辑｜海若镜\n “医疗健康产业正在经历它们的chatGPT时刻。”3月结束2026GTC大会上，黄仁勋再次提及AI落地新药开发场景，正带来巨大机会。\n\
+    \ 近日，据外媒报道百图生科、华深智药已启动IPO进程；中国创新药产业链上，拿到阶段性结果的“AI原生公司”受到资本青睐。其中，AI临床研发服务公司深度智耀的融资节奏更引关注。\n\
+    \ 去年12月至今年3月，这家公司接连官宣3笔D轮系列融资，累计募资接近2亿美元。据了解，当前深度智耀估值已达到数十亿美金，与去年年中相比，估值涨幅超6倍；且正在推进新一轮Pre-…"
+  url: https://36kr.com/p/3757975636050695
+  source: 36kr.com
+- title: Meta 全新 AI 模型 Muse Spark 登場，將全面接管 FB 與 IG 聊天功能
+  description: 'Meta 巨額投資 AI 終見成果，全新 AI 模型 Muse Spark 正式亮相。Muse Spark 將取代 Llama，深度整合至
+    Meta 旗下應用，引領 AI 體驗新變革，值得關注。Meta 在人工智慧領域的巨額投資終於交出第一張成績單。本週三，Meta 正式發表了名為 Muse Spark
+    的全新 AI 模型 。這是該公司去年為了在 AI 競賽中彎道超車，不惜砸下重金組建「超智慧團隊」後所推出的首款產品 。在各大科技巨頭面臨投資人檢視 AI 變現能力的壓力下，Meta
+    的這一步顯得格外引人注目 。
 
-    這篇文章「CanIRun.ai 測試電腦硬體能否跑動 AI 模型，視覺化分級一目了然」最早出現在免費資源網，請追蹤 Facebook、X (Twitter)、Threads
-    或訂閱 RSS feed 獲取更多科技新知及免費資源相關介紹教學。'
-  url: https://free.com.tw/canirun-ai/
-  source: Free.com.tw
-- title: 科技巨頭砸重金瘋搶記憶體長約！Google、微軟綁定 SK 海力士，PC 玩家恐面臨連年高價
-  description: AI基礎設施對記憶體需求深不見底，巨頭搶簽DRAM長期供應合約。這場記憶體供應戰不僅粉碎需求放緩傳言，更預示消費級市場的AI記憶體價格恐將居高不下。AI
-    基礎設施的需求深不見底，記憶體市場的搶貨大戰正式開打。根據韓國媒體指出，Google 與微軟（Microsoft）等大型雲端服務供應商，正與記憶體大廠 SK
-    海力士（SK Hynix）進行最終談判，準備簽下為期三年的 DRAM 長期供應合約 。這份高達數十兆韓元的大單，不僅粉碎了近期記憶體需求放緩的傳言，也暗示著未來幾年一般消費級
-    PC 市場的記憶體價格恐將居高…
-  url: https://www.techbang.com/posts/128723-google-microsoft-sk-hynix-memory-deals-pc-prices
+    …'
+  url: https://www.techbang.com/posts/128773-meta-muse-spark-ai-fb-ig-chat
   source: Techbang.com
-- title: 手機鏡頭就能揪頸動脈狹窄！陽明交大醫學生 AI 黑科技奪全球第五強
-  description: 由陽明交通大學與美國伊利諾大學香檳分校（University of Illinois Urbana-Champaign）共同發起的國際組織全球創新與工程醫學聯盟
-    GCIEM，今年舉辦第二屆學生創新競賽，其中陽明交大醫學系團隊提出的「非接觸式頸動脈狹窄早期偵測系統」奪全球第五強。 今年 GCIEM 吸...
-  url: https://technews.tw/2026/04/12/gciem/
-  source: Technews.tw
-- title: 晶片荒恐延燒至 2027 年底，Google 押注太空 TPU 與量子運算突圍算力瓶頸
-  description: Google 母公司 Alphabet 總裁 Sundar Pichai 7 日在網路節目〈Cheeky Pint〉透露公司有逾 1,750
-    億美元資本支出計畫，短期受制晶圓產能與記憶體短缺而未能全速推行。他預估 2027 年將是 AI 改變工作方式轉捩點，並披露太空資料中心及量子運算等長線發展專案...
-  url: https://finance.technews.tw/2026/04/12/google-2027-ai-workplace-hbm-chip-shortage/
-  source: Technews.tw
-- title: Sony AI 推出 Woosh 聲音特效模型 文字影片一鍵自動配音
-  description: Mash Yang發佈Sony AI 推出 Woosh 聲音特效模型 文字影片一鍵自動配音，最新資訊於2026-04-12 14:20：Sony
-    AI 發表 Woosh，一個專為聲音特效設計的開源基礎模型。能依文字或影片內容自動生成同步音效，旨在革新影視與遊戲的後期製作流程。#(247679)
-  url: https://www.cool3c.com/article/247679
-  source: Cool3c.com
-- title: 大腦與身體之爭：中美在不同AI賽道上領先，但誰都可能笑到最後
-  description: 美中 AI 競賽呈現「大腦」與「身體」之爭。美國以晶片及模型領先，中國則在機器人領域佔優。雙方正加速整合軟硬體，競逐技術主導權，勝負未定。
-  url: https://www.thenewslens.com/article/266505
-  source: Thenewslens.com
-- title: AI会加剧效率分化，未来有可能1个人顶10000个人
-  description: '@莫大艺术家：刚才遛弯，看到了 karpathy 大佬说了个残酷的，大意是，免费、过时的模型（大众认知）与今年最顶尖的智能体模型（如Claude
-    Code/Codex）之间存在巨大的能力代差。 你用的…'
-  url: https://www.bohaishibei.com/post/108547/
-  source: Bohaishibei.com
-- title: 塔夫茲大學推神經符號式 AI，機器人任務成功率飆升、能耗降至 1%
-  description: 美國塔夫茲大學近日提出新人工智慧架構，主打以「神經符號式 AI」結合神經網路與符號推理，提升準確度同時大幅降低運算耗能。這套概念系統做特定任務可將訓練能源消耗削減至傳統方法
-    1%，推論階段也只需約 5% 能量，最高可節能百倍。 研究聚焦機器人領域常用的視覺─語言─動作（VLA）模型。這類系統會同時讀...
-  url: https://technews.tw/2026/04/13/ai-breakthrough-cuts-energy-use-by-100x-while-boosting-accuracy/
-  source: Technews.tw
-- title: 六倍壓縮與零精度損失，Google TurboQuant 重寫 AI 推理規則
-  description: 大型語言模型（LLM）應用規模持續擴張，推理階段的記憶體瓶頸已成為制約部署效益的核心問題。Google Research 3 月底發表的
-    TurboQuant 壓縮演算法，不重新訓練模型的前提下，大幅降低記憶體占用並提升運算效率，引發產業高度關注。 技術架構與效能躍遷，Google 劍指 KV
-    Ca...
-  url: https://technews.tw/2026/04/13/google-turboquant/
-  source: Technews.tw
-- title: 从零开始的双臂具身VLA起源及现阶段发展综述 - SkyXZ
-  description: 作者：SkyXZ CSDN：SkyXZ～-CSDN博客 博客园：SkyXZ - 博客园 一、从大语言模型到具身智能的范式跃迁 过去几年，LLM模型和VLM模型发展得非常快。尤其是在2020年ChatGPT发布GPT-3之后，大家越来越清楚地看到，模型在语言理解、知识调用、常识推理，甚至跨任务泛化上，
-  url: https://www.cnblogs.com/SkyXZ/p/19856410
-  source: Cnblogs.com
+- title: Anthropic称仍就Mythos模型与特朗普政府沟通
+  description: 美国当地时间周一，美国人工智能企业Anthropic的联合创始人表示，尽管此前因合同纠纷，美国五角大楼已终止与该公司的业务合作，但公司仍在就其前沿人工智能模型Mythos与特朗普政府进行沟通。（新浪财经）
+  url: https://36kr.com/newsflashes/3765859371238146
+  source: 36kr.com
+- title: 記憶體價格狂飆將落幕？OpenAI 傳大砍單並縮減開支，DRAM 報價有望下修
+  description: 'OpenAI 縮減開支，記憶體價格有望回穩。曾因 OpenAI 大規模採購而飆漲的記憶體價格，現在終於迎來轉折點，PC 玩家與企業可望喘息。過去一段時間讓許多
+    PC 玩家與企業頭痛的記憶體價格暴漲潮，終於有望迎來轉折點。近期市場分析師觀察到，隨著大型科技公司對於基礎設施的需求開始出現降溫跡象，DRAM 記憶體的報價已經開始回穩，未來甚至有望逐步回落
+    。而引發這波市場震盪的關鍵要角，正是掀起人工智慧浪潮的 OpenAI。
+
+    AI 巨頭曾是最大推手，狂掃 90 萬片晶圓推升報價
+
+    回顧前陣子記憶體價格之所以一路狂飆，主要…'
+  url: https://www.techbang.com/posts/128634-openai-cuts-orders-dram-prices-drop
+  source: Techbang.com
+- title: 中国16家科技社团联合倡议共促全球人工智能治理
+  description: 中国科协所属中国自动化学会、中国电子学会、中国计算机学会、中国人工智能学会等16家科技社团4月13日共同发布《全球人工智能治理科技社团倡议》，倡导以人为本、智能向善，推动建立开放、公正、包容、有效的全球人工智能治理体系。倡议提出，以增进人类共同福祉为人工智能学术研究的根本遵循；将安全作为人工智能学术研究与治理的底线要求；尊重各国平等参与人工智能研究与治理的权利，反对技术霸权、学术壁垒、排他性“小圈子”及不合理技术垄断；引导公众正确认知技术发展阶段与潜在风险等。（新华社）
+  url: https://36kr.com/newsflashes/3764864965755401
+  source: 36kr.com
+- title: 荣耀做了个“养虾本”，预制5大主虾，要重新定义AI PC｜最前线
+  description: "4月13日，荣耀正式发布自研终端侧“龙虾”AI智能体YOYO Claw，并宣布其将首发搭载于被称作“养虾本”的荣耀MagicBook系列轻薄本中。\n\
+    \ 此前，荣耀曾在Magic V6旗舰新品发布会宣布要带来龙虾宇宙，支持YOYO控虾、生态养虾、安全养虾三大能力。\n YOYO Claw，是荣耀龙虾宇宙的第一步。YOYO\
+    \ Claw于3月27日开启封测，用户可以选择不同设备，在PC端、Pad端进行接入使用。\n 不过，这次荣耀直接把YOYO Claw封进了PC端，成为笔记本出厂即带的能力。荣耀PC产品总经理朱臣才分享道：“…"
+  url: https://36kr.com/p/3765331768967686
+  source: 36kr.com
+- title: SpaceX星链业务2025年营收或增长50%，达到114亿美元
+  description: 据报道，马斯克旗下SpaceX公司的最新财务数据显示，星链业务2025年营收增长50%，达到114亿美元，而SpaceX的另外两项业务——火箭发射和人工智能，未能产生足够增长，让投资者为马斯克所寻求的惊人估值买单。（界面）
+  url: https://36kr.com/newsflashes/3765874633753350
+  source: 36kr.com
+- title: 早报｜马斯克版微信亮相App Store，周五开放下载/宇树机器人跑步刷新纪录，王兴兴：年内将超博尔特/海底捞回应员工自费500元买礼物
+  description: '· 小红书首届黑客松巅峰赛落幕，00 后包揽大奖、最小参赛者仅 12 岁
+
+    · 曝特斯拉引入欣旺达动力电池
+
+    · 一汽高管：卖一辆车亏两三万，本土车企不能只顾内卷#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。'
+  url: https://www.ifanr.com/1661898
+  source: Ifanr.com
+- title: 早期项目 | 前大疆工程师创业陪伴机器人，李泽湘连投三轮，产品即将登陆众筹
+  description: "作者 | 乔钰杰\n 编辑 | 袁斯来\n 陪伴机器人走向同质化的当下，什么样的产品能吸引人？\n 今年年初的CES 2026上，一款身着橙色连体衣的小型机器人COCOMO，意外成为外媒镜头频频捕捉的对象。\n\
+    \ 略带“异质感”的外星宠物气质，37度接近人体的温度，创新的分体式设计既可被抱起，又能主动跟随，吸引了不少现场观众在展台前试玩体验。\n 同一展台上，团队还带来了另一款更轻量的桌面陪伴机器人INU。INU被定义为一款“桌面外星小狗”，通过尾巴摇摆和身体扭动作出反馈，是一个为工作环境打造的更小、更固定的桌面伴侣。\n\
+    \ 这…"
+  url: https://36kr.com/p/3764777930621705
+  source: 36kr.com
+- title: 北方稀土：一季度净利同比预增109%-118%
+  description: 36氪获悉，北方稀土公告，预计2026年第一季度实现归属于上市公司股东的净利润9亿元-9.4亿元，同比增加109.14%-118.43%。
+  url: https://36kr.com/newsflashes/3764997168169732
+  source: 36kr.com
