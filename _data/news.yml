@@ -1,96 +1,74 @@
-- title: 「优时科技」完成数亿元B2轮融资，从L4视觉自动驾驶延展至人形机器人，打造数据飞轮｜36氪首发
-  description: "一季度过去，具身智能行业的融资热潮还在继续。\n 36氪获悉，专注于L4低速自动驾驶的公司「优时科技」宣布完成数亿元人民币B2轮融资。本轮融资由前海方舟领投，前海母基金旗下多支基金参与，联同鲲翎资本、厚天资本等8家投资机构共同完成。\n\
-    \ 在此之前，「优时科技」已完成了6轮融资：\n ·2018年6月，拿到 PNP 中国领投、北京汇丰投融、北京金种子和上海平阳复辉跟投的数百万人民币种子轮；\n\
-    \ ·2019年7月，获得英诺天使领投、驰星创投跟投的千万人民币天使轮；\n ·2020年10月，获得 Global Brain、英诺天…"
-  url: https://36kr.com/p/3788687934249989
+- title: OpenAI 首席财务官：公司产品迎来“呈直线上升”式的强劲需求
+  description: OpenAI 首席财务官萨拉・弗莱尔针对外界质疑公司未达成内部业绩目标的言论作出反驳，称公司正顺利完成既定目标，且旗下产品正面临一堵垂直高涨的需求高墙（需求极度旺盛、激增爆棚）。弗莱尔在采访中表示：“整体来看，我们高层层面的经营业绩跑赢原定规划。具体实现路径会逐期有所波动，毕竟业务仍处于发展初期，各项细分指标尚无法做到精准预测。”本周有报道称，这家人工智能初创公司营收与用户增长均未达成内部目标，令
+    OpenAI 陷入舆论审视。报道还提及，弗莱尔曾担忧：若营收增速不及预期，公司或将无力承担未来庞大的算力投入成本。（…
+  url: https://36kr.com/newsflashes/3790103647378688
   source: 36kr.com
-- title: 早报｜苹果iOS 27或大幅升级照片App/曝一加、realme正式合并/去年我国Token调用量达21100万亿
-  description: '· 新一轮融资在路上，Anthropic 估值或突破 9000 亿美元
-
-    · Alphabet Q1 净利润暴增 81%，Google Cloud 首破 200 亿美元大关
-
-    · Azure 增速 40%、AI 狂飙 123%，微软云业务全面提速#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。'
-  url: https://www.ifanr.com/1664570
-  source: Ifanr.com
-- title: 追觅AURORA手机全球亮相，最新估值近百亿美元
-  description: 当地时间4月29日，追觅AURORA手机在美国硅谷发布会上亮相。影像方面，实现全焦段2亿像素、全焦段LOFIC技术、3D空间建模照片；通讯方面，实现360°环绕天线、自研AI通信优化算法、全时信号引擎等技术；追觅AURORA
-    AIOS还打造了原生 AI 系统，实现智能终端从 “执行命令的工具” 向 “主动服务的伙伴” 演进。此外，AURORA手机正按640亿元人民币（约合100亿美元）的估值，推进新一轮融资。
-  url: https://36kr.com/newsflashes/3788915767074051
+- title: 特斯拉去年从SpaceX与xAI斩获5.73亿美元营收
+  description: 特斯拉在修订后的年度备案文件中披露，去年通过向埃隆・马斯克旗下另外两家企业销售产品，创收超5亿美元。特斯拉今年1月首度披露，营收中的大头约4.301亿美元，来自与马斯克旗下人工智能初创公司xAI的业务往来。这家车企于周四提交修订版备案文件，补充称还从马斯克私人控股的航天企业太空探索技术公司（SpaceX）确认营收1.433亿美元。特斯拉在今年1月发布的初始年度报告中，并未披露后一项金额。本月早些时候，媒体曾报道，SpaceX去年第四季度采购了价值超1亿美元的赛博卡车——即特斯拉这款销量表现疲软的电动皮卡。（财联社）
+  url: https://36kr.com/newsflashes/3790021931883783
   source: 36kr.com
-- title: 马斯克：OpenAI 是我的创意，Altman 是小偷；Claude Code 使用成本翻倍；Image 2 登顶视觉模型榜｜极客早知道
-  description: '结束与微软独家合作，OpenAI 模型接入亚马逊 AWS
-
-    4 月 29 日，在亚马逊云科技（Amazon Web Services，简称 AWS）新品发布会上，AWS 宣布携手 OpenAI，将 OpenAI 最新大模型接入
-    Amazon Bedrock，在 Amazon Bedrock 上线 Codex 代码 Agent，并推出由 OpenAI 赋能的 Amazon Bedrock
-    托管 Agent（以上功能均为有限预览版）。
-
-    4 月 27 日，OpenAI 与微软宣布对双方的合作协议作出调整，OpenAI 可…'
-  url: http://www.geekpark.net/news/363594
-  source: Geekpark.net
-- title: 央行等三部门：着力做好对企业购买人工智能设备和软件服务的金融服务，促进“人工智能+产业”发展
-  description: 36氪获悉，中国人民银行、国家发展改革委、财政部联合印发《关于扩大科技创新和技术改造贷款投放 进一步支持设备更新的通知》。《通知》聚焦金融服务科技创新和设备更新的重要环节，全链条优化政策举措。扩大支持科技创新和设备更新的范围，将研发投入水平较高的民营中小企业纳入再贷款政策支持领域，将技术改造和设备更新贷款支持范围扩展至电子信息、人工智能、设施农业、消费商业设施等14个领域。
-  url: https://36kr.com/newsflashes/3789154316803081
+- title: OpenAI 百億美元算力採購恐生變，牽動廣達、緯創等後續訂單
+  description: 生成式 AI 巨頭 OpenAI 傳出營收成長速度不如預期，並示警若狀況延續，恐難履行原訂龐大的 AI 資料中心建置採購合約。這意味
+    OpenAI 先前承諾的上百億美元算力採購合約可能生變，牽動廣達、緯創等主要協力廠後續訂單。 相關消息傳出後，再度引發市場對科技公司AI產業高資本支出前景的擔憂，與O...
+  url: https://finance.technews.tw/2026/05/01/openai-10-billion-compute-procurement-at-risk-impacting-quanta-wistron-orders/
+  source: Technews.tw
+- title: 借航天展推“反向技术输出”，自然堂试炼叙事资源转化的产品力｜最前线
+  description: "在中国美妆行业竞争日趋激烈、技术叙事不断升级的背景下，企业如何构建差异化“护城河”成为核心议题。近日，中国化妆品集团自然堂联合上海天文馆推出的航天主题科普展，为观察本土品牌在科研与品牌叙事之间的平衡提供了一个样本。\n\
+    \ 4月24日（第十一个“中国航天日”）前后，自然堂与上海天文馆在上海奉贤“东方美谷”园区内举办“遇见宇宙 发现更美”主题展览。展览面向公众免费开放一个月，内容涵盖宇宙起源、中国空间站建设以及太空生活等多个维度，并通过模型展示、VR体验等形式强化互动性。\n\
+    \ 从形式上看，这类跨界活动近年来在美妆行业并不罕…"
+  url: https://36kr.com/p/3787830454787330
   source: 36kr.com
-- title: AI 走出屏幕，家电变成「机器人」
-  description: 'AI 正在迈向下一个十年。
-
-    当模型能力继续提升，AI 即将走出屏幕里「回答问题、生成代码」的任务，转向真实的物理世界。
-
-    这也是为什么，AI 硬件会成为过去 1-2 年科技行业最热的关键词。相比手机、眼镜、人形机器人等更主流的硬件形态，家电是一个很容易被低估的的关键品类。
-
-    因为家电面对的，是清洁、烹饪、洗衣、宠物、庭院这些最日常的生活任务。它们听起来没有人形机器人酷，但足够真实且高频。AI 要走进生活，根本绕不开这些场景。
-
-    过去一年频繁出现在行业讨论里的追觅，一度被视为一个激进的搅局者：一家从清洁机器人、智能硬件领…'
-  url: http://www.geekpark.net/news/363602
-  source: Geekpark.net
-- title: 氪星晚报｜澳门一季度GDP按年实质增长7.1%；小红书发内部信：加大AI投入，柯南出任总裁
-  description: "大公司：\n 联发科一季度毛利率为46.3%，同比下滑1.8个百分点\n 4月30日，联发科举行法说会并公布2026年第一季度财报，单季每股盈余（EPS）为新台币15.17元，环比增加5.6%、同比减少17.4%；合并营收为新台币1491.51亿元，环比减少0.7%、同比减少2.7%；毛利率为46.3%，环比增加0.2个百分点，同比下滑1.8个百分点。公司表示，毛利率季增主要受惠产品组合优化，年减则反映部分产品毛利结构调整。（界面）\n\
-    \ 阿里云域名产品将于5月12日调价\n 36氪获悉，阿里云发布阿里云域名产品调价通知：…"
-  url: https://36kr.com/p/3789059666173189
-  source: 36kr.com
-- title: 8点1氪丨官方通报“霸王茶姬中喝出水银”；马斯克称创办OpenAI只为拯救人类；三星家族财富一年翻倍至3000亿跃居亚洲第三
-  description: "今日热点导览\n <ul>\n <li>四大主播集体离职，东方甄选奖励300名员工超4亿元股份，人均超140万元</li>\n <li>马斯克天价薪酬方案曝光，薪酬目标包括火星殖民以及太空数据中心建设</li>\n\
-    \ <li>5月1日起北京禁飞禁售无人机，大疆在京门店4月29日将下架相关产品</li>\n <li>朋友圈改版，腾讯客服表示会持续优化</li>\n <li>8天预计发送旅客1.58亿人次，铁路\
-    \ “五一”假期运输今天启动</li>\n </ul>\n TOP 3大新闻\n 官方通报“安徽一女子称在霸王茶姬中喝出水银”：异…"
-  url: https://36kr.com/p/3788573115735299
-  source: 36kr.com
-- title: 米哈游国际化总裁金雯怡将于5月底离职
-  description: 4月30日，有媒体报道称，米哈游国际化总裁金雯怡发布内部信，表示自己将于5月底离开米哈游/HoYoverse，Seven（王宇阳）将接替她继续带领国际化。对此，米哈游方面回应表示：雯怡因个人职业规划原因，已向公司提出离职。公司感谢其在产品全球化发展中的付出与贡献，也祝雯怡未来发展一切顺利。据公开信息，金雯怡曾在游戏公司FunPlus任职，入职米哈游后负责海外业务。Seven（王宇阳）为大鹅文化创始人，曾担任B站副总裁。2024年，王宇阳加入米哈游联合创始人蔡浩宇成立的AI公司。（界面）
-  url: https://36kr.com/newsflashes/3788858957569024
-  source: 36kr.com
-- title: Anthropic 傳再募 500 億美元，估值衝 9,000 億美元追平甚至超越 OpenAI
-  description: Anthropic 洽談新一輪融資，目標估值上看 9,000 億美元，可望超越 OpenAI，反映其營收遽增與雲端巨頭的強力支持，此輪融資或為其
-    IPO 前的最後一輪私募。
-  url: https://www.inside.com.tw/article/41184-sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b
+- title: 港鐵研發聲學監測系統分析部件狀態　新手爸媽工程師形容如育兒「以聲傳心」
+  description: 平日乘搭港鐵列車會聽到「轟隆轟隆」的聲音，其實憑聲紋能夠分析列車部件的運作狀態。港鐵團隊與兩間內地聲學創科公司合作研發「聲學監測系統」，結合人工智能分析大量聲紋數據，探索以聲學全天候監測列車車底運行部件狀態的可行性。今次的港鐵團隊由4名來自智慧維修及鐵道車輛維修部門的工程師組成，他們同樣已為父母。其中港鐵高級設計經理(智慧維修)丁啓穎是新手爸爸，他指一歲半的女兒每晚臨睡前總會說「嘴嘴」，其實是「水水」，代表睡前想喝水。他指其實聽得多嬰孩的「牙牙語」，會分辨到嬰孩的需要。就如今次的聲學監測系統，同樣是「以聲傳心」，…
+  url: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b0453d2a-17a9-4ea2-aa6b-84c0ce8673d0
+  source: Yahoo Entertainment
+- title: 擁有 GitHub Copilot，卻大規模部署 Anthropic 的 Claude Code，微軟的 AI 策略轉向了
+  description: 微軟與 OpenAI 更新合作協議，終止 Azure 平台獨家授權，允許模型部署於多雲環境。新協議亦修改收益分成機制，並移除通用人工智慧（AGI）限制條款，重塑雙方技術與財務關係。
+  url: https://www.inside.com.tw/article/41196-microsoft-ai-strategy-shifts-deploys-claude-code-despite-owning-github-copilot
   source: Inside.com.tw
-- title: 不谈空话，谈合作丨这场AI+产业对接会只聊落地
-  description: "“世界咖啡”[AI+]产业对接会正式定档北京亦庄。\n \n \n \n  搞噱头还是做实事，我们需要一个华丽转身\n 这是36氪AI\
-    \ Partner系列活动迎来的第三个年头，在这之前，我们已经用四届大会验证了我们在“AI下一站”这个问题上的“把脉”能力，收获了一些口碑和行业认同，但是，长期以媒体观察者和陪伴者的视角出发，就很难跳下那个高台，容易看不清当下。比如，当我们看到行业里类似的AI活动还在聊“AI会不会代替人类”、“具身智能离我们还有多远”的时候，团队就非常感慨，因为我们这一次选择了一条更加务实的路线，在AI赋能下…"
-  url: https://36kr.com/p/3788996733803782
+- title: 追觅造车，从“火箭”开始
+  description: "4月27日，旧金山艺术宫，这座美国百年历史地标迎来了一场科技发布会。\n 追觅科技以“DREAME NEXT”为主题的全球发布会周在此开幕，展台上那台红色超跑的尾部，两个固体火箭推进器格外醒目。这便是追觅“星空计划”重磅打造的Nebula\
+    \ NEXT 01 JET Edition，业内称其为“火箭车”。 \n 从车企研发负责人到供应链从业者再到行业分析师，目光都聚焦于此。 \n 这款火箭车搭载专属定制双固体火箭助推系统，可实现150毫秒瞬时响应，最大推力100千牛，与波音737单台发动机的推力接近，车辆零百加速仅需0.9…"
+  url: https://36kr.com/p/3790587098832137
   source: 36kr.com
-- title: 从扫地机到火箭车，追觅在硅谷造了一场“瞬息全宇宙”
-  description: "作者 | 邓咏仪\n 编辑 | 杨轩\n 如果你在4月27日这一周走进美国旧金山艺术宫，也许你会感到惊讶——这不像一个艺术圣地，更像一场包罗万象的博览会。\n\
-    \ 来自50多个国家的媒体、KOL、客户挤在展区里。映入眼帘的产品，小至智能吊坠、吹风机、LED 美容面罩、扫地机，大至洗地机、空调、冰箱、手机，甚至还有一辆“火箭车”的概念超跑。\n\
-    \ \n Nebula NEXT 01 \n 在舞台台上，图灵奖得主 David Patterson、7-Eleven 前 CEO James Keyes、Meta\
-    \ 前 VP来谈论AI如何重塑…"
-  url: https://36kr.com/p/3789057332043016
+- title: 從供應鏈之神到硬體戰將，特納斯如何帶領蘋果帝國回歸「產品本質」
+  description: 蘋果創立滿 50 載恰逢換帥異動，特納斯接任不只是權力更迭，更是回歸創新本質的訊號。 面對 AI 賽局與產品轉型，這位工程師領袖能否帶領科技帝國重返巔峰？
+    每年秋季，外界對蘋果公司（Apple）的期待向來聚焦於新品發布；但今年，這家科技巨擘將迎來更大的變局，新任執行長特納斯（John Ternus）...
+  url: https://finance.technews.tw/2026/05/01/can-john-ternus-lead-apple-back-to-its-peak/
+  source: Technews.tw
+- title: 6. LangChain，解决AI大模型的不足 - 老陈说编程
+  description: LangChain 是由 LangChain AI 公司推出的、全球最具影响力的大语言模型（LLM）驱动应用与智能体全栈开源开发框架，采用商业友好的
+    MIT 开源协议，原生支持 Python、TypeScript/JavaScript、Go 等多语言开发，是目前 LLM 应用与智能体开发领域生态最完
+  url: https://www.cnblogs.com/halfcode/p/19963267
+  source: Cnblogs.com
+- title: Meta 聯手亞馬遜自研晶片，挑戰x86巨頭，雲端算力新革命！
+  description: Meta 攜手亞馬遜，大規模採用 Graviton 自研晶片，挑戰 Intel/AMD 霸權。此舉不僅加速 Meta 硬體佈局，更預示
+    AI 時代下，自研晶片將成雲端運算新主流，引發產業變革。社群媒體巨頭 Meta（前 Facebook）近期傳出與雲端運算龍頭亞馬遜（Amazon）達成了一項價值數十億美元的戰略合作協議。根據合約內容，Meta
+    將在其大規模的資料中心架構中，廣泛採用亞馬遜自研的 ARM 架構處理器「Graviton」。這項動作不僅標誌著 Meta 正在加速去中心化的硬體佈局，更直接挑戰了傳統伺服器…
+  url: https://www.techbang.com/posts/129060-meta-graviton-ai-infrastructure
+  source: Techbang.com
+- title: A股2025年营收排行榜出炉 AI服务器龙头营收大增
+  description: 据统计，截至4月30日，已有5508家上市公司披露2025年度报告（不含退市、无法在预约日期及预计无法在法定期限内披露定期报告的上市公司）。2025年，营业收入50强上市公司实现总营收31.51万亿元，与2024年的31.54万亿元基本持平。在营收排名前50的上市公司中，营收超万亿元的上市公司共7家，数量与2024年持平。（人民财讯）
+  url: https://36kr.com/newsflashes/3790020549319945
   source: 36kr.com
-- title: AI換平台免煩惱！Claude記憶匯入工具，你的習慣帶著走
-  description: Anthropic為Claude推出記憶匯入工具，讓ChatGPT使用者能將過去的習慣輕鬆帶到Claude。這項創新的記憶匯入功能，大幅降低了從ChatGPT轉換AI平台的門檻，讓AI助手轉換更無縫。Anthropic最近為Claude推出記憶匯入工具，讓使用者過去在ChatGPT中累積的使用習慣與偏好，能一鍵快速帶走，轉換AI助手時不必再從零開始「訓練」，也大幅降低了更換AI平台的門檻。不過這項功能並非1：1複製，而是聚焦於工作相關資訊，同時會盡量避免記錄與工作無關的私人細節，在匯入完成後，依資料多寡，Clau…
-  url: https://www.techbang.com/posts/128325-how-to-import-chatgpt-memory-to-claude
+- title: 一般人如何快速上手 Codex 超完整圖文教學：讓 AI 助理整理文件表格，建立自動化流程
+  description: 一般人也能快速上手的 AI Agent：Codex 電腦端軟體 今天這篇文章想分享的是：如果我們不是懂程式設計的工程師， 一般人要怎麼快速上手
+    OpenAI （ChatGPT） 的 Codex  工具？ 如何用這個 AI 助理，協助我們處理電腦硬碟資料夾中的工作文件、任務成果...
+  url: https://www.playpcesor.com/2026/05/codex-ai.html
+  source: Playpcesor.com
+- title: OpenAI 奪回 AI 繪圖王者寶座！GPT Image 2「原生思考」架構超越 Nano Banana
+  description: OpenAI 的 GPT Image 2 實現圖像生成 AI 跨代升級。這款 GPT Image 2 以原生思考架構，重新定義圖像生成
+    AI 的技術規格，開啟推理時代。AI 繪圖界在 2026 年 4 月迎來了歷史性的轉折。OpenAI 正式發布 GPT Image 2，在權威榜單 LM Arena
+    中以領先第二名 241 分的誇張差距登頂。這項突破被執行長奧特曼稱為「跨代升級」，等同於從 GPT-3 到 GPT-5 的質變。更具象徵意義的是，OpenAI
+    成功反擊了 Google 之前靠著「Nano Banan…
+  url: https://www.techbang.com/posts/129080-gpt-image-2-native-thinking
   source: Techbang.com
-- title: ChatGPT 稱霸日本頂大入學考！分數超越東大、京大真人狀元
-  description: 'ChatGPT在東大與京大等日本頂尖大學考試中，展現超越人類的解題能力。ChatGPT的驚人表現，挑戰我們對頂尖大學考試與人類智慧的定義。日本
-    AI 業者 LifePrompt 近日公布一項令人震驚的測試結果。搭載 OpenAI 最新模型的 ChatGPT，在東京大學與京都大學的本科入學考試中，展現了超越人類頂尖考生的解題能力。特別是在東大競爭最激烈的「理科三類」（醫學部）考試中，ChatGPT
-    的總分比真人最高分考生還高出 50 分，其中數學科目更是拿到了滿分。
-
-    這項進展標誌著大語言模型在邏輯推演與知識整合上的…'
-  url: https://www.techbang.com/posts/129092-chatgpt-dominates-japan-university-exams
-  source: Techbang.com
-- title: Ubuntu 將原生整合 AI 功能：主打本機推理，誓言不重蹈 Windows 11 覆轍
-  description: Ubuntu 26.04 LTS 正式發佈，宣告將轉型為 AI 作業系統。Ubuntu 側重本地推理與資料安全，旨在構建具備情境感知的
-    AI 作業系統。先前，微軟（Microsoft）大張旗鼓宣佈要將 Windows 11 打造為原生 AI 系統，強行塞入不少功能，結果引發玩家反彈，至今還在收拾殘局。然而，想把作業系統打造成
-    AI OS 的公司不只微軟一家。前幾天，全球最知名的 Linux 發行版 Ubuntu 26.04 LTS 正式發佈，不僅帶來了 Linux 7.0 核心，更宣佈了向
-    AI 轉型的重大戰略。…
-  url: https://www.techbang.com/posts/129106-ubuntu-ai-local-inference-avoids-win11
-  source: Techbang.com
+- title: 自駕車在加州闖紅燈多年沒人能罰，7 月 1 日起這個法律漏洞正式補上
+  description: 加州建立自駕車執法新規。執法人員可對違規車輛所屬公司發出「違規通知」，累積記錄或情節重大可致營運執照暫停或吊銷。此行政罰則將懲處對象從駕駛轉向企業，為全球首創的監管模式。
+  url: https://www.inside.com.tw/article/41192-california-av-red-light-loophole-july-2026
+  source: Inside.com.tw
+- title: Elon Musk 與 Sam Altman 法庭對戰 OpenAI 營利化爭議誰該負責
+  description: Mash Yang發佈Elon Musk 與 Sam Altman 法庭對戰 OpenAI 營利化爭議誰該負責，最新資訊於2026-05-01
+    21:06：Elon Musk 控告 OpenAI 背棄非營利使命。此案揭示創辦人對 AI 發展路線與商業利益的根本分歧，其判決將深遠影響 OpenAI 營...#(248181)
+  url: https://www.cool3c.com/article/248181
+  source: Cool3c.com
