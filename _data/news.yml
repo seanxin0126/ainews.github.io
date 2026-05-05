@@ -1,87 +1,92 @@
-- title: 魔法原子进军硅谷背后：世界模型野望与生态卡位
-  description: "硅谷来了一家中国具身公司。\r\n\n作者｜Li Yuan\r\n\n编辑｜郑玄\r\n\n \r\n\n\r\n\n\n中国机器人公司火，已经不只是在国内了。一家具身智能公司，近期已经把发布会开到了硅谷。\n\
-    美西时间 4 月 28 日，魔法原子 MagicLab 在硅谷举办全球首届具身智能创新大会 GEIS。\n魔法原子在会上推出了新一代人形机器人 MagicBot\
-    \ X1 和灵巧手 MagicHand H01，而且第一次把其世界模型 Magic-Mix、数据生成与训练反馈闭环，作为一套完整的具身智能底层能力集中展示出来。\n\
-    过去，魔法原子最先进入外…"
-  url: http://www.geekpark.net/news/363699
+- title: 传小米新 SU7 锁单突破 7 万；微信输入法测「隔空发图」功能；豆包二代 AI 手机上半年发布
+  description: '即将超越英伟达！谷歌母公司 Alphabet 市值已达 4.6 万亿美元
+
+    5 月 3 日消息，据媒体报道，受超预期财报提振，谷歌母公司 Alphabet 股价周四（4 月 30 日）大涨 10%，年内累计涨幅达到 140%，市值突破
+    4.6 万亿美元。
+
+    该公司周三公布的营收超出分析师预期，其中谷歌云业务收入更是突破 200 亿美元大关。
+
+    目前，全球市值第一的公司仍是人工智能芯片霸主英伟达，市值接近 4.9 万亿美元。不过，由于商业伙伴 OpenAI 被曝未能达成内部收入与增长预期，英伟达股价在两天内累计下跌超过
+    …'
+  url: http://www.geekpark.net/news/363701
   source: Geekpark.net
-- title: 张雪机车夺得 WSBK 第三冠；传苹果正在酝酿一笔大型 AI 收购；创始人加入后，OpenAI 宣布开放 OpenClaw 直连｜极客早知道
-  description: '世界超级摩托车锦标赛「张雪机车」夺第三冠
-
-    5 月 2 日消息，在 2026 世界超级摩托车锦标赛（WSBK）匈牙利站 WorldSSP 组别第一回合正赛中，中国摩托车制造商「张雪机车」的法国车手瓦伦丁·德比斯夺得冠军。这也是他与「张雪机车」的第三冠。
-
-    凭借本场胜利，德比斯以 97 分在车手积分榜上升到第三位；「张雪机车」积 99 分，在制造商积分榜上同样排名第三。
-
-    德比斯在 1 日的本站超级杆位赛中第六位冲线。由于排名第三的意大利车手费拉里被罚退三个发车位，从第三位降至第六位，德比斯在第一回合正赛中得以第五位发车…'
-  url: http://www.geekpark.net/news/363698
-  source: Geekpark.net
-- title: 月薪11萬被砍到剩6萬！35歲主管拒降調「遭公司炒魷魚」　法院1理由神逆轉判賠115萬
-  description: 「不是你不好用，是機器比你便宜！」這句話正成為無數職場人的惡夢。杭州一名35歲的周先生（小周），原在金融科技公司擔任「AI大模型質檢主管」，負責幫AI生成的答案把關。沒想到這份「因AI而生」的工作，最後竟被AI「吃掉」。公司以技術升級為由，將他從主管降調為基層營運，月薪更從2.5萬人民幣（約台幣11萬）慘砍至1.5萬（約台幣6.6萬）。小周拒絕後遭開除，法院最終逆轉判決，認定公司違法，須賠償26萬人民幣（約台幣115萬），引發全網炸鍋。
-  url: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bdfe3895-3848-4649-81f9-545a5ef196f3
-  source: Yahoo Entertainment
-- title: 本田将对自动驾驶AI软件初创公司helm_ai追加投资
-  description: 总部位于美国硅谷的自动驾驶AI软件初创公司helm_ai在社交媒体上发帖称：“本田和helm_ai已达成协议，本田将对我们追加投资！我们将携手推进下一代端到端（E2E）自动驾驶和ADAS系统，用于2027年及以后推出的一系列电动汽车和混合动力汽车。”
-  url: https://36kr.com/newsflashes/3792810419543301
-  source: 36kr.com
-- title: 離職同事變 AI？「colleague-skill」專案爆紅，你的經驗正被 AI 蒸餾成Skill！
-  description: '當離職同事的經驗被AI煉化成技能，他們在職場中以「賽博永生」的形式繼續為公司效力。這項技術將離職同事的寶貴技能轉化為AI模型，正深刻改變著未來職場生態。在
-    2026 年的職場，離職的同事其實並沒有消失，他們只是被「蒸餾」成了 Token，換了一種形式繼續為公司效力 。最近在 GitHub 上爆紅的開源專案「colleague-skill」，可能是由中國網友所寫的，口號既溫情又殘酷：「將冰冷的離別化為溫暖的
-    Skill，歡迎加入賽博永生」。
-
-    你的經驗正被「煉化」：從溝通語氣到決策邏輯
-
-    這項技術的操作邏輯非常直接：將…'
-  url: https://www.techbang.com/posts/128699-colleague-skill-project-ai-distills-experience
-  source: Techbang.com
-- title: Uber 百萬司機變感測器 打造自駕車雲端數據平台
-  description: Mash Yang發佈Uber 百萬司機變感測器 打造自駕車雲端數據平台，最新資訊於2026-05-03 19:10：V 雲端」提供給自駕車公司訓練模型，使其轉型為自駕產業的數據基礎設施供應商，解決業界數據稀缺的痛點。#(248208)
-  url: https://www.cool3c.com/article/248208
+- title: 汽車租賃公司 9 秒內數據全失 Claude Opus 自作主張清空公司資料庫
+  description: 汽車租賃軟件初創企業 PocketOS 近日遭遇嚴重數據事故，由 Anthropic 旗艦模型 Claude Opus 4.6 驅動
+    AI 程式碼智能體（AI Code Agent）Cursor，在執行例行任務時自行決定「解決問題」，結果在 9 秒內透過單一 API 呼叫將公司整個生產環境資料庫清空，令業務中斷超過
+  url: https://unwire.hk/2026/05/04/ai-agent-cursor-claude-deleted-database-pocketos/tech-secure/
+  source: Unwire.hk
+- title: OpenAI 為 Codex 推虛擬寵物功能 化身 AI 工作進度提示器
+  description: Mash Yang發佈OpenAI 為 Codex 推虛擬寵物功能 化身 AI 工作進度提示器，最新資訊於2026-05-04 09:49：OpenAI
+    為 Codex 推出 AI 生成寵物功能，以懸浮介面視覺化代理程式的背景任務狀態。開發者可專注於當前工作，並透過「/hatch」指令生成自訂樣式的...#(248213)
+  url: https://www.cool3c.com/article/248213
   source: Cool3c.com
-- title: 輝達中國 AI 市占歸零，黃仁勳直指出口管制「反效果」
-  description: 輝達執行長黃仁勳表示，公司在中國 AI 加速器市場的市占率已降至 0%，相較約 2 年前仍握有主導地位，出現劇烈反轉。黃仁勳直言，美國對中國的晶片出口管制，從戰略角度來看已「產生反效果」，等同主動讓出全球最大市場之一。
-    根據外電報導，黃仁勳是在接受 Special Competitive Studi...
-  url: https://technews.tw/2026/05/04/china-nvidia-percentage/
-  source: Technews.tw
-- title: OpenAI「复活」了 QQ宠物，网友直接玩疯，把奥特曼和他死对头都养在了电脑里
-  description: 「Codex 正经历 ChatGPT 时刻」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-  url: https://www.ifanr.com/1664765
-  source: Ifanr.com
-- title: 中美富裕家庭的门槛到底有多高？
-  description: '@信号与噪声001：中美富裕家庭的门槛到底有多高？ 作为一名长期投资美股并关注全球科技趋势的博主，我经常被来自中国和美国等地的读者问到一个问题：在这个全球货币大放水的时代，我到底处于哪个财富层级？我是…'
-  url: https://www.bohaishibei.com/post/108796/
+- title: 從電信跨足科技！台灣大哥大 2025 年營運報告，布局 AI 算力、綠電服務、虛擬資產交易
+  description: 台灣大哥大受惠於人工智慧技術導入，2025年營運表現亮眼，合併營業利益創14年新高，稅後淨利達9年高點。AI驅動台灣大哥大營運成長，展現卓越的科技電信轉型成果。根據台灣大哥大公布的
+    2025 年營運表現，受惠於人工智慧技術的導入與產業需求增加，公司在合併 EBITDA、營業利益及稅後淨利等多項指標上均有成長，其中合併營業利益創下 14
+    年來新高，稅後淨利亦達到 9 年來的高點，每股盈餘為 4.77 元。在業務結構上，行動服務營收年增 2%，企業事業營收年增 26%，而排除 momo 以外的新科技電信事業營收則增長…
+  url: https://www.techbang.com/posts/129144-taiwan-mobile-2025-report-ai-green-assets
+  source: Techbang.com
+- title: 微軟推出大規模「自願優離」方案，只為搶救AI算力！
+  description: '面對 AI 轉型壓力，微軟首度推行大規模自願優離計劃。這項微軟組織精簡行動，透過自願優離為高昂的 AI 基礎設施投入騰出資源，顯示其轉型急迫感。在
+    AI 轉型壓力下，軟體巨人微軟正採取前所未有的組織精簡行動。微軟近日證實將在美國總部推行「自願優離」（Voluntary Separation）計劃，這是該公司成立
+    51 年來首次進行如此大規模的人力優退重整，旨在為高昂的 AI 基礎設施投入騰出資源空間。
+
+    哪些員工符合「自願優離」資格？
+
+    根據微軟內部發出的備忘錄，這項一次性的優離計劃主要針對高級副總裁（SVP）以下級…'
+  url: https://www.techbang.com/posts/129036-microsoft-ai-compute-layoffs
+  source: Techbang.com
+- title: 燈光不再是重拍的理由：Vividon 推出 AI 補光 Photoshop 外掛，實現後期精準控光
+  description: "新創公司 Vividon 近日發表一款專為 Adobe Photoshop 設計的 AI 補光外掛程式，主打可直接在 Photoshop\
+    \ 內產出可編輯的圖層，試圖徹底改變商業攝影的後期工作流程。新創公司 Vividon 近日發表一款專為 Adobe Photoshop 設計的 AI 補光外掛程式，主打可直接在\
+    \ Photoshop 內產出可編輯的圖層，試圖徹底改變商業攝影的後期工作流程。\n \r\n\n整合 Photoshop 的直覺化工作流\n這款外掛程式的設計核心在於簡化與效率。對於經常在商業拍攝現場耗費數小時調整燈光…"
+  url: https://www.techbang.com/posts/129150-vividon-ai-light-control-photoshop-plugin
+  source: Techbang.com
+- title: 全球最難買的「樂高」！ASML員工限定EUV積木，二手價飆破14萬！
+  description: 'ASML的極紫外光曝光機是晶片製造核心，但其樂高復刻版竟比真實曝光機更搶手！這款ASML員工專屬的樂高模型，在二手市場價格驚人，揭示了工程師對樂高的熱情。全球最重要的機器，出自一家你或許從未聽過、市值卻位居頂尖的公司
+    。這些極紫外光（EUV）曝光設備，是製造手機、電腦與資料中心晶片的核心工具 。全球現存僅數百台，且全部由同一家荷蘭企業 ASML生產 。然而，這件支撐起全球經濟的科技奇跡，甚至未必是
+    ASML 最受追捧的產品；該公司還有一款產品比 EUV 曝光機更難買到：極紫外光曝光機的樂高復刻版 。
+
+
+    收藏級規格…'
+  url: https://www.techbang.com/posts/128939-400m-machine-lego-set
+  source: Techbang.com
+- title: 高通執行副總裁Alex Katouzian宣布離開高通
+  description: 除了高通執行長Cristiano Amon以外，高通技術公司行動、運算與XR執行副總裁Alex Katouzian應該算是相當廣為人知的高通重要高層，也在許多高通重要場合與Cristiano
+    Amon形影不離，並多次作為高通在Computex期間展開公開演講與受訪的最高層級主管，；不過Alex Katouzian忽然在2026年5月4日於個人LinkedIn宣布將離開任職近25年的高通，目前Alex
+    Katouzian仍未透露下一步，但強調他將展開新篇章。▲Alex Katouzian於2018年Snapdrag…
+  url: https://www.cool3c.com/article/248280
+  source: Cool3c.com
+- title: 為什麼AI公司想讓你對人工智慧感到害怕？
+  description: 本文剖析AI公司的「恐懼行銷」：一面宣稱技術危險，一面又對外銷售。此舉旨在誇大能力、轉移對當前危害的焦點，並藉此主導話語權以規避監管。
+  url: https://www.thenewslens.com/article/267151
+  source: Thenewslens.com
+- title: 2026年4月底，美国战争部一口气官宣了4份新合同
+  description: '@Steed的围脖：2026年4月底，美国战争部一口气官宣了4份新合同：微软、英伟达、亚马逊云服务和初创公司Reflection AI，将把各自最先进的AI系统部署到五角大楼的涉密军事网络上。加上此前…'
+  url: https://www.bohaishibei.com/post/109099/
   source: Bohaishibei.com
-- title: 8.【保姆级】从零学会LangChain调用大模型！统一接口+代码实战 - 老陈说编程
-  description: 模型调用场景中，用户常会根据个人使用习惯指定偏好的AI大模型厂商及名称。比如阿里巴巴的 qwen3.6-plus、qwen3.5-max，字节跳动的
-    doubao-pro等国产主流旗舰型号，以及OpenAI的gpt-4o、Anthropic 的claude-3.5-sonnet等海外型号，都是用户会
-  url: https://www.cnblogs.com/halfcode/p/19968140
-  source: Cnblogs.com
-- title: DeepSeek-V4——迈向百万token上下文：保留V3的MoE和多token预测机制，提出混合注意力机制(CSA/HCA)、流形约束超连接mHC(替代残差)、Muon优化器(取代AdamW)
-  description: 文章浏览阅读11次。DeepSeek-V4系列推出两个预览版MoE语言模型：1.6T参数的DeepSeek-V4-Pro和284B参数的DeepSeek-V4-Flash，均支持100万token上下文。关键创新包括：混合注意力架构（CSA+HCA）提升长文本效率；流形约束超连接（mHC）增强残差连接；采用Muon优化器加速收敛。相比V3.2，V4-Pro在百万token场景下推理FLOPs降至27%，KV缓存降至10%；V4-Flash更优，分别降至10%和7%。模型预训练使用32T-33T
-    token，后训练…
-  url: https://blog.csdn.net/v_JULY_v/article/details/160744266
-  source: Csdn.net
-- title: Gemini 全新「檔案生成」功能：一鍵轉 PDF、Word 不亂碼，工作效率大升級
-  description: 'Google Gemini 近期於官方部落格宣布一項全新「檔案生成」功能，使用者可直接在聊天視窗中生成可下載、 […]
-
-    這篇文章「Gemini 全新「檔案生成」功能：一鍵轉 PDF、Word 不亂碼，工作效率大升級」最早出現在免費資源網，請追蹤 Facebook、X (Twitter)、Threads
-    或訂閱 RSS feed 獲取更多科技新知及免費資源相關介紹教學。'
-  url: https://free.com.tw/generate-files-in-gemini/
-  source: Free.com.tw
-- title: 【2026 企業資安大調查】一張圖看2026年一般製造業企業資安風險
-  description: '一般製造2026年的首要風險和次要風險，雖然和高科技製造業一項，但是一般製造業第一象限高衝擊高風險的項目，卻比高科技製造業還要更多，包括4項系統類風險和6項人員類風險和一項AI類的風險。
-
-    一般製造業今年也開始積極跟上生成式AI的浪潮，也願意投資在最新的AI代理應用上，但是一般製造業的AI因應能力沒有跟上來，像是AI負責任框架採用率偏低，AI治理程度也不高。企業資訊長和資安長也因此比高科技製造業更擔心生成式AI災情的發生。
-
-    立即下載完整報告【iThome 2026 CIO & CISO大調查】資安策略篇完整報告'
-  url: https://www.ithome.com.tw/article/175434
-  source: Ithome.com.tw
-- title: AI 財報週來了：從燒錢走向現金流，科技巨頭要交出什麼成績單
-  description: 2026 年第一季進入尾聲，全球資本市場的目光都聚焦台灣時間 4 月 30 日清晨的科技超級財報週，雲端巨頭：微軟（Microsoft）、Alphabet、Meta
-    與亞馬遜（Amazon）將公布財報，能否證明數千億美元資本投入，切實成為支撐股價的自由現金流，將是今年全球科技股走向的關鍵轉折點。 從...
-  url: https://finance.technews.tw/2026/05/04/ai-hyperscalers-will-drive-higher-us-corporate-bond-supply-in-2026/
+- title: 香港躍升 AI 金融重鎮，全球科技 IPO 八席入袋
+  description: 在過去兩年中，中國的人工智慧（AI）領域吸引了前所未有的投資人信心，香港做為這個趨勢的中心，正逐漸顯示出其潛力。 根據最新報導，香港在
+    2026 年第一季成功吸引了全球前十大科技、媒體和電信（TMT）首次公開募股（IPO）中的八個，這使得香港成為中國 AI 公司的主要退出管道。香港的股市已成為高調中...
+  url: https://technews.tw/2026/05/04/hong-kong-is-the-hub-for-chinas-ai-ipos/
   source: Technews.tw
-- title: 大模型基础（三）：大模型是怎么炼成的-从预训练到强化学习的完整流程 - wenha
-  description: 你有没有好奇过，ChatGPT是怎么从一个只会"预测下一个字"的语言模型，变成能理解你问题、给出优质回答的智能助手？这篇文章带你一探究竟。
-    一、引言：大模型的"成长之路" 想象一下，如果要把一个孩子培养成优秀的作家，你会怎么教？ 读书识字：先让他阅读海量书籍，掌握语言的基本规律和知识 练习写作：教他
-  url: https://www.cnblogs.com/wenha/p/19969044
-  source: Cnblogs.com
+- title: AI 發展處於早期階段！美光：DRAM 成長只是開端、供應將持續吃緊
+  description: 受代理式 AI（Agentic AI）熱潮帶動，整個記憶體與儲存需求急速上升。美國記憶體大廠美光認為，DRAM 需求增加只是開始，若要讓
+    AI 發揮全部潛力，未來仍需更多記憶體。 美光執行長 Sanjay Mehrotra 接受 CNBC 採訪時表示，AI 產業仍處於早期階段，隨著 AI 公司持續擴...
+  url: https://technews.tw/2026/05/04/micron-ceo-talk-about-memory-shortage/
+  source: Technews.tw
+- title: 開發者用 AI 代理 25 天寫出《任天堂明星大亂鬥》PC 移植版！只花 500 美元成本，遊戲開發模式迎來巨變
+  description: 開發者運用 AI 代理，僅用 25 天就將經典遊戲《任天堂大亂鬥》移植到 PC，引發社群熱議。這項 100% AI 產出的 PC 移植專案，挑戰了傳統遊戲開發模式。在遊戲開發領域，將經典主機遊戲透過逆向工程移植到
+    PC 平台通常是一項耗時數月甚至數年的工程，需要對原始機器碼進行精確的反編譯與重寫。然而，開發者 JRickey 最近向社群展示了一個引發爭議的成果:他在短短
+    25 天內完成了 N64 經典遊戲《任天堂明星大亂鬥》的 PC 移植專案 BattleShip，且整個過程的程式碼宣稱是「100% 由 AI 產…
+  url: https://www.techbang.com/posts/129148-smash-bros-pc-port-25-days-automated-experiment
+  source: Techbang.com
+- title: Palo Alto Networks收購Portkey，強化AI代理人安全布局
+  description: 美國資安業者Palo Alto Networks上週四（4/30）宣布，計畫買下專門開發AI閘道，以集中管理AI模型及AI代理人的Portkey，預計於今年7月底前完成收購。雙方並未公布交易細節，但外傳該交易價值1.2至1.4億美元。
+  url: https://www.ithome.com.tw/news/175532
+  source: Ithome.com.tw
+- title: 豆包要收费了
+  description: '@梁斌penny：刚刚有网友来信问我怎么看豆包付费这事。我研究了一下，结论很简单：这是再正常不过的商业动作，以前主推免费版，但豆包从来没承诺过永久免费，现在生产场景开始计划收费，没什么好奇怪的。
+    首先…'
+  url: https://www.bohaishibei.com/post/109116/
+  source: Bohaishibei.com
