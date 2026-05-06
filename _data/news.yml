@@ -1,92 +1,84 @@
-- title: 传小米新 SU7 锁单突破 7 万；微信输入法测「隔空发图」功能；豆包二代 AI 手机上半年发布
-  description: '即将超越英伟达！谷歌母公司 Alphabet 市值已达 4.6 万亿美元
+- title: OpenAI与Anthropic合资企业洽谈收购AI服务公司
+  description: OpenAI和Anthropic分别与私募股权公司成立的合资企业正在洽谈收购帮助企业管理人工智能系统的服务公司。据五位知情人士透露，OpenAI的合资企业Deployment
+    Company已从TPG、贝恩资本等19家投资者处筹集约40亿美元，估值达100亿美元，目前有三笔交易进入后期阶段，主要目标是将数百名工程师和顾问纳入麾下。Anthropic则通过其合资企业筹集约15亿美元，投资者包括黑石集团、Hellman
+    & Friedman和高盛。（新浪财经）
+  url: https://36kr.com/newsflashes/3797027135315202
+  source: 36kr.com
+- title: Alphabet发行欧元和加元债券，合计融资近170亿美元
+  description: 谷歌母公司Alphabet为支持人工智能（AI）投资，正在加大举债力度，在全球多个债券市场融资。Alphabet发行其史上规模最大的欧元计价债券，并首次发行加元债券，合计融资近170亿美元。几个月前，Alphabet发行了英镑和瑞郎计价债券，这也是该公司首次以这两种货币发债，当时还同步发行了美元债。（新浪财经）
+  url: https://36kr.com/newsflashes/3797008763919368
+  source: 36kr.com
+- title: 8点1氪丨豆包新增付费订阅；抖音集团副总裁回应红果短剧付费；苹果因Siri人工智能功能推迟发布，以2.5亿美元和解诉讼
+  description: "今日热点导览\n <ul>\n <li>分析师称iPhone 18 Pro定价策略激进，起步价8999元 </li>\n <li>胖东来郑州店注册成立，预计今年10月开业 </li>\n\
+    \ <li>保时捷卖掉布加迪，预计2026年销量下滑至3万辆 </li>\n <li>马斯克就推特持股披露诉讼与美证监会达成和解 </li>\n <li>三星继承人已付清12万亿韩元遗产税</li>\n\
+    \ </ul>\n TOP 3 大新闻\n 豆包将在免费模式外新增付费订阅，官方回应\n 近日，豆包App Store页面出现付费版本服务声明。对此，豆包…"
+  url: https://36kr.com/p/3797041945304327
+  source: 36kr.com
+- title: 苹果将允许用户选用多款第三方人工智能服务
+  description: 苹果公司将允许用户从一系列外部人工智能服务中进行选择，为其软件各项功能提供支持。此举旨在推进将旗下设备打造为综合性AI平台的战略。知情人士表示，用户将能够在多个第三方AI模型中进行选择，用于生成和编辑文本及图像等任务。这项变化预计将于今年秋季随iOS
+    27、iPadOS 27 和macOS 27上线。（新浪财经）
+  url: https://36kr.com/newsflashes/3797008058375428
+  source: 36kr.com
+- title: 黑石集团、KKR正就接入谷歌的AI模型与Alphabet进行谈判
+  description: 黑石集团、KKR正与Alphabet进行谈判，以便让他们所拥有的公司能够接入谷歌的人工智能模型。Alphabet也在与EQT讨论获取谷歌的人工智能模型。（财联社）
+  url: https://36kr.com/newsflashes/3797010754657280
+  source: 36kr.com
+- title: 馬斯克法庭認了：xAI 曾用 OpenAI 模型「蒸餾」訓練 Grok！業界潛規則浮上檯面，馬斯克點名 Anthropic 才是第一
+  description: '馬斯克坦承 xAI 曾利用 OpenAI 模型進行「蒸餾」訓練 Grok，揭露了 AI 競賽中的現實。馬斯克在針對 OpenAI 的訴訟證詞中坦承，他創立的人工智慧公司
+    xAI 曾利用 OpenAI 的模型，透過業界通稱的「蒸餾」（Distillation）技術來訓練自家聊天機器人 Grok。這項承認不僅讓這項「心照不宣」的技術手段被推向聚光燈下，更揭露了美國前沿實驗室之間為了在競爭中不落後，不惜相互「截長補短」的真實態勢。
 
-    5 月 3 日消息，据媒体报道，受超预期财报提振，谷歌母公司 Alphabet 股价周四（4 月 30 日）大涨 10%，年内累计涨幅达到 140%，市值突破
-    4.6 万亿美元。
+    馬斯克：Anthropic實力才是第一，xAI 仍在追趕
 
-    该公司周三公布的营收超出分析师预期，其中谷歌云业务收入更是突破 200 亿美元大关。
-
-    目前，全球市值第一的公司仍是人工智能芯片霸主英伟达，市值接近 4.9 万亿美元。不过，由于商业伙伴 OpenAI 被曝未能达成内部收入与增长预期，英伟达股价在两天内累计下跌超过
-    …'
-  url: http://www.geekpark.net/news/363701
-  source: Geekpark.net
-- title: 汽車租賃公司 9 秒內數據全失 Claude Opus 自作主張清空公司資料庫
-  description: 汽車租賃軟件初創企業 PocketOS 近日遭遇嚴重數據事故，由 Anthropic 旗艦模型 Claude Opus 4.6 驅動
-    AI 程式碼智能體（AI Code Agent）Cursor，在執行例行任務時自行決定「解決問題」，結果在 9 秒內透過單一 API 呼叫將公司整個生產環境資料庫清空，令業務中斷超過
-  url: https://unwire.hk/2026/05/04/ai-agent-cursor-claude-deleted-database-pocketos/tech-secure/
-  source: Unwire.hk
-- title: OpenAI 為 Codex 推虛擬寵物功能 化身 AI 工作進度提示器
-  description: Mash Yang發佈OpenAI 為 Codex 推虛擬寵物功能 化身 AI 工作進度提示器，最新資訊於2026-05-04 09:49：OpenAI
-    為 Codex 推出 AI 生成寵物功能，以懸浮介面視覺化代理程式的背景任務狀態。開發者可專注於當前工作，並透過「/hatch」指令生成自訂樣式的...#(248213)
-  url: https://www.cool3c.com/article/248213
+    所謂的「蒸餾」技術，是指第三方…'
+  url: https://www.techbang.com/posts/129187-musk-admits-xai-grok-used-openai-models
+  source: Techbang.com
+- title: OpenAI 籌備 IPO 考慮分拆硬體機器人部門 效仿 Alphabet 模式聚焦核心 AI 業務
+  description: Mash Yang發佈OpenAI 籌備 IPO 考慮分拆硬體機器人部門 效仿 Alphabet 模式聚焦核心 AI 業務，最新資訊於2026-05-05
+    22:05：為準備 IPO，OpenAI 曾研議分拆硬體與機器人部門，以降低財務壓力、集中資源於核心 AI 業務。此策略雖暫緩，但凸顯公司為迎戰...#(248324)
+  url: https://www.cool3c.com/article/248324
   source: Cool3c.com
-- title: 從電信跨足科技！台灣大哥大 2025 年營運報告，布局 AI 算力、綠電服務、虛擬資產交易
-  description: 台灣大哥大受惠於人工智慧技術導入，2025年營運表現亮眼，合併營業利益創14年新高，稅後淨利達9年高點。AI驅動台灣大哥大營運成長，展現卓越的科技電信轉型成果。根據台灣大哥大公布的
-    2025 年營運表現，受惠於人工智慧技術的導入與產業需求增加，公司在合併 EBITDA、營業利益及稅後淨利等多項指標上均有成長，其中合併營業利益創下 14
-    年來新高，稅後淨利亦達到 9 年來的高點，每股盈餘為 4.77 元。在業務結構上，行動服務營收年增 2%，企業事業營收年增 26%，而排除 momo 以外的新科技電信事業營收則增長…
-  url: https://www.techbang.com/posts/129144-taiwan-mobile-2025-report-ai-green-assets
-  source: Techbang.com
-- title: 微軟推出大規模「自願優離」方案，只為搶救AI算力！
-  description: '面對 AI 轉型壓力，微軟首度推行大規模自願優離計劃。這項微軟組織精簡行動，透過自願優離為高昂的 AI 基礎設施投入騰出資源，顯示其轉型急迫感。在
-    AI 轉型壓力下，軟體巨人微軟正採取前所未有的組織精簡行動。微軟近日證實將在美國總部推行「自願優離」（Voluntary Separation）計劃，這是該公司成立
-    51 年來首次進行如此大規模的人力優退重整，旨在為高昂的 AI 基礎設施投入騰出資源空間。
-
-    哪些員工符合「自願優離」資格？
-
-    根據微軟內部發出的備忘錄，這項一次性的優離計劃主要針對高級副總裁（SVP）以下級…'
-  url: https://www.techbang.com/posts/129036-microsoft-ai-compute-layoffs
-  source: Techbang.com
-- title: 燈光不再是重拍的理由：Vividon 推出 AI 補光 Photoshop 外掛，實現後期精準控光
-  description: "新創公司 Vividon 近日發表一款專為 Adobe Photoshop 設計的 AI 補光外掛程式，主打可直接在 Photoshop\
-    \ 內產出可編輯的圖層，試圖徹底改變商業攝影的後期工作流程。新創公司 Vividon 近日發表一款專為 Adobe Photoshop 設計的 AI 補光外掛程式，主打可直接在\
-    \ Photoshop 內產出可編輯的圖層，試圖徹底改變商業攝影的後期工作流程。\n \r\n\n整合 Photoshop 的直覺化工作流\n這款外掛程式的設計核心在於簡化與效率。對於經常在商業拍攝現場耗費數小時調整燈光…"
-  url: https://www.techbang.com/posts/129150-vividon-ai-light-control-photoshop-plugin
-  source: Techbang.com
-- title: 全球最難買的「樂高」！ASML員工限定EUV積木，二手價飆破14萬！
-  description: 'ASML的極紫外光曝光機是晶片製造核心，但其樂高復刻版竟比真實曝光機更搶手！這款ASML員工專屬的樂高模型，在二手市場價格驚人，揭示了工程師對樂高的熱情。全球最重要的機器，出自一家你或許從未聽過、市值卻位居頂尖的公司
-    。這些極紫外光（EUV）曝光設備，是製造手機、電腦與資料中心晶片的核心工具 。全球現存僅數百台，且全部由同一家荷蘭企業 ASML生產 。然而，這件支撐起全球經濟的科技奇跡，甚至未必是
-    ASML 最受追捧的產品；該公司還有一款產品比 EUV 曝光機更難買到：極紫外光曝光機的樂高復刻版 。
+- title: 一家做火箭的公司，准备花600亿美元，买一个写代码的软件
+  description: '@Steed的围脖：一家做火箭的公司，准备花600亿美元，买一个写代码的软件。 2026年4月，SpaceX宣布计划收购旧金山AI编程工具公司Cursor，出价600亿美元，是NASA一整年预算的两倍…'
+  url: https://www.bohaishibei.com/post/109134/
+  source: Bohaishibei.com
+- title: 多家出版商起诉Meta指控其盗用版权作品训练人工智能
+  description: 多家出版商对Meta平台公司提起集体诉讼，指控其非法使用受版权保护的作品，用于搜集素材并训练旗下人工智能模型。此次发起诉讼的机构与个人包括：圣智学习（Cengage
+    Learning）、阿歇特出版（Hachette）、麦克米伦（Macmillan）、麦格劳（McGraw）以及作家斯科特・图罗，他们要求启动陪审团庭审，审理此次版权侵权诉求。（新浪财经）
+  url: https://36kr.com/newsflashes/3797024101768192
+  source: 36kr.com
+- title: Anthropic发布面向金融服务公司的新型AI智能体
+  description: Anthropic PBC 推出了一系列新的AI智能体，旨在处理更广泛的金融服务任务。据称这些智能体可以撰写客户会议的演示文稿、审核财务报表，并将案件上报进行合规审查。这十款新工具的目标用户是银行、保险、资产管理和金融科技领域的专业人士。Anthropic首席执行官Dario
+    Amodei将于周二在纽约举行的Anthropic活动上与摩根大通首席执行官Jamie Dimon一起发表关于人工智能的演讲，届时银行业领袖也将出席。（财联社）
+  url: https://36kr.com/newsflashes/3797021079575559
+  source: 36kr.com
+- title: OpenAI讓ChatGPT訂閱可直接用在OpenClaw上，Agent工作流輕鬆搞定！
+  description: 'OpenAI 宣布 ChatGPT 訂閱用戶可直接登入 OpenClaw，大幅降低開發者成本。AI 巨頭間的競爭邏輯正發生根本性轉變。OpenAI
+    執行長 Sam Altman 近日宣布，ChatGPT 訂閱用戶（Plus/Pro）現在可以直接登入開源 OpenClaw，共享原本僅限於網頁端的訂閱額度。這不僅大幅降低了開發者的
+    API 調用成本，更與宿敵 Anthropic 近期「封殺」第三方工具共享訂閱的政策形成鮮明對比，引發全球開發者社群的一片叫好。
 
 
-    收藏級規格…'
-  url: https://www.techbang.com/posts/128939-400m-machine-lego-set
+    養蝦族的勝利：Token 成本門檻的大幅降低
+
+    對於熱衷於…'
+  url: https://www.techbang.com/posts/129159-openai-chatgpt-openclaw-agent-workflow
   source: Techbang.com
-- title: 高通執行副總裁Alex Katouzian宣布離開高通
-  description: 除了高通執行長Cristiano Amon以外，高通技術公司行動、運算與XR執行副總裁Alex Katouzian應該算是相當廣為人知的高通重要高層，也在許多高通重要場合與Cristiano
-    Amon形影不離，並多次作為高通在Computex期間展開公開演講與受訪的最高層級主管，；不過Alex Katouzian忽然在2026年5月4日於個人LinkedIn宣布將離開任職近25年的高通，目前Alex
-    Katouzian仍未透露下一步，但強調他將展開新篇章。▲Alex Katouzian於2018年Snapdrag…
-  url: https://www.cool3c.com/article/248280
+- title: 不用打開剪輯軟體，用 Codex AI 把一篇文章自動做成圖文動畫教學影片
+  description: 前兩天在電腦玩物分享了 OpenAI 的桌面端 AI 助理 Codex 教學： 「 一般人如何快速上手 Codex 超完整圖文教學：讓
+    AI 助理整理文件表格，建立自動化流程 」 ，今天繼續分享一個一般人日常也可以使用的  Codex 應用案例：製作動畫影片，可以把一篇文章轉成教...
+  url: https://www.playpcesor.com/2026/05/codex-ai_01797023095.html
+  source: Playpcesor.com
+- title: OpenAI 與 Anthropic 聯手華爾街私募巨頭搶攻百億美元企業 AI 市場
+  description: Mash Yang發佈OpenAI 與 Anthropic 聯手華爾街私募巨頭搶攻百億美元企業 AI 市場，最新資訊於2026-05-05
+    16:48：AI 巨擘聯手私募股權，成立合資企業以導入 AI。此舉將 AI 競賽從技術轉向資本與通路，目標是透過其投資組合，直接將數位勞動力植入傳統產業，成為最...#(248288)
+  url: https://www.cool3c.com/article/248288
   source: Cool3c.com
-- title: 為什麼AI公司想讓你對人工智慧感到害怕？
-  description: 本文剖析AI公司的「恐懼行銷」：一面宣稱技術危險，一面又對外銷售。此舉旨在誇大能力、轉移對當前危害的焦點，並藉此主導話語權以規避監管。
-  url: https://www.thenewslens.com/article/267151
-  source: Thenewslens.com
-- title: 2026年4月底，美国战争部一口气官宣了4份新合同
-  description: '@Steed的围脖：2026年4月底，美国战争部一口气官宣了4份新合同：微软、英伟达、亚马逊云服务和初创公司Reflection AI，将把各自最先进的AI系统部署到五角大楼的涉密军事网络上。加上此前…'
-  url: https://www.bohaishibei.com/post/109099/
-  source: Bohaishibei.com
-- title: 香港躍升 AI 金融重鎮，全球科技 IPO 八席入袋
-  description: 在過去兩年中，中國的人工智慧（AI）領域吸引了前所未有的投資人信心，香港做為這個趨勢的中心，正逐漸顯示出其潛力。 根據最新報導，香港在
-    2026 年第一季成功吸引了全球前十大科技、媒體和電信（TMT）首次公開募股（IPO）中的八個，這使得香港成為中國 AI 公司的主要退出管道。香港的股市已成為高調中...
-  url: https://technews.tw/2026/05/04/hong-kong-is-the-hub-for-chinas-ai-ipos/
-  source: Technews.tw
-- title: AI 發展處於早期階段！美光：DRAM 成長只是開端、供應將持續吃緊
-  description: 受代理式 AI（Agentic AI）熱潮帶動，整個記憶體與儲存需求急速上升。美國記憶體大廠美光認為，DRAM 需求增加只是開始，若要讓
-    AI 發揮全部潛力，未來仍需更多記憶體。 美光執行長 Sanjay Mehrotra 接受 CNBC 採訪時表示，AI 產業仍處於早期階段，隨著 AI 公司持續擴...
-  url: https://technews.tw/2026/05/04/micron-ceo-talk-about-memory-shortage/
-  source: Technews.tw
-- title: 開發者用 AI 代理 25 天寫出《任天堂明星大亂鬥》PC 移植版！只花 500 美元成本，遊戲開發模式迎來巨變
-  description: 開發者運用 AI 代理，僅用 25 天就將經典遊戲《任天堂大亂鬥》移植到 PC，引發社群熱議。這項 100% AI 產出的 PC 移植專案，挑戰了傳統遊戲開發模式。在遊戲開發領域，將經典主機遊戲透過逆向工程移植到
-    PC 平台通常是一項耗時數月甚至數年的工程，需要對原始機器碼進行精確的反編譯與重寫。然而，開發者 JRickey 最近向社群展示了一個引發爭議的成果:他在短短
-    25 天內完成了 N64 經典遊戲《任天堂明星大亂鬥》的 PC 移植專案 BattleShip，且整個過程的程式碼宣稱是「100% 由 AI 產…
-  url: https://www.techbang.com/posts/129148-smash-bros-pc-port-25-days-automated-experiment
-  source: Techbang.com
-- title: Palo Alto Networks收購Portkey，強化AI代理人安全布局
-  description: 美國資安業者Palo Alto Networks上週四（4/30）宣布，計畫買下專門開發AI閘道，以集中管理AI模型及AI代理人的Portkey，預計於今年7月底前完成收購。雙方並未公布交易細節，但外傳該交易價值1.2至1.4億美元。
-  url: https://www.ithome.com.tw/news/175532
-  source: Ithome.com.tw
-- title: 豆包要收费了
-  description: '@梁斌penny：刚刚有网友来信问我怎么看豆包付费这事。我研究了一下，结论很简单：这是再正常不过的商业动作，以前主推免费版，但豆包从来没承诺过永久免费，现在生产场景开始计划收费，没什么好奇怪的。
-    首先…'
-  url: https://www.bohaishibei.com/post/109116/
-  source: Bohaishibei.com
+- title: OpenAI 推出醫療版 ChatGPT 免費供醫護人員使用準確率達 99.6%
+  description: Mash Yang發佈OpenAI 推出醫療版 ChatGPT 免費供醫護人員使用準確率達 99.6%，最新資訊於2026-05-05
+    10:13：員設計的「ChatGPT for Clinicians」。此工具由 GPT-5.4 驅動，提供免費存取，具 99.6% 準確率並符合 HIPAA
+    規範，...#(248287)
+  url: https://www.cool3c.com/article/248287
+  source: Cool3c.com
+- title: Meta正开发人工智能代理“Hatch”
+  description: 据报道，Meta Platforms正开发一款名为“Hatch”的人工智能代理，目标6月底前内部测试。此外，Meta还将在Instagram上推出一款基于代理的购物工具。（界面）
+  url: https://36kr.com/newsflashes/3796990208810248
+  source: 36kr.com
