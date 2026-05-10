@@ -1,81 +1,84 @@
-- title: “未来智能”完成亿元级A+轮融资，与传音合作打造下一代AI Agent硬件
-  description: 5月8日，AI硬件公司“未来智能”完成亿元级A+轮融资，传音参投并达成战略合作。双方将整合各自在硬件研发及全球渠道上的优势，共同打造具备自主感知与执行能力的下一代AI
-    Agent硬件。据了解，本轮融资资金将重点用于两大方向：一是加大AI Agent领域的人才投入和生态建设，二是拓展上游供应链，联合核心元器件厂商共同开发面向“AI听”与“AI看”的专用硬件组件，构建下一代AI硬件的底层能力。
-  url: https://36kr.com/newsflashes/3800237602020361
+- title: 获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发
+  description: "作者｜黄楠\n 编辑｜袁斯来\n 硬氪获悉，星识（宁波）科技有限公司（以下简称“星识科技”）近日连续完成天使+轮和天使++轮融资，累计金额达数千万元。两轮融资分别由高秉强教授旗下高锋耐心资本和蓝驰创投领投、松禾资本跟投，老股东清水湾二期基金及奇绩创坛持续加注。本轮资金将主要用于智能影像核心技术研发、新品矩阵打造和产品体验的迭代优化，以及生产体系与供应链能力建设。此前，公司已获得李泽湘教授旗下宁波智能技术研究院、清水湾二期基金及奇绩创坛的种子轮及天使轮投资。\n\
+    \ 星识科技是一家专注智能影像技术研发与硬件制造的企业，以远景…"
+  url: https://36kr.com/p/3797202414820359
   source: 36kr.com
-- title: Plaud获头部大厂投资，目前估值达20亿美元｜硬氪独家
-  description: "作者｜黄楠 周鑫雨\n 编辑｜袁斯来 杨轩\n 硬氪独家获悉，AI卡片录音笔公司Plaud已于2025年年中拿下腾讯的融资，估值达10亿美元；目前，Plaud公司估值已涨至约20亿美元。同时，硬氪从相关人士处了解到，Plaud正在推进与腾讯会议之间的硬件合作。\n\
-    \ 有关上述信息，硬氪向Plaud及腾讯方面求证，双方均表示消息不实。\n 一名接近Plaud人士告诉硬氪，Plaud在2024年的总营收约5600万美金，利润率达到20%，“2025年营收差不多涨了3倍”。另有知情者透露，2025年Plaud全年收入达到了历年最…"
-  url: https://36kr.com/p/3799129165863937
+- title: 阿波罗和黑石等机构考虑参与博通近350亿美元融资
+  description: 据报道， 阿波罗全球管理公司和黑石集团都在参与同博通洽谈约350亿美元融资的私募信贷贷款机构之列。据悉，这笔融资将帮助博通为人工智能任务芯片的开发提供资金。知情人士称，洽谈仍在进行，条款可能发生变化。（界面）
+  url: https://36kr.com/newsflashes/3801359034113538
   source: 36kr.com
-- title: 36氪首发 | 清华系AI Infra厂商完成数亿元融资，以GPU为核心重构计算机系统架构
-  description: "作者 | 乔钰杰\n 编辑 | 袁斯来\n 硬氪获悉，北京容芯致远科技有限公司（以下简称“容芯致远”）近日完成天使轮数亿元融资。本轮由北京绿色能源和低碳产业基金与赛富投资基金领投，顺禧基金、富华资本、万利达集团、长江创新投、水木清华校友基金、梅花创投等跟投。云岫资本此前参与了公司种子轮投资，本轮继续跟投，并担任长期独家财务顾问。\n\
-    \ AI浪潮下，算力需求激增，传统以CPU为中心的架构瓶颈愈发凸显：CPU成为数据调度与交互的核心限制，GPU之间通信效率不足，内存无法实现统一地址空间共享，整体算力利用率较低。\n\
-    \ 容芯致远创…"
-  url: https://36kr.com/p/3799984046333186
+- title: 9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉
+  description: "整理｜Kris \n 今日热点导览\n 香港拿下世界杯转播权，FIFA与央视谈判仍陷僵局\n 油价上调，加满一箱92号汽油将多花12.5元\n\
+    \ 钱江摩托否认“围剿张雪机车”\n 30条中日航线4月取消全部航班\n SpaceX冲刺上市，资本开支飙升数百亿\n TOP3大新闻\n DeepSeek拟募资最高500亿元\n\
+    \ 据报道，DeepSeek拟募资最高500亿元，这将成为中国人工智能公司有史以来最大的一轮融资。(财联社)\n “全国销冠”任晓敏被刑拘，泰康人寿回应\n\
+    \ 5月7日，泰康人寿方面对记者表示，近日，泰康人寿青岛分公司个人代…"
+  url: https://36kr.com/p/3801348046151428
   source: 36kr.com
-- title: OpenAI自研芯片遇阻：博通要求微软采购四成产能
-  description: OpenAI与博通AI芯片合作陷入融资僵局。据报道，OpenAI与芯片设计厂商博通去年官宣联合研发定制人工智能芯片时，双方曾将这笔合作视作板上钉钉的既定交易。数月过后，据一份内部备忘录及两名参与谈判的知情人士透露，双方正协商由博通出资推进芯片生产第一阶段建设。该阶段需消耗1.3吉瓦的数据中心算力容量，造价约180亿美元。按此成本测算，代号为“Nexus”、总规模10吉瓦的完整项目，仅芯片生产环节成本就高达1800亿美元，还未计入数据中心建设及其他配套开支。（新浪财经）
-  url: https://36kr.com/newsflashes/3799898525047815
+- title: 需求持续升温，AI芯片制造商Cerebras拟上调IPO价格区间
+  description: 据报道，随着投资者对人工智能芯片制造商Cerebras Systems股票的需求继续升温，该公司最早将于当地时间下周一上调IPO价格区间至每股125美元至135美元。知情人士称，这次IPO已吸引超20倍的认购订单。Cerebras提交给美国证监会的文件显示，该公司目前寻求筹集35亿美元，正以每股115美元至125美元的价格推介2800万股股票。（界面）
+  url: https://36kr.com/newsflashes/3801408298065416
   source: 36kr.com
-- title: DeepSeek拟募资最高500亿元
-  description: 据报道，DeepSeek拟募资最高500亿元，这将成为中国人工智能公司有史以来最大的一轮融资。。（财联社）
-  url: https://36kr.com/newsflashes/3800574318976257
-  source: 36kr.com
-- title: Anthropic 估值逼近 1 万亿美元；OpenAI 推出 Codex Chrome 扩展；消息称腾讯实习生大涨薪，百度「全员晋升」｜极客早知道
-  description: "OpenAI 推出 Codex Chrome 扩展，直接在浏览器里帮你干活\r\n\n\r\n\n5 月 8 日，OpenAI 宣布上线「Codex\
-    \ for Chrome」扩展，为桌面版 Chrome 浏览器引入对 Codex 的直接支持，适用于 macOS 和 Windows 平台。安装该扩展后，Codex\
-    \ 可以在不接管用户浏览器操作的前提下，利用浏览器环境测试 Web 应用、在多标签页之间获取上下文信息、调用开发者工具（DevTools）等，从而更贴近真实使用场景完成各类任务。\r\
-    \n\n\r\n\nOpenAI 表示，在此前为桌面…"
-  url: http://www.geekpark.net/news/363869
+- title: 被 AI 重新激活的「无屏手环」，成了大厂争抢的运动健康新赛道
+  description: "硬件只是入口，AI 才是产品。\r\n\n作者｜张勇毅\r\n\n编辑｜靖宇\r\n\n \r\n\n\r\n\n\n2026 年\
+    \ 5 月 7 日，Google 发布了一款叫 Fitbit Air 的健康手环。99.99 美元，没有屏幕，配套一个叫 Google Health Coach\
+    \ 的 AI 订阅服务，每月 10 美元。\n同一天，沿用了十几年的 Fitbit App 改名 Google Health。\n\n\n\nFitbit\
+    \ Air  ｜ 图片来源：Google\r\n\n \r\n\n\r\n\n\n这是 Google 在 2021 年花 21 亿美元买下 F…"
+  url: http://www.geekpark.net/news/363933
   source: Geekpark.net
-- title: 江波龙：ePOP4x产品已经批量应用于北美智能穿戴科技巨头的智能穿戴设备中
-  description: 36氪获悉，江波龙公告，公司已推出UFS4.1、mSSD、超薄ePOP5x、超薄ePOP4x等多款适配于端侧AI设备的新型存储产品。其中，以UFS4.1为代表的旗舰存储产品已实现规模化出货；ePOP4x产品已经批量应用于北美智能穿戴科技巨头的智能穿戴设备中。
-  url: https://36kr.com/newsflashes/3800573682228482
-  source: 36kr.com
-- title: 550 亿美元！马斯克的「芯片工厂」开始成为现实
-  description: "作者｜ 桦林舞王 \n编辑｜ 靖宇\n \n1980 年代，日本半导体产业如日中天，一度占据全球芯片市场超过 50% 的份额。\n\
-    美国人坐不住了——不是因为买不到芯片，而是因为他们意识到，一个国家如果无法掌控自己的「硅」，就等于把战略命脉交给了别人。于是有了《半导体协议》，有了后来的\
-    \ Intel 复兴，有了今天的《芯片法案》。\n四十年后，同样的焦虑以一种更私人的方式，出现在了伊隆·马斯克身上。\n只不过这一次，想要掌控「硅」的，不是一个国家，而是一个人——以及他旗下的一簇公司。\n\
-    5 月 6 日，Bloomberg 披露了一…"
-  url: http://www.geekpark.net/news/363854
-  source: Geekpark.net
-- title: Cloudflare裁员超1100人，向AI运营模式转型
-  description: 美国网络安全服务公司Cloudflare周四宣布，将裁减约 20%的员工，这是其向“以AI为先的智能体运营模式”转型的一部分。尽管Cloudflare当天公布的季度业绩强于预期，但其股价在盘后交易中仍大跌了14%。该公司此次裁员将影响超过1100人，这是美国科技行业近期与人工智能相关的最新一例裁员。（新浪财经）
-  url: https://36kr.com/newsflashes/3799913067928576
-  source: 36kr.com
-- title: 美团推「养虾社区」；OpenAI 推出三款实时语音模型；宇树机器人在韩国佛门「受戒」，法名「迦悲」
-  description: '宇树科技开放全球首个人形机器人应用商店 UniStore
+- title: 別讓「大南方新矽谷」成了 AI 幻影：論台灣主權系統的建設斷層
+  description: 台灣發展「主權 AI」不應僅止於宣示。真正的「主權 AI」國家戰略，需從能源、算力、模型與數據中心等「基礎設施」著手，實體化國家級「基礎設施」的建設，才能在AI時代立足。（本文為讀者投稿，作者為徐作聖。徐作聖是陽明交大退休教授、產業趨勢評論家，長期關注全球高科技供應鏈變革與國家競爭力策略。深研智能技術底層架構，致力於推動台灣科技政策從應用面轉向基礎科學研究，主張以科學治國為核心，重塑台灣在第五次工業革命中的技術話語權。《T客邦》歡迎各路好手針對擅長主題投稿或是針對數位議題發表自身意見，詳情以及方式請見徵稿頁面。）…
+  url: https://www.techbang.com/posts/129132-taiwan-southern-silicon-valley-ai-gap
+  source: Techbang.com
+- title: 早报｜小米增程SUV 曝光，但不叫YU9/苹果与英特尔达成初步芯片代工协议/Cloudflare用AI裁掉20%员工
+  description: '· 小米汽车人事分工调整：前特斯拉上海工厂厂长宋钢接管生产制造
 
-    5 月 7 日，宇树科技宣布，旗下人形机器人官方共享应用平台 UniStore 正式全面开放。该平台定位为全球首个人形机器人任务动作应用商店，将通过标准化接口与生态建设，降低机器人应用的开发与使用门槛，推动人形机器人从功能机时代向智能机时代跨越。
+    · 索尼与台积电官宣合作开发下一代图像传感器
 
-
-    UniStore 平台的上线，为开发者和用户搭建了类似智能手机应用商店的交互渠道。用户可以像下载手机 App 一样，轻松获取并安装各类机器人任务动作应用，从而解锁人形机器人在工业、服务业等多元场景中的潜力。这一…'
-  url: http://www.geekpark.net/news/363813
-  source: Geekpark.net
-- title: 扫地机祖师爷再创业：造了一只懂你的「人造赛博宠物」
-  description: "作者｜ Moonshot \n编辑｜ 靖宇\n \n当下的科技圈，具身智能的叙事出奇地一致。\n波士顿动力的 Atlas 正在展示跑酷，特斯拉的\
-    \ Optimus 试图精准捏起一颗鸡蛋，Figure 01 已经进驻宝马工厂开始搬运箱子。仿佛所有人都在比拼，谁能成为第一个「史塔克工业」（《钢铁侠》中的公司）。\n\
-    就在这股人形劳工狂热中，一家名为 Familiar Machines 的初创公司出现了。虽是初创，其创始人 Colin Angle 却堪称家庭机器人的祖师爷\
-    \ 。\n \n\nColin Angle 与 iRobot Room…"
-  url: http://www.geekpark.net/news/363853
-  source: Geekpark.net
-- title: 最强「种草」帝国，为何突然加速 AI
-  description: "作者 | 肖思佳\n 编辑 | 乔芊 杨轩\n 所有互联网大中厂都渴望在AI时代博得位置，在这场比赛中，小红书曾是克制的那个。\n\
-    \ 在一个搜索属性与社区属性并存，以真实经验分享为核心的产品中，活人感与AI、温情和算法，始终像天平的两端。\n 很长一段时间里，小红书既没有完全缺席技术探索，也没有像许多同行那样高调推进AI产品化。相反，这家公司始终在两股力量的拉锯和平衡中前行：一边持续投入模型能力，一边谨慎控制AI对社区生态的介入。\n\
-    \ 但2026年，随着Agent叙事的升温，小红书开始显露出某种急迫。\n 4月30日，小红书发…"
-  url: https://36kr.com/p/3799028783439111
-  source: 36kr.com
-- title: 武汉光谷建设投资公司增资至50亿，增幅约114%
-  description: 36氪获悉，天眼查App显示，近日，武汉光谷建设投资有限公司发生工商变更，注册资本由约23.3亿人民币增至50亿人民币，增幅约114%。该公司成立于2002年10月，法定代表人为陈柔焰，经营范围含对基础设施项目、高新技术项目的投资及咨询，项目管理，房地产开发及经营，物业管理等。股东信息显示，该公司由湖北省科技投资集团有限公司、农发新型政策性金融工具有限公司、国开发展基金有限公司共同持股。
-  url: https://36kr.com/newsflashes/3800305431878657
-  source: 36kr.com
-- title: Anthropic 執行長自曝成長「太瘋狂也太難應付」！第一季年化暴增 80 倍，15 個月營收追過 OpenAI
-  description: Anthropic 正經歷爆炸性成長，年化營收與用量激增 80 倍，導致算力嚴重短缺。為此，公司大舉簽署算力協議，包含租用對手 xAI
-    的資料中心。
-  url: https://www.inside.com.tw/article/41250-anthropic-ceo-dario-amodei-says-company-crew-80-fold-in-first-quarter
+    · Google 面试将允许使用 AI 助手#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。'
+  url: https://www.ifanr.com/1665264
+  source: Ifanr.com
+- title: Cloudflare 創立 16 年首度大裁員：1,100 人在營收創新高當天被告知走人，理由是 AI
+  description: Cloudflare 於營收創高之際，宣布因代理式 AI 提升生產力而裁員 20%，反映科技業新常態：即便公司表現亮眼，AI 仍可能導致職位消失。
+  url: https://www.inside.com.tw/article/41253-cloudflare-big-layoff
   source: Inside.com.tw
-- title: 恒指午间休盘跌1.09%，恒生科技指数跌1.07%
-  description: 36氪获悉，恒指午间休盘跌1.09%，恒生科技指数跌1.07%；AI应用、半导体领跌，华虹半导体跌超9%，MINIMAX-WP跌超7%，中芯国际、智谱跌超3%；传媒板块涨幅居前，美图公司、映宇宙涨超10%，南向资金净买入56.41亿港元���
-  url: https://36kr.com/newsflashes/3800121390062600
-  source: 36kr.com
+- title: ChatGPT 登陸 Excel 與 Google Sheets，試算表側邊欄可直接使用 AI
+  description: ChatGPT for Excel 與 Google Sheets 正式上線，將 AI 功能整合進試算表側邊欄，使用者能透過自然語言建立、更新與理解
+    Excel 和 Google Sheets 文件。OpenAI 近日宣布「ChatGPT for Excel」與「ChatGPT for Google Sheets」推出正式版，將
+    AI 功能直接整合進試算表側邊欄，讓使用者能透過自然語言建立、更新與理解 Excel 和 Google Sheets 文件。這項功能目前已於全球開放，支援
+    Free、Go、Plus、Pr…
+  url: https://www.techbang.com/posts/129234-chatgpt-excel-sheets-sidebar
+  source: Techbang.com
+- title: 不用寫程式的瀏覽器自動化：Codex for Chrome 幫我操作 Google 地圖、Evernote、 Gemini、社群
+  description: 上個禮拜撰寫了「 一般人如何快速上手 Codex 超完整圖文教學：讓 AI 助理整理文件表格，建立自動化流程 」一文，分享新手如何快速掌握
+    OpenAI 的 AI Agent 軟體：「 Codex 」。因為這幾個月的使用經驗，讓我認為 Codex 已經不只是一個程式開發 AI 工...
+  url: https://www.playpcesor.com/2026/05/codex-for-chrome-google-evernote-gemini.html
+  source: Playpcesor.com
+- title: OSMO Pocket 4P，是大疆自己打响的「云台相机下半场」第一枪
+  description: "「手持云台相机」品类里，大疆独行时代的最后一年。\r\n\n作者｜张勇毅\r\n\n编辑｜靖宇\r\n\n \r\n\n\r\n\n\
+    \n2025 年的某段时间，打开抖音、小红书、B 站，很多人都会有一种隐约的视觉重复——一台黑色的、屏幕能旋转的小相机，反复出现。\n当时这台「小相机」，无论是国内的视频创作者，还是海外的\
+    \ YouTuber，几乎人手一台。旅行 Vlog、家庭记录、街头美食、宠物日常，那个机身造型成了一种共同的视觉符号。Pocket 这个名字第一次穿透了科技圈的边界，渗透到普通人对「拍视频」这件事的本能想象里。这是大疆此前任何一款产品…"
+  url: http://www.geekpark.net/news/363872
+  source: Geekpark.net
+- title: 苟嘉章：記憶體廠 80% 毛利率連台積電都眼紅，長江存儲有望成為全球 NAND 霸主
+  description: 慧榮科技總經理苟嘉章指出，在人工智慧（AI）狂潮的推波助瀾下，記憶體原廠正迎來前所未有的「印鈔票」高毛利時代，同時AI推論（Inference）的需求急遽拉升，正引發新一波對NAND儲存容量的爆發性需求。面對中美科技戰，中國正加速半導體國產化進程，長江存儲未來甚至有望躍升為全球最大NAND製造商。
+    ...
+  url: https://finance.technews.tw/2026/05/09/memory-chip-manufacturers-boast-80-gross-profit-margins-that-even-tsmc-envies/
+  source: Technews.tw
+- title: AI 狂潮下記憶體產能爭奪戰！慧榮苟嘉章：擴產要三年市場糾結成死胡同
+  description: 在AI浪潮的推動下，全球半導體產能正面臨前所未有的爭奪戰。慧榮科技總經理苟嘉章指出，擴充產能並非一蹴可幾，記憶體大廠在面臨龐大 AI
+    需求下，正透過簽署長約來降低擴產風險，而這也導致了雲端服務供應商（CSP）與手機、PC 業者在零組件採購上面臨嚴峻的兩極化發展。 針對市場疑惑為何記憶體供不應求卻不立...
+  url: https://finance.technews.tw/2026/05/09/the-battle-for-memory-production-capacity-amid-the-ai-%e2%80%8b%e2%80%8bcraze/
+  source: Technews.tw
+- title: 苹果和英特尔，分手六年后，又「在一起」了
+  description: "作者｜ 桦林舞王 \n编辑｜ 靖宇\n \n2020 年 6 月 22 日，苹果 WWDC 的虚拟舞台上，蒂姆·库克宣布了一个让整个\
+    \ PC 行业震动的决定——Mac 将抛弃英特尔，全面转向自研芯片。\n那一刻，一段长达 15 年的合作关系被判了死刑。\n六年后的今天，苹果和英特尔又坐到了一张桌上。只不过这次，角色完全反转了——\
+    \ 不再是苹果用英特尔设计的芯片，而是英特尔给苹果代工，生产苹果自己设计的芯片。\n这个故事，比任何商业教科书都精彩。\n \n01 \n一段 15 年婚姻的破裂\
+    \ \n \n时间回到 2005 年。乔布斯在 WWD…"
+  url: http://www.geekpark.net/news/363920
+  source: Geekpark.net
+- title: Genesis AI 发布新模型：机器人开始挑战西红柿炒鸡蛋
+  description: "作者｜Li Yuan\r\n\n编辑｜靖宇\r\n\n\r\n\n\r\n\n\n机器人终于开始学做西红柿炒鸡蛋了。\n过去几年，人形机器人行业最擅长的事情，是跳舞、翻跟头、搬箱子，以及在视频里越走越像人。但普通人对机器人的期待，往往还是会回到一个很朴素的问题：它到底什么时候能帮我做家务？\n\
+    这件事一直很难。\n家务不是一套标准动作。鸡蛋会碎，番茄会滑，蛋液会流，刀会改变食材形状。但对机器人来说，它们是最难的一类物理世界问题。\n5 月，机器人创业公司\
+    \ Genesis AI 发布了自己的第一个机器人基础模型系统 GENE-26.5。视频里，机器人…"
+  url: http://www.geekpark.net/news/363905
+  source: Geekpark.net
