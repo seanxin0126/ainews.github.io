@@ -1,85 +1,77 @@
-- title: 8点1氪丨诺奖得主称马斯克是庞氏骗局；SK海力士去年新增员工超2000人；人形机器人U1仅限成人购买
-  description: "今日热点导览\n <ul>\n <li>加拿大母亲起诉奥特曼与OpenAI，指控ChatGPT诱导女儿自杀</li>\n <li>A股10家退市公司波及超25万股民</li>\n\
-    \ <li>SK海力士去年新增员工超2000人</li>\n <li>H&M重组全球架构，大中华区降级</li>\n <li>世界杯期间英格兰队装备遭窃，大部分已被追回</li>\n\
-    \ </ul>\n TOP 3 大新闻\n 诺奖得主称马斯克是庞氏骗局，SpaceX上市让普通投资者被迫买单\n 据当地时间6月12日，诺贝尔经济学奖得主保罗·克鲁格曼发文“Elon…"
-  url: https://36kr.com/p/3853670570743040
+- title: 氪星晚报 ｜我国成功发射吉星高分07C04星等8颗卫星；小红书或已准备好本月在香港提交IPO申请；智谱：公司已推出最新一代旗舰模型GLM-5.2
+  description: "大公司：\n 支付宝：政务AI助手“晓政”服务突破1亿次\n 36氪获悉，支付宝宣布，旗下政务AI助手“晓政”累计服务次数突破1亿次。截至目前，“晓政”服务已覆盖16000项服务事项，成功落地助力70余家部委及省级政务机构，业务场景全面覆盖公积金、人社、公安、不动产等民生领域。\n\
+    \ 小雨智造与地瓜机器人正式宣布达成战略合作\n 36氪获悉，6月12日，小雨智造与地瓜机器人正式宣布达成战略合作，双方将围绕“工业具身大脑+端侧大算力”展开深度协同，推动具身智能技术从实验室走向工业产线，共同打造面向工业制造的高性能软硬一体化解…"
+  url: https://36kr.com/p/3854486447510535
   source: 36kr.com
-- title: 兩年營收暴增 3.4 倍、坐擁 5 億用戶！神祕數位巨頭 Bending Spoons 悄悄叩關美股
-  description: 今年夏天的首次公開發行（IPO）市場非常熱鬧，SpaceX、Anthropic、OpenAI 依序排隊中，但可能沒什麼人注意到，一家來自義大利米蘭、持有全球
-    5 億月活躍用戶的公司，也悄悄在 6 月向美國證交會（SEC）遞交了 F-1 申請書。 這家公司叫Bending Spoons，名字取自199...
-  url: https://finance.technews.tw/2026/06/14/ai-empowers-individuals-generate-2-57m-annually-bending-spoons-startup-pe-revenue-triples-2-years-ipo/
-  source: Technews.tw
-- title: Pokemon GO 數據疑訓練軍用無人機 Niantic Spatial 否認現正分享資料
-  description: 荷蘭媒體《Trouw》近日揭露由《Pokemon GO》(寶可夢 GO) 開發商 Niantic 分拆成立的 Niantic Spatial，與美國軍事科技公司
-    Vantor 展開合作，利用玩家掃描數據訓練 AI 導航系統，這套系統很可能已應用於軍用無人機。Niantic Spatial
-  url: https://unwire.hk/2026/06/14/pokemon-go-niantic-spatial-vantor-military-drone-data/game-channel/
-  source: Unwire.hk
-- title: SpaceX一上来就玩这么大
-  description: 昨晚举世瞩目的spcx在美股IPO上市了。 spcx发行价135美元，盘中一度冲高至176美元，最终回落收盘160.95美元，涨幅19%。按照这个收盘价计算公司市值2.1万亿，是全球市值第7高的公司。…
-  url: https://www.bohaishibei.com/post/110255/
-  source: Bohaishibei.com
-- title: '中國 AI 廠諷美國管制 AI 封鎖境外用戶 智譜 AI 全開放: 尖端 AI 應屬於所有人'
-  description: 特朗普政府 6 月 12 日向 Anthropic 發出出口管制指令，禁止境外人士存取該公司旗下兩款最強大 AI 模型 Fable 5
-    及 Mythos 5。同日中國 AI 企業智譜宣布全量開放 GLM-5.2，並公開聲明「前沿（編按：尖端）AI 屬於所有人」。
-  url: https://unwire.hk/2026/06/14/us-ai-export-controls-glm-5-2-open-source/ai/
-  source: Unwire.hk
-- title: Anthropic 被政府命令九十分鐘內下架最新 AI 模型，背後到底發生什麼事？
-  description: 在生成式 AI 發展的戰場上，一場突如其來的「國安危機」正引爆華府與矽谷的劇烈摩擦。 《AXIOS》引述 Anthropic 內部人士消息指出，川普政府在本週五無預警對該公司下達最後通牒，僅給予短暫的
-    90 分鐘，強制要求其全面下架旗下最強大的 AI 模型「Mythos」與其商用版本「Fable」，...
-  url: https://technews.tw/2026/06/14/trump-administration-only-gave-anthropic-90-minutes-to-de-deploy-its-new-ai-model/
-  source: Technews.tw
-- title: 美國政府突然以國家安全為由 禁止海外用戶使用 Claude 最新 AI 模型
-  description: 【國家安全 ⚠️】美國 AI 巨頭 Anthropic 於 13 日宣布，收到由美國特朗普政府實施的全新「尖端技術」出口管制。該公司已被迫暫停美國境外所有用戶存取其最先進的
-    AI 模型。此項禁令的牽涉範圍極廣，除了外國政府、企業、研究機構及個人外，甚至連居住在美國境內的外籍人士，以及部分在美工作的 Anthropic 外籍員工亦受到限制，原因在於「構成國家安全風險」。
-  url: https://www.hkepc.com/26014/%E7%BE%8E%E5%9C%8B%E6%94%BF%E5%BA%9C%E7%AA%81%E7%84%B6%E4%BB%A5%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E7%82%BA%E7%94%B1_%E7%A6%81%E6%AD%A2%E6%B5%B7%E5%A4%96%E7%94%A8%E6%88%B6%E4%BD%BF%E7%94%A8_Claude_%E6%9C%80%E6%96%B0_AI_%E6%A8%A1%E5%9E%8B
-  source: Hkepc.com
-- title: 最強 AI 模型 Claude Fable 5 突遭美政府強行下架，美國以外用戶即刻停用
-  description: '美國政府以國家安全為由下達出口管制禁令，要求 Anthropic 停止全球用戶存取最新的 AI 模型。AI 獨角獸 Anthropic
-    昨晚投下一顆震撼彈，宣布將立即對全球所有使用者停用其最先進的 AI 模型。這項大動作背後的原因，是美國政府以國家安全為由下達出口管制禁令，要求 Anthropic
-    限制外國籍人士存取其最新技術。
-
-    這項禁令直接衝擊 Anthropic 幾天前才剛推出的新一代 AI 模型 Claude Fable 5 以及 Mythos 5。美國商務部隨後證實，已正式發出出口管制指令，暫停所有外國人…'
-  url: https://www.techbang.com/posts/130204-claude-fable-5-us-government-shutdown
-  source: Techbang.com
-- title: Anthropic 最強模型 Fable 5 / Mythos 5 遭美國出口管制封殺，全球 API 無預警關閉事件始末
-  description: 這起事件的起點可追溯到 6 月 2 日，川普總統簽署了《促進先進人工智慧創新與安全》行政命令，將 AI 監管架構從 NIST 擴大到
-    NSA，賦予情報體系在 AI 安全評估中的關鍵角色。6 月 9 日至 10 日，Anthropic 正式發表兩款新模型：Fable 5 為公眾版，具備完整的安全防護；Mythos
-    5
-  url: https://www.koc.com.tw/archives/645946
-  source: Koc.com.tw
-- title: 公募加速布局量化“固收+”，知名量化基金经理相继入局
-  description: 近期权益市场波动加剧，尤其是AI、半导体等科技板块频繁出现高位震荡与快速轮动，令投资者对权益投资的信心受挫。在此背景下，资金开始重新审视风险与收益的平衡点，那些能够在控制回撤的同时还能提供长期稳健回报的产品，正获得越来越多关注。值得注意的是，今年以来，在“固收+”这一赛道，量化策略异军突起，凭借纪律化投资、多资产分散和系统化风控等优势，成为新增长点。据统计，目前全市场量化“固收+”产品规模已约1800亿元，头部基金公司纷纷布局，知名量化基金经理相继入局。展望后市，在低利率环境和资产再配置需求的推动下，叠加公募量化…
-  url: https://36kr.com/newsflashes/3853660123632902
+- title: 36氪首发 | EBike变速器供应商打破海外巨头垄断，获国泰、达晨参与新一轮数千万元融资
+  description: "作者 | 张子怡\n 编辑 | 袁斯来\n 硬氪获悉，智能短出行核心零部件供应商洛梵狄智能科技（以下简称“洛梵狄”）已完成新一轮数千万元B+融资。本轮投资方包括国泰海通、达晨财智、以及广州黄埔科创母基金，老股东达晨财智在本轮中继续追加投资。\n\
+    \ 据悉，本轮融资资金将主要用于持续的研发投入、产能扩张、全球销售网络建设及日常运营流动资金。其中，研发重点将聚焦于下一代智能内变速器的深耕。\n 洛梵狄自2012年成立以来，专注内变速器的研发和生产，是中国第一家、全球第三家量产智能内变速器的厂商。目前公司已研发出电控内变速器、电机…"
+  url: https://36kr.com/p/3853252135654660
   source: 36kr.com
-- title: AI 影片浮水印移除工具：Magic Eraser 線上清除影片 Logo 與字幕
-  description: '本文要推薦的「AI 影片浮水印移除工具」是新加坡公司 Magic Eraser 提供的線上服務，透過先進的 A […]
+- title: Claude Fable 5 最強模型遭美政府下架內幕：傳為亞馬遜 CEO 親自舉報安全漏洞、Anthropic 卻拒絕修復
+  description: '由於亞馬遜通報 Claude 存有安全漏洞，美方對 Anthropic 實施出口管制。即便面臨壓力，Anthropic 仍拒絕修復，導致政府強化出口管制。這場涉及
+    Claude 的安全...美國人工智慧新創公司 Anthropic 近日宣布終止旗下最強模型 Claude Fable 5 和 Mythos 5 存取權限的決定，在科技界投下了震撼彈。而根據《華爾街日報》等多家外媒爆料，此事件的導火線可能是
+    Anthropic 的大股東——亞馬遜（Amazon）執行長安迪·賈西（Andy Jassy）。
 
-    這篇文章「AI 影片浮水印移除工具：Magic Eraser 線上清除影片 Logo 與字幕」最早出現在免費資源網，請追蹤 Facebook、X (Twitter)、Threads
-    或訂閱 RSS feed 獲取更多科技新知及免費資源相關介紹教學。'
-  url: https://free.com.tw/magiceraser-remove-watermark-from-video/
-  source: Free.com.tw
-- title: 川普政府全面封殺 Anthropic 頂尖 AI 外國用戶，竟是亞馬遜去告密
-  description: 科技巨頭與白宮的角力再度升級，《華爾街日報》引述知情人士，亞馬遜執行長賈西（Andy Jassy）親自向川普政府官員通報，稱 Anthropic
-    尚未公開的旗艦模型 「Fable 5」 存在重大資安漏洞，這場關鍵對話隨即引發白宮祭出強硬出口管制，全面禁止外國政府、企業及個人存取該模型。 亞馬遜研究人...
-  url: https://infosecu.technews.tw/2026/06/14/amazons-ceo-andy-jassy-was-the-snitch-who-caused-the-ban-on-anthropic/
+    報導指出，亞馬…'
+  url: https://www.techbang.com/posts/130237-us-export-controls-claude-anthropic-ceo-vulnerability
+  source: Techbang.com
+- title: 川普政府封殺Claude最強模型！Anthropic「恐懼行銷」遭受反噬，科技巨頭求仁得仁？
+  description: 美國政府管制Anthropic Fable 5模型，確立前沿AI為國家戰略資產，恐開啟依地緣政治劃分的階層式取用框架。此先例將影響未來全球
+    AI 技術的獲取與發展。
+  url: https://www.thenewslens.com/article/268542
+  source: Thenewslens.com
+- title: 加速次世代 AI 資料中心發展，鴻海與施耐德宣布策略合作
+  description: 能源管理科技大廠施耐德電機（Schneider Electric）與電子製造服務商鴻海今日宣佈展開策略合作，共同打造並推動次世代 AI資
+    料中心的發展與規模化應用。 隨著人工智慧應用快速普及，數位基礎設施的市場需求正發生根本性轉變，雙方這次合作將共同打造整合式、可即時部署的解決方案，協助客戶在全球各...
+  url: https://finance.technews.tw/2026/06/15/foxconn-schneider/
   source: Technews.tw
-- title: 馬斯克 xAI 深偽色情案開戰！不顧受害者精神創傷，xAI 要求原告必須「實名提告」遭批恐嚇撤訴
-  description: 'xAI 旗下 Grok 捲入深偽色情爭議，xAI 強硬要求原告須以實名打官司，遭指控意圖恐嚇受害者撤訴。這場關於 Grok 法律責任與實名制的角力，揭示了生成式技術對受害者的二度傷害風險。馬斯克（Elon
-    Musk）旗下的人工智慧新創公司 xAI，近日正式向法院提出申請，要求四名在針對 Grok 提起「深偽（Deepfake）色情圖像」集體訴訟的原告，必須以真實姓名進行訴訟。
+- title: 加速次世代 AI 資料中心發展，鴻海與施耐德宣布策略合作
+  description: 能源管理科技大廠施耐德電機（Schneider Electric）與電子製造服務商鴻海今日宣布展開策略合作，共同打造並推動次世代 AI
+    資料中心的發展與規模化應用。 隨著人工智慧應用快速普及，數位基礎設施的市場需求正發生根本性轉變，雙方這次合作將共同打造整合式、可即時部署的解決方案，協助客戶在全球各...
+  url: https://technews.tw/2026/06/15/foxconn-schneider/
+  source: Technews.tw
+- title: 阿里巴巴达摩院退出旗下科技公司
+  description: 36氪获悉，天眼查App显示，近日，大蛮驴智能科技（浙江）有限公司发生工商变更，企业名称变更为杭州元识智瞳科技有限公司，原股东阿里巴巴达摩院（深圳）科技有限公司退出。该公司成立于2022年12月，注册资本5000万人民币，法定代表人为苏文博，经营范围包括电子元器件批发、电子元器件零售、电子元器件与机电组件设备销售等，现由上海模因智瞳科技有限公司全资持股。
+  url: https://36kr.com/newsflashes/3854185785365762
+  source: 36kr.com
+- title: 8点1氪｜山姆总部因食品安全问题被约谈；智谱股价暴涨，创上市以来单日成交新高；美伊确认达成协议，国际油价显著下跌
+  description: "今日热点导览\n <ul>\n <li>国内品牌金饰价格普涨</li>\n <li>小红书公布世界杯开赛数据</li>\n <li>阿里巴巴达摩院退出旗下科技公司</li>\n\
+    \ <li>罗马仕接连变更法定代表人</li>\n <li>遇见小面创始人向“渝见小面”致歉</li>\n </ul>\n TOP3大新闻\n 针对多发食品安全问题，市场监管总局约谈山姆总部\n\
+    \ 记者15日了解到，针对一段时期以来监管发现和媒体曝光的山姆线下门店及线上网店多发的食品安全问题，近日，市场监管总局依法对沃尔玛（中国）投资有限公司（即山姆总部）负责人进…"
+  url: https://36kr.com/p/3855082873476102
+  source: 36kr.com
+- title: 資安不再是IT部門的事，供應鏈韌性與AI治理成企業存續的核心命題
+  description: '當全球貿易戰方酣、地緣政治衝突持續重塑供應鏈版圖，有一個問題正悄悄從資訊部門的技術備忘錄，爬升到董事會的戰略議程首位：企業的網路安全能力，究竟是不是決定能否進入國際市場的門檻條件？
 
-    不過，原告方對此強烈反對，認為公開真實身分將會大幅增加他們遭受網路霸凌與騷擾的風險，並加重宣誓陳述中所提及的個人精神創傷。
+    資誠智能風險管理諮詢公司董事長暨資誠企業管理顧問公司執行董事張晉瑞，在臺灣投資人關係協會主辦的「2026年企業全方位治理——韌性驅動力」董監事進修課程，以「網路安全與數位信任：供應鏈韌性與AI治理之戰略突圍」為題，向臺灣各產業的董事與監察人發出警示。
 
-
-    受害者控訴 …'
-  url: https://www.techbang.com/posts/130039-xai-grok-deepfake-lawsuit-real-names
-  source: Techbang.com
-- title: OpenAI 揭露中國網軍利用 ChatGPT 偽裝美國鄉民，企圖帶風向阻撓資料中心建設
-  description: 'OpenAI揭露中國關聯帳號利用AI影響輿論，企圖操弄美國資料中心建設。報告指出中國操作者試圖透過誤導性敘事干預政策，儘管資料中心擴建確有爭議，OpenAI仍警告此類干預輿論的行動，已...OpenAI近日發布了一份威脅報告，指出有部分與中國相關聯的用戶帳號，曾試圖利用ChatGPT生成特定內容，藉此影響美國民眾對本土資料中心建設及相關科技政策的看法。
-
-    報告強調，這些已被封禁的帳號暗中參與了所謂的「影響力行動」，試圖透過製造與散布特定敘事，來操縱圍繞著美國AI發展與廣泛科技政策的公共辯論，不過這些行動最終幾乎未能…'
-  url: https://www.techbang.com/posts/130195-openai-china-ai-influence-us-data-centers
-  source: Techbang.com
-- title: 豪雨釀禍？台南路面突塌陷　水管破裂、路標桿傾斜畫面曝光
-  description: 即時中心／温芸萱報導台南受連續降雨影響，仁德區中正路二段今（15）日凌晨4時許驚傳路面坍塌。初步研判疑為地下自來水管線破裂，導致路基遭沖刷流失而塌陷，已通報自來水公司前往勘驗及搶修，並協調交通局與相關單位處理。警方已在現場實施交通管制，提醒用路人減速慢行、注意安全。至於事故是否與近日豪雨有直接關聯，以及是否波及其他地下管線，仍待進一步調查釐清。
-  url: https://tw.news.yahoo.com/%E8%B1%AA%E9%9B%A8%E9%87%80%E7%A6%8D%EF%BC%9F%E5%8F%B0%E5%8D%97%E8%B7%AF%E9%9D%A2%E7%AA%81%E5%A1%8C%E9%99%B7-%E6%B0%B4%E7%AE%A1%E7%A0%B4%E8%A3%82%E3%80%81%E8%B7%AF%E6%A8%99%E6%A1%BF%E5%82%BE%E6%96%9C%E7%95%AB%E9%9D%A2%E6%9B%9D%E5%85%89-025504277.html
-  source: Yahoo Entertainment
+    張晉瑞直言，在多重危機交錯的今天，網路安全早已不再隸屬資訊部門的防護範疇，而是直接決…'
+  url: https://www.ithome.com.tw/news/176614
+  source: Ithome.com.tw
+- title: 亞馬遜首度公開 2025 年資料中心用水報告，宣稱耗水強度低於微軟、Google等 AI 巨頭
+  description: 亞馬遜（Amazon）近日首次系統性揭露其全球資料中心用水情況，試圖回應外界對人工智慧基礎設施耗水的質疑。公司表示，2025 年其資料中心共消耗約
+    25 億加侖水（約 94.6 億升），較 2024 年下降約 2%，在資料中心規模持續擴張下仍出現年減，並首次對外提供以用電量計算的用水強度指標，指出其...
+  url: https://technews.tw/2026/06/15/amazon-claims-its-data-centers-are-7x-more-water-efficient-than-industry-average/
+  source: Technews.tw
+- title: 高通据悉洽谈收购AI芯片初创企业Tenstorrent
+  description: 6月16日，据报道，高通正在洽谈收购初创公司Tenstorrent，两家公司讨论的价格至少在80亿至100亿美元之间，谈判仍在进行，价格可能会有调整，磋商也有可能会破裂。（界面）
+  url: https://36kr.com/newsflashes/3855070663464192
+  source: 36kr.com
+- title: AI開發平臺Langflow路徑遍歷漏洞已被用於實際攻擊
+  description: 近日資安公司VulnCheck於職場社群網站LinkedIn提出警告，他們於6月8日發現有人嘗試利用CVE-2026-5027的跡象，此為大型語言模型開發工具Langflow的路徑遍歷漏洞，攻擊者有機會用來遠端執行任意程式碼，該公司看到有人在蜜罐陷阱試圖利用漏洞，並成功進行路徑遍歷，寫入看起來像是測試用的檔案。
+  url: https://www.ithome.com.tw/news/176593
+  source: Ithome.com.tw
+- title: AI 定價權反映競爭力 小摩升智譜目標價、降 MiniMax
+  description: 綜合港媒及中媒報導，在人工智慧（AI）需求仍超過推理供給的市場環境下，降價不是主動示好，而是競爭力不足的自我認證。 摩根大通發布研究報告，以此一邏輯為核心，對中國兩家上市AI模型公司做出截然相反的評級判斷，維持智譜的「增持」評級，並大幅上調目標價47%，由950港元上調至1,400港元；而將Mini...
+  url: https://technews.tw/2026/06/15/ai-pricing-power-reflects-competitiveness-jpmorgan-raises-zhipu-target-price-lowers-minimax/
+  source: Technews.tw
+- title: 技嘉擴大 AI TOP 生態系版圖，迎接 AI Agent 新時代
+  description: 全球電腦領導品牌技嘉科技於 COMPUTEX 2026 持續推進地端運算願景，進一步擴展 AI TOP 生態系。AI TOP 聚焦「在地端實現
+    AI」，是一套專為地端 AI 運算打造的完整生態系，透過專屬硬體與最佳化系統整合，降低 AI 開發門檻。隨著 AI Agent 持續進化，從對話工具逐步發展...
+  url: https://technews.tw/2026/06/15/gigabyte-expands-ai-top-ecosystem-ai-agent-new-era/
+  source: Technews.tw
+- title: 【資安日報】6月15日，美國政府禁止外國人士使用Claude Fable
+  description: 甫發表3天，具備與Mythos同等能力的Claude&nbsp;Fable 5、Mythos 5，傳出美國政府以國家安全為由，要求Anthropic禁止外國人存取，目前該公司緊急宣布全面暫停開放
+  url: https://www.ithome.com.tw/news/176604
+  source: Ithome.com.tw
